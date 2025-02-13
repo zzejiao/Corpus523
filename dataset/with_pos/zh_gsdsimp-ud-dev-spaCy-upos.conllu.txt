@@ -1,0 +1,1500 @@
+同样，施力的大小不同，引起的加速度不同，最终的结果也不一样，亦可以从向量的加成性来看。
+同样 ， 施力 的 大小 不同 ， 引起 的 加速度 不同 ， 最终 的 结果 也 不 一样 ， 亦 可以 从 向量 的 加成性 来看 。
+ADV PUNCT PROPN PART NOUN VERB PUNCT VERB PART NOUN VERB PUNCT ADJ PART NOUN ADV ADV VERB PUNCT ADV VERB ADP NOUN PART NOUN PART PUNCT
+大多数的加长型礼车则是租车公司的财产。
+大多数 的 加长型 礼车 则 是 租车 公司 的 财产 。
+NUM PART PROPN NOUN ADV VERB NOUN NOUN PART NOUN PUNCT
+这种车辆如果归私人拥有，多半会设置昂贵的音频设备、电视机、影碟机，以及吧台和冰箱。
+这种 车辆 如果 归私人 拥有 ， 多半 会 设置 昂贵 的 音频 设备 、 电视机 、 影碟机 ， 以及 吧 台 和 冰箱 。
+DET NOUN SCONJ NOUN VERB PUNCT ADV VERB VERB ADJ PART NOUN NOUN PUNCT NOUN PUNCT NOUN PUNCT CCONJ PART PROPN CCONJ NOUN PUNCT
+动作冒险游戏（A-AVG）：是冒险游戏的分支，它融合了动作游戏的一些特征。
+动作 冒险 游戏 （ A - AVG ） ： 是 冒险 游戏 的 分支 ， 它 融合 了 动作 游戏 的 一些 特征 。
+NOUN NOUN NOUN PUNCT NUM PUNCT PROPN PUNCT PUNCT VERB NOUN NOUN PART NOUN PUNCT PRON VERB PART NOUN NOUN PART NUM NOUN PUNCT
+其测试包含了美术治疗法，认知行为治疗和洞察疗法，同时给行为分析提供了一个理论性的交流平台。
+其 测试 包含 了 美术 治疗法 ， 认知 行为 治疗 和 洞察 疗法 ， 同时 给 行为 分析 提供 了 一个 理论性 的 交流 平台 。
+PRON NOUN VERB PART NOUN NOUN PUNCT NOUN NOUN VERB CCONJ ADJ NOUN PUNCT ADV ADP NOUN VERB VERB PART NUM NOUN PART NOUN NOUN PUNCT
+数百万的巧克力棒被撤下柜台，而玛氏则中断了生产，公司损失达四百五十万美元。
+数百万 的 巧克力 棒 被 撤下 柜台 ， 而 玛氏 则 中断 了 生产 ， 公司 损失 达 四百五十万 美元 。
+NUM PART PROPN ADV X VERB NOUN PUNCT ADV NOUN ADV VERB PART NOUN PUNCT NOUN NOUN VERB NUM NUM PUNCT
+努克的经济以渔业为主，1960年代，鳕鱼业相当发达，现已没落，目前主要出产螃蟹和大比目鱼。
+努克 的 经济 以 渔业 为主 ， 1960年代 ， 鳕 鱼业 相当 发达 ， 现 已 没落 ， 目前 主要 出产 螃蟹 和 大 比目鱼 。
+NOUN PART NOUN ADP NOUN VERB PUNCT NUM PUNCT VERB NOUN ADV VERB PUNCT ADV ADV VERB PUNCT NOUN ADV VERB NOUN CCONJ ADJ NOUN PUNCT
+随后爱斯基摩人和维京人相继定居于此。
+随后 爱斯基 摩人 和 维京人 相继 定居于 此 。
+ADV NOUN VERB ADP PROPN ADV VERB PRON PUNCT
+五月二十一日，努尔哈赤出城迎接前来沈阳的科尔沁部奥巴贝勒。
+五月 二十一日 ， 努尔哈赤 出城 迎接 前来 沈阳 的 科尔 沁部 奥巴贝勒 。
+NOUN NOUN PUNCT PROPN VERB VERB VERB PROPN PART PROPN ADJ PROPN PUNCT
+他花费了许多时间来比较加拿大地质调查局博物馆中的恐龙化石。
+他 花费 了 许多 时间 来 比较 加拿大 地质 调查局 博物馆 中 的 恐龙 化石 。
+PRON VERB PART NUM NOUN PART ADV PROPN NOUN NOUN NOUN PART PART NOUN NOUN PUNCT
+1355年，勃兰登堡被神圣罗马帝国皇帝查理四世升为选侯国。
+1355年 ， 勃兰 登堡 被 神圣 罗马 帝国 皇帝 查理 四世升 为 选侯国 。
+NOUN PUNCT NOUN NOUN X PROPN PROPN NOUN NOUN VERB NUM VERB NOUN PUNCT
+但是迪士尼的公主们不会都太局限于一个范围之内了吗？
+但是 迪士尼 的 公主们 不 会 都 太 局限于 一个 范围 之内 了 吗 ？
+ADV PROPN PART NOUN ADV VERB ADV ADV VERB NUM NOUN PART PART PART PUNCT
+华特迪士尼首次邀请数名香港人气博客，参与动画《勇敢传说之幻险森林》配音工作，让他们与其他明星及专业配音员齐齐声演动画。
+华特迪士尼 首次 邀请 数 名 香港 人气 博客 ， 参与 动画 《 勇敢 传说 之 幻险 森林 》 配音 工作 ， 让 他们 与 其他 明星 及 专业 配音员 齐齐 声演 动画 。
+PROPN ADV VERB NUM NUM PROPN NOUN NOUN PUNCT VERB VERB PUNCT ADJ VERB PART NOUN NOUN PUNCT NOUN NOUN PUNCT VERB PRON ADP DET NOUN CCONJ NOUN NOUN ADV VERB VERB PUNCT
+1594年秋，在与特兰西瓦尼亚和摩尔达维亚签订盟约之后，米哈伊起兵反抗奥斯曼帝国，参加神圣罗马帝国发起的十三年战争。
+1594年 秋 ， 在 与 特兰 西瓦尼亚 和 摩尔达维亚 签订 盟约 之后 ， 米哈伊 起兵 反抗 奥斯曼帝国 ， 参加 神圣 罗马 帝国 发起 的 十三 年 战争 。
+NOUN NOUN PUNCT ADP ADP NOUN PROPN CCONJ PROPN VERB VERB PART PUNCT PROPN VERB VERB PROPN PUNCT VERB PROPN PROPN NOUN VERB PART NUM NUM NOUN PUNCT
+在平原、塔、洞窟、海或迷宫中移动时，玩家将会和随机遇到的敌人作战。
+在 平原 、 塔 、 洞窟 、 海 或 迷宫 中 移动 时 ， 玩家 将 会 和 随机 遇到 的 敌人 作战 。
+ADP NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN CCONJ NOUN PART VERB PART PUNCT NOUN ADV VERB ADP VERB VERB PART NOUN VERB PUNCT
+当《Game Informer》提到游戏在日本的知名度时甚至说“四百万日本人可能错了”。
+当 《 Game Informer 》 提到 游戏 在 日本 的 知名度 时 甚至 说 “ 四百万日 本人 可能 错 了 ” 。
+ADP PUNCT NOUN NOUN PUNCT VERB NOUN ADP PROPN PART NOUN PART ADV VERB PUNCT NUM PRON ADV VERB PART PUNCT PUNCT
+史莱姆是由鸟山明为《勇者斗恶龙》设计的，并成为了系列官方的吉祥物。
+史莱姆 是 由 鸟山明 为 《 勇者 斗恶龙 》 设计 的 ， 并 成为 了 系列 官方 的 吉祥物 。
+PROPN VERB ADP NOUN VERB PUNCT NOUN NOUN PUNCT VERB PART PUNCT ADV VERB PART NOUN NOUN PART NOUN PUNCT
+日本FC平台的前两作通过密码记忆系统记录进度。
+日本 FC 平台 的 前 两 作 通过 密码 记忆 系统 记录 进度 。
+PROPN NOUN NOUN PART DET NUM NOUN VERB PROPN NOUN NOUN NOUN NOUN PUNCT
+由于这次失事原因涉及很多敏感的争议性，因此最后仍未有一个具体及统一的事故调查报告。
+由于 这次 失事 原因 涉及 很多 敏感 的 争议性 ， 因此 最后 仍 未 有 一个 具体 及 统一 的 事故 调查 报告 。
+ADP ADJ NOUN NOUN VERB NUM ADJ PART NOUN PUNCT ADV ADV ADV ADV VERB DET ADJ CCONJ NOUN PART NOUN NOUN NOUN PUNCT
+年复一年，无论刮风下雨，不顾警察和暴徒骚扰，白衣女士们坚持着她们无声的周日步行，抗议关押古巴的所有良心犯。
+年复一年 ， 无论 刮风 下雨 ， 不顾 警察 和 暴徒 骚扰 ， 白衣 女士们 坚持 着 她们 无声 的 周日 步行 ， 抗议 关押 古巴 的 所有 良心犯 。
+VERB PUNCT ADV VERB VERB PUNCT VERB NOUN CCONJ NOUN VERB PUNCT ADJ NOUN VERB PART PRON VERB PART NOUN VERB PUNCT VERB VERB PROPN PART DET NOUN PUNCT
+一个家庭收入的中间数为$16,250，家庭收入的中间数为$16,250，国民平均收入为$5,467。
+一个 家庭 收入 的 中间 数 为 $ 16 , 250 ， 家庭 收入 的 中间 数 为 $ 16 , 250 ， 国民 平均 收入 为 $5 , 467 。
+NUM NOUN NOUN PART NOUN NOUN VERB NOUN NUM PUNCT NUM PUNCT NOUN NOUN PART NOUN NOUN VERB NOUN NUM PUNCT NUM PUNCT NOUN ADJ NOUN VERB PUNCT PUNCT NUM PUNCT
+劳特塔瓦尔湖是印度尼西亚的湖泊，位于苏门答腊岛北部，由亚齐特别行政区负责管辖，长17公里、宽3公里，面积70平方公里，海拔高度1,100米，最大水深80米，蓄水量25亿立方米。
+劳特 塔瓦尔湖 是 印度尼西亚 的 湖泊 ， 位于 苏门 答腊岛 北部 ， 由 亚齐 特别 行政区 负责 管辖 ， 长17 公里 、 宽 3 公里 ， 面积 70 平方公里 ， 海拔 高度 1 , 100米 ， 最 大 水深 80 米 ， 蓄水量 25亿 立方米 。
+NOUN PROPN VERB PROPN PART NOUN PUNCT VERB PROPN NOUN NOUN PUNCT ADP PROPN ADJ NOUN VERB NOUN PUNCT NUM NUM PUNCT VERB NUM NUM PUNCT NOUN NUM NUM PUNCT NOUN ADV NUM PUNCT NUM PUNCT ADV ADJ NOUN NUM NUM PUNCT NOUN NUM NUM PUNCT
+总面积24.44平方公里，人口3108人，人口密度127.2人/平方公里（2009年）。
+总面积 24 . 44 平方公里 ， 人口 3108 人 ， 人口 密度 127 . 2 人 / 平方公里 （ 2009年 ） 。
+PROPN NUM PUNCT NUM NUM PUNCT NOUN NUM NOUN PUNCT NOUN NOUN NUM PUNCT NUM NOUN PUNCT NUM PUNCT NOUN PUNCT PUNCT
+包白铁路全线共设有车站19座。
+包白 铁路 全线 共 设有 车站 19 座 。
+VERB NOUN ADV ADV VERB NOUN NUM NUM PUNCT
+包盈盈所在的第三区，有卫冕冠军、6号种子玛丽埃尔·扎格尼斯。
+包盈 盈所 在 的 第三 区 ， 有 卫冕 冠军 、 6号 种子 玛丽埃尔·扎格尼斯 。
+NOUN NOUN VERB PART NUM NOUN PUNCT VERB NOUN NOUN PUNCT NUM NOUN NOUN PUNCT
+由于包浩斯学校对于现代建筑学的深远影响，今日的包浩斯早已不单是指学校，而是其倡导的建筑流派或风格的统称，注重建筑造型与实用机能合而为一。
+由于 包浩斯 学校 对于 现代 建筑学 的 深远 影响 ， 今日 的 包浩斯 早已 不单 是 指 学校 ， 而是 其 倡导 的 建筑 流派 或 风格 的 统称 ， 注重 建筑 造型 与 实用 机能 合而为一 。
+ADP PROPN NOUN ADP ADJ NOUN PART ADJ NOUN PUNCT NOUN PART NOUN ADV ADV VERB VERB NOUN PUNCT ADV PRON VERB PART NOUN NOUN CCONJ NOUN PART NOUN PUNCT VERB NOUN NOUN CCONJ ADJ NOUN NOUN PUNCT
+1956年，首次推行的许多改革措施在卡达尔当政期间虽依然保留，但在外交上却没有任何大的改变。
+1956年 ， 首次 推行 的 许多 改革 措施 在 卡达尔 当政 期间 虽 依然 保留 ， 但 在 外交 上 却 没有 任何 大 的 改变 。
+NOUN PUNCT ADV VERB PART NUM NOUN NOUN ADP PROPN VERB NOUN SCONJ ADV VERB PUNCT ADV ADP NOUN PART ADV VERB DET ADJ PART NOUN PUNCT
+化外之地，文明地区以外的地方，即没有开化的地方。
+化外 之 地 ， 文明 地区 以外 的 地方 ， 即 没有 开化 的 地方 。
+NOUN PART NOUN PUNCT ADJ NOUN PART PART NOUN PUNCT ADV VERB VERB PART NOUN PUNCT
+地下一层南北两侧设有公交站，地下二层为地铁4号线，地下三层为正在建设的地铁14号线。
+地下 一 层 南北 两侧 设有 公交站 ， 地下 二 层 为 地铁 4号线 ， 地下 三 层 为 正在 建设 的 地铁 14号线 。
+NOUN NUM NUM NOUN NOUN VERB NOUN PUNCT NOUN NUM NUM ADP NOUN VERB PUNCT NOUN NUM NUM VERB ADV VERB PART NOUN NUM PUNCT
+它的前身是1901年的永定门站，到1957年至1958年扩建为辅助客运站，2006年至2008年拆除重建。
+它 的 前身 是 1901年 的 永定 门站 ， 到 1957年 至 1958年 扩建 为 辅助 客运站 ， 2006年 至 2008年 拆除 重建 。
+PRON PART NOUN VERB NOUN PART NOUN NOUN PUNCT ADP NOUN CCONJ NOUN VERB VERB ADJ NOUN PUNCT NOUN CCONJ NOUN VERB NOUN PUNCT
+当时国安二队的年轻球员普遍达不到一队的水平，以至于联赛开始时国安一线队的注册队员只有十八名。
+当时 国安 二队 的 年轻 球员 普遍 达 不 到 一 队 的 水平 ， 以至于 联赛 开始 时 国安 一线队 的 注册 队员 只有 十八 名 。
+NOUN NOUN NUM PART ADJ NOUN ADV VERB ADV VERB NUM NUM PART NOUN PUNCT ADV NOUN VERB PART NOUN ADV PART NOUN NOUN VERB NUM NUM PUNCT
+更新日期：2013年8月26日本赛季，北京国安再次提前一轮锁定联赛季军，由于亚足联确认中超联赛获得3.5个亚冠联赛小组赛的直接参赛席位，故国安队获得了下赛季亚冠联赛的席位，但需等到中国足协杯赛事结束后方可确定是否能够直接晋级小组赛。
+更新 日期 ： 2013年 8月 26日 本 赛季 ， 北京 国安 再次 提前 一 轮 锁定 联赛 季军 ， 由于 亚足 联确 认中 超联赛 获得 3.5 个 亚冠 联赛 小组赛 的 直接 参赛 席位 ， 故 国安队 获得 了 下赛 季亚 冠联赛 的 席位 ， 但 需 等到 中国 足协杯 赛事 结束 后方 可 确定 是否 能够 直接 晋级 小组赛 。
+NOUN NOUN PUNCT NOUN NOUN NUM NUM NOUN PUNCT PROPN NOUN ADV VERB NUM NUM VERB NOUN NOUN PUNCT ADP NOUN VERB VERB NOUN VERB NUM NUM PROPN NOUN NOUN PART ADJ VERB NOUN PUNCT ADV NOUN VERB PART NOUN NOUN NOUN PART NOUN PUNCT ADV VERB VERB PROPN NOUN NOUN VERB PART VERB VERB VERB VERB ADV NOUN NOUN PUNCT
+2008年，该工程并未完工。
+2008年 ， 该 工程 并 未 完工 。
+NOUN PUNCT DET NOUN ADV ADV VERB PUNCT
+北京外城共有七门，南面三门，东西各一门，此外还有两座便门。
+北京 外城 共有 七 门 ， 南面 三门 ， 东西 各 一 门 ， 此外 还有 两 座 便门 。
+PROPN NOUN VERB NUM NUM PUNCT NOUN NOUN PUNCT NOUN DET NUM NUM PUNCT ADV VERB NUM NUM NOUN PUNCT
+瓮城为元朝末年所修，因为当时崇仁门为东垣正中城门，因此瓮城几乎为正方形，南北宽68米，东西深62米，南面辟闸楼、券门。
+瓮城 为 元朝 末年 所 修 ， 因为 当时 崇仁门 为 东垣 正中 城门 ， 因此 瓮城 几乎 为 正方形 ， 南北 宽 68 米 ， 东西 深 62 米 ， 南面 辟闸楼 、 券门 。
+ADV ADP ADJ NOUN PART VERB PUNCT ADP NOUN PROPN ADP PROPN NOUN NOUN PUNCT ADV ADV ADV ADP NOUN PUNCT NOUN VERB NUM NUM PUNCT NOUN VERB NUM NUM PUNCT NOUN NOUN PUNCT VERB PUNCT
+该部位于北京大学医学部逸夫楼7楼。
+该 部位 于 北京 大学 医学部 逸夫楼 7 楼 。
+DET NOUN ADP PROPN NOUN NOUN NOUN NUM NOUN PUNCT
+2010年1月7日，北京市教育委员会正式作出批复，要求该校停止体制改革试点，加入公立校行列。
+2010年 1月 7日 ， 北京市 教育 委员会 正式 作出 批复 ， 要求 该 校 停止 体制 改革 试点 ， 加入 公立 校 行列 。
+NOUN NOUN NOUN PUNCT PROPN NOUN NOUN ADV VERB NOUN PUNCT VERB DET NOUN VERB NOUN NOUN NOUN PUNCT VERB ADJ NOUN NOUN PUNCT
+而且学校的伙食和住宿条件也多年遭到在校生的诟病。
+而且 学校 的 伙食 和 住宿 条件 也 多年 遭到 在校生 的 诟病 。
+ADV NOUN PART NOUN CCONJ NOUN NOUN ADV ADV VERB NOUN PART NOUN PUNCT
+支线从朝阳门到杨闸环岛后继续向东行驶，上京哈高速后到达通州武夷花园小区。
+支线 从 朝阳门 到 杨闸 环岛 后 继续 向东 行驶 ， 上京 哈 高速 后 到达 通州 武夷 花园 小区 。
+NOUN ADP NOUN ADP PROPN NOUN PART VERB VERB VERB PUNCT VERB INTJ NOUN PART VERB NOUN NOUN NOUN NOUN PUNCT
+车站装有屏蔽门，采用与轨道交通类似的管理方法，但2号线并没有全线的专用路权。
+车站 装有 屏蔽门 ， 采用 与 轨道 交通 类似 的 管理 方法 ， 但 2号线 并没有 全线 的 专用 路权 。
+NOUN VERB NOUN PUNCT VERB ADP NOUN NOUN VERB PART NOUN NOUN PUNCT ADV NOUN ADV ADJ PART ADJ NOUN PUNCT
+1978年，学院恢复了本科生招生，该届学生在1982年成为北京电影学院首批被授予学士学位的毕业生，在这以后的三十多年所培养的各个专业的众多学生，成为了中国乃至世界著名的电影人，为中国电影在全世界的影响做出了重要的贡献。
+1978年 ， 学院 恢复 了 本科生 招生 ， 该 届 学生 在 1982年 成为 北京 电影 学院 首批 被 授予 学士 学位 的 毕业生 ， 在 这 以后 的 三十多 年 所 培养 的 各个 专业 的 众多 学生 ， 成为 了 中国 乃至 世界 著名 的 电影人 ， 为 中国 电影 在 全世界 的 影响 做出 了 重要 的 贡献 。
+NOUN PUNCT NOUN VERB PART NOUN VERB PUNCT DET NUM NOUN ADP NOUN VERB PROPN NOUN NOUN ADV X VERB NOUN NOUN PART NOUN PUNCT ADP PRON PART PART NUM NUM PART VERB PART DET NOUN PART ADJ NOUN PUNCT VERB PART PROPN CCONJ NOUN ADJ PART NOUN PUNCT ADP PROPN NOUN ADP NOUN PART NOUN VERB PART VERB PART NOUN PUNCT
+2009年报考人数达1.3万余人次，计划招生只有440人，淘汰率超过96%。
+2009年 报考 人数 达 1. 3万余 人次 ， 计划 招生 只有 440 人 ， 淘汰率 超过 96% 。
+NOUN NOUN NOUN VERB NUM NUM NUM PUNCT VERB NOUN ADV NUM NOUN PUNCT NOUN VERB VERB PUNCT
+北京站是当时中国大陆规模最大、设备最先进的铁路车站，也是第一个现代化大型铁路客运站。
+北京站 是 当时 中国 大陆 规模 最 大 、 设备 最 先进 的 铁路 车站 ， 也 是 第一 个 现代化 大型 铁路 客运站 。
+PROPN VERB NOUN PROPN NOUN NOUN ADV VERB PUNCT NOUN ADV VERB PART NOUN NOUN PUNCT ADV VERB NUM NUM ADJ ADJ NOUN NOUN PUNCT
+为了改善中央空档的视觉效果，故借鉴中国传统城门楼的设计，设计成一个宽45米、高50米的“门洞”。
+为了 改善 中央 空档 的 视觉 效果 ， 故 借鉴 中国 传统 城门楼 的 设计 ， 设计 成 一个 宽 45 米 、 高 50 米 的 “ 门洞 ” 。
+ADP VERB NOUN NOUN PART NOUN NOUN PUNCT ADV VERB PROPN ADJ NOUN PART NOUN PUNCT VERB VERB NUM VERB NUM NUM PUNCT ADJ NUM NUM PART PUNCT NOUN PUNCT PUNCT
+他每天赶着马车到灾区逐村收养灾童，总人数近800名。
+他 每天 赶着 马车 到 灾区 逐村 收养 灾童 ， 总 人数 近 800 名 。
+PRON ADV NOUN NOUN VERB NOUN ADV VERB NOUN PUNCT ADJ NOUN ADV NUM NUM PUNCT
+在北印度洋产生的气旋风暴是由印度气象部新德里台风中心命名，而在该地区的热带低气压的编号都以A/B字母作结。
+在 北 印度洋 产生 的 气旋 风暴 是 由 印度 气象部 新德里 台风 中心 命名 ， 而 在 该 地区 的 热带 低气 压 的 编号 都 以 A / B字母 作结 。
+ADP NOUN PROPN VERB PART NOUN NOUN VERB ADP PROPN PROPN PROPN NOUN NOUN VERB PUNCT ADV ADP DET NOUN PART NOUN VERB VERB PART NOUN ADV ADP NOUN PUNCT NOUN VERB PUNCT
+此气旋季之风暴通常都会于4月至12月期间形成。
+此 气 旋季 之 风暴 通常 都会 于 4月 至 12月 期间 形成 。
+DET NOUN VERB PART NOUN ADV VERB ADP NOUN CCONJ NOUN NOUN VERB PUNCT
+天帝军得知真相后，也为法鲁克与拳四郎的对决划下休止符。
+天帝军 得知 真相 后 ， 也 为 法鲁克 与 拳四郎 的 对 决划 下 休止符 。
+NOUN VERB NOUN PART PUNCT ADV ADP NOUN CCONJ NOUN PART ADP NOUN PART NOUN PUNCT
+而解药的出现也使得他们在公众中得到了威望，并将北方之火推上权力宝座。
+而 解药 的 出现 也 使得 他们 在 公众 中 得到 了 威望 ， 并 将 北方 之 火 推上 权力 宝座 。
+PART VERB PART NOUN ADV VERB PRON ADP NOUN PART VERB PART NOUN PUNCT CCONJ X NOUN PART NOUN VERB NOUN NOUN PUNCT
+那股充满狂气的演技力，并非只有身为演员的狂气，而是表现于“演技”上的狂气。
+那 股 充满 狂气 的 演技力 ， 并非 只有 身为 演员 的 狂气 ， 而是 表现 于 “ 演技 ” 上 的 狂气 。
+DET NUM VERB NOUN PART NOUN PUNCT ADV ADV VERB NOUN PART NOUN PUNCT ADV VERB ADP PUNCT NOUN PUNCT PART PART NOUN PUNCT
+北极土著民族一直与外界接触甚少，直到现代，与其他地区的交流才开始变得频繁。
+北极 土著 民族 一直 与 外界 接触 甚少 ， 直到 现代 ， 与 其他 地区 的 交流 才 开始 变得 频繁 。
+PROPN ADJ NOUN ADV ADP NOUN VERB NOUN PUNCT VERB NOUN PUNCT ADP DET NOUN PART NOUN ADV VERB VERB VERB PUNCT
+为了避免此等事故发生，飞机的所有装置，包括发动机、辅助动力装置、电力、液压系统等，都需要更为严格的防护性维修。
+为了 避免 此 等 事故 发生 ， 飞机 的 所有 装置 ， 包括 发动机 、 辅助 动力 装置 、 电力 、 液压 系统 等 ， 都 需要 更为 严格 的 防护性 维修 。
+ADP VERB DET PART NOUN VERB PUNCT NOUN PART DET NOUN PUNCT VERB NOUN PUNCT VERB NOUN NOUN PUNCT NOUN PUNCT NOUN NOUN PART PUNCT ADV VERB ADV VERB PART NOUN NOUN PUNCT
+由于北极地区的盛行西风一般强度较弱，再加上北极航线更接近大圆航线、航程较短，因此，越来越多往西飞（例如从纽约到香港）的航班，都会取道北极航线，节省时间之余，还可以节省燃料，并增加有效负载。
+由于 北极 地区 的 盛行 西风 一般 强度 较弱 ， 再 加上 北极 航线 更 接近 大圆 航线 、 航程 较 短 ， 因此 ， 越来越 多 往 西飞 （ 例如 从 纽约 到 香港 ） 的 航班 ， 都会 取道 北极 航线 ， 节省 时间 之 余 ， 还 可以 节省 燃料 ， 并 增加 有效 负载 。
+ADP PROPN NOUN PART NOUN NOUN ADJ NOUN NOUN PUNCT ADV VERB PROPN NOUN ADV VERB NOUN NOUN PUNCT NOUN ADV VERB PUNCT ADV PUNCT ADV ADV ADP NOUN PUNCT ADV ADP PROPN ADP PROPN PUNCT PART NOUN PUNCT ADV VERB PROPN NOUN PUNCT VERB NOUN PART NOUN PUNCT ADV VERB VERB NOUN PUNCT CCONJ VERB ADJ NOUN PUNCT
+五岁后，雌性约2.5米长，300公斤，成长速度减慢很多，但雄性可能到五到八岁性发育完全之后才停止成长，到那时长到3.33 m左右，而且胸，颈和上身宽大，重量达到600-1100公斤。
+五 岁 后 ， 雌性 约 2.5 米 长 ， 300 公斤 ， 成长 速度 减慢 很多 ， 但 雄性 可能 到 五 到 八岁性 发育 完全 之后 才 停止 成长 ， 到 那时 长 到 3 . 33 m 左右 ， 而且 胸 ， 颈 和 上身 宽大 ， 重量 达到 600 - 1100 公斤 。
+NUM NUM PART PUNCT NOUN ADV NUM NUM VERB PUNCT NUM NUM PUNCT NOUN NOUN VERB NUM PUNCT ADV ADV VERB ADP NUM CCONJ NOUN VERB VERB PART ADV VERB NOUN PUNCT ADP NOUN VERB VERB NUM PUNCT NUM NOUN PART PUNCT ADV NOUN PUNCT VERB CCONJ NOUN VERB PUNCT NOUN VERB NUM PUNCT NUM NUM PUNCT
+位于校园北区的重要文化遗产札幌农学校第二农场，是根据克拉克博士的构想而建立的模范家畜饲育场，多为明治时期的建筑物。
+位于 校园 北区 的 重要 文化 遗产 札幌 农 学校 第二 农场 ， 是 根据 克拉克 博士 的 构想 而 建立 的 模范 家畜 饲育场 ， 多 为 明治 时期 的 建筑物 。
+VERB NOUN NOUN PART ADJ NOUN NOUN VERB NOUN NOUN NUM NOUN PUNCT VERB ADP PROPN NOUN PART NOUN PART VERB PART NOUN NOUN NOUN PUNCT ADV ADP NOUN NOUN PART NOUN PUNCT
+市内后来也铺设了有轨电车系统，地段亦被投机者所觊觎。
+市内 后来 也 铺设 了 有轨 电车 系统 ， 地段 亦 被 投机者 所 觊觎 。
+NOUN ADV ADV VERB PART ADJ NOUN NOUN PUNCT NOUN ADV X NOUN PART PROPN PUNCT
+天津河北体育场建成后占地面积为20万平方米、建筑面积为4.5万平方米，体育场的看台设有18级台阶，为马蹄形的水泥钢筋建筑。
+天津 河北 体育场 建成 后 占地 面积 为 20万 平方米 、 建筑 面积 为 4.5万 平方米 ， 体育场 的 看台 设有 18 级 台阶 ， 为 马蹄形 的 水泥 钢筋 建筑 。
+PROPN PROPN NOUN VERB PART NOUN NOUN VERB NUM NUM PUNCT NOUN NOUN VERB PUNCT VERB PUNCT NOUN PART NOUN VERB NUM NUM NOUN PUNCT ADP PROPN PART NOUN NOUN NOUN PUNCT
+此后，第18届华北运动会筹备委员会利用天津市政府的26万元拨款和河北省政府的20万元拨款兴建北站体育场，其余款项用于招待运动员和华北运动会工作人员。
+此后 ， 第18 届 华北 运动会 筹备 委员会 利用 天津市 政府 的 26万 元 拨款 和 河北省 政府 的 20万 元 拨款 兴建 北站 体育场 ， 其余 款项 用于 招待 运动员 和 华北 运动会 工作 人员 。
+ADV PUNCT NUM NUM PROPN NOUN NOUN NOUN VERB PROPN NOUN PART NUM NUM NOUN CCONJ PROPN NOUN PART NUM NUM VERB VERB PROPN NOUN PUNCT DET NOUN VERB VERB NOUN CCONJ PROPN NOUN NOUN NOUN PUNCT
+直至2002年8月，将军澳线全线通车，本站变为港岛线及将军澳线的转车站。
+直至 2002年 8月 ， 将军 澳线 全线 通车 ， 本 站 变为 港岛线 及 将军 澳线 的 转车站 。
+VERB NOUN NOUN PUNCT NOUN ADV ADV VERB PUNCT DET VERB VERB NOUN CCONJ NOUN NOUN PART NOUN PUNCT
+于是李朝政府采取措施：一方面加强朝鲜半岛东北面的防务；一方面对图们江南北女真施加压力，给以绝市的制裁。
+于是 李朝 政府 采取 措施 ： 一方面 加强 朝鲜 半岛 东北面 的 防务 ； 一方面 对 图们 江南 北 女真 施加 压力 ， 给以 绝市 的 制裁 。
+ADV PROPN NOUN VERB NOUN PUNCT ADV VERB PROPN NOUN NOUN PART NOUN PUNCT ADV ADP NOUN NOUN NOUN NOUN VERB NOUN PUNCT NOUN NOUN PART NOUN PUNCT
+北黄土沟站是一个大准线上的铁路车站，位于内蒙古自治区丰镇市新城湾乡北黄土沟，建于1996年，目前为四等站，邮政编码为012105。
+北黄 土沟站 是 一个 大 准线 上 的 铁路 车站 ， 位于 内蒙古 自治区 丰镇市 新 城湾 乡北 黄土沟 ， 建于 1996年 ， 目前 为 四等 站 ， 邮政 编码 为 012105 。
+PROPN NOUN VERB NUM ADJ NOUN PART PART NOUN NOUN PUNCT VERB PROPN NOUN NOUN ADJ NOUN NOUN PROPN PUNCT VERB NOUN PUNCT NOUN VERB NOUN NOUN PUNCT NOUN NOUN VERB NUM PUNCT
+鉴于此业务模式取得空前成功，双方扩充娱乐场业务至占据新建业商业中心五层空间，集团与澳博的合作亦因而更趋紧密。
+鉴于 此 业务 模式 取得 空前 成功 ， 双方 扩充 娱乐场 业务 至 占据 新 建业 商业 中心 五 层 空间 ， 集团 与 澳博 的 合作 亦 因而 更 趋 紧密 。
+ADP DET NOUN NOUN VERB ADJ NOUN PUNCT PRON VERB NOUN NOUN CCONJ VERB ADJ VERB NOUN NOUN NUM NUM NOUN PUNCT NOUN CCONJ PROPN PART NOUN ADV ADV ADV VERB VERB PUNCT
+只是在纽约州，就有500多所学校将匹克球设为课程。
+只是 在 纽约州 ， 就 有 500多 所 学校 将 匹克球 设为 课程 。
+ADV ADP PROPN PUNCT ADV VERB NUM NUM NOUN ADV VERB NOUN NOUN PUNCT
+区位论要解决的是经济活动的地理方位及其形成原因的问题。
+区位 论要 解决 的 是 经济 活动 的 地理 方位 及其 形成 原因 的 问题 。
+NOUN NOUN VERB PART VERB NOUN NOUN PART NOUN NOUN CCONJ VERB NOUN PART NOUN PUNCT
+所谓医学生物化学大多是将生物化学中与医学、人体功能较为相关部分整理后所得。
+所谓 医学生 物 化学 大多 是 将 生物 化学 中 与 医学 、 人体 功能 较为 相关 部分 整理 后 所得 。
+ADJ NOUN NOUN NOUN ADV VERB X NOUN NOUN PART ADP NOUN PUNCT NOUN NOUN ADV ADJ NUM NOUN PART NOUN PUNCT
+消费者通过线下十二篮体重秤称重，将数据传输到十二篮体重资料库云端，通过app、官网等终端为消费者推送个性解决方案，实现全程数字化监测管理，确保方案科学和持续性。
+消费者 通过 线下 十二 篮体 重秤 称重 ， 将 数据 传输 到 十二 篮 体重 资料 库云端 ， 通过 app 、 官网 等 终端 为 消费者 推送 个性 解决 方案 ， 实现 全程 数字化 监测 管理 ， 确保 方案 科学 和 持续性 。
+NOUN ADP VERB NUM NOUN VERB NOUN PUNCT X NOUN VERB VERB NUM NUM NOUN NOUN NOUN PUNCT ADP NOUN PUNCT NOUN PART NOUN ADP NOUN VERB NOUN NOUN NOUN PUNCT VERB ADV NOUN NOUN NOUN PUNCT VERB NOUN NOUN CCONJ NOUN PUNCT
+旧街坊改造后，十全街两侧为新建的古典风格建筑，是餐饮业、茶楼酒吧和各式工艺品商店（苏绣、字画古董、紫砂陶器、红木小件）集中的特色街道。
+旧 街坊 改造 后 ， 十 全 街 两侧 为 新建 的 古典 风格 建筑 ， 是 餐饮业 、 茶楼 酒吧 和 各式 工艺品 商店 （ 苏绣 、 字画 古董 、 紫砂 陶器 、 红木 小件 ） 集中 的 特色 街道 。
+ADJ NOUN VERB PART PUNCT NUM DET NOUN NOUN VERB VERB PART ADJ NOUN NOUN PUNCT VERB NOUN PUNCT NOUN NOUN CCONJ NOUN NOUN NOUN PUNCT PROPN PUNCT NOUN NOUN PUNCT PROPN NOUN PUNCT NOUN PROPN PUNCT VERB PART NOUN NOUN PUNCT
+关于十八铜人的具体描述非常分歧。
+关于 十八 铜 人 的 具体 描述 非常 分歧 。
+ADP NOUN NOUN NOUN PART ADJ NOUN ADV VERB PUNCT
+当年为培养“天下最恶的人”，说服十大恶人饶过小鱼儿。
+当年 为 培养 “ 天下 最 恶 的 人 ” ， 说服 十大 恶人 饶 过 小鱼儿 。
+NOUN ADP VERB PUNCT NOUN ADV VERB PART NOUN PUNCT PUNCT VERB NOUN VERB VERB PART NOUN PUNCT
+黑骏马》、《绿化树》、《晚霞消失的时候》、《高山下的花环》、《雪城》、《北京人在纽约》等作品都是获得该奖项的文学作品。
+黑骏马 》 、 《 绿化 树 》 、 《 晚霞 消失 的 时候 》 、 《 高山 下 的 花环 》 、 《 雪城 》 、 《 北京人 在 纽约 》 等 作品 都 是 获得 该奖 项 的 文学 作品 。
+PROPN PUNCT PUNCT PUNCT NOUN NOUN PUNCT PUNCT PUNCT NOUN VERB PART NOUN PUNCT PUNCT PUNCT NOUN PART PART NOUN PUNCT PUNCT PUNCT NOUN PUNCT PUNCT PUNCT NOUN VERB PROPN PUNCT PART NOUN ADV VERB VERB NUM NUM PART NOUN NOUN PUNCT
+本片制作成本超越上一部，达8000万港币，故事背景也与上集截然不同。
+本片 制作 成本 超越 上 一 部 ， 达 8000万 港币 ， 故事 背景 也 与 上集 截然不同 。
+NOUN NOUN NOUN NOUN PART NUM NUM PUNCT VERB NOUN NOUN PUNCT NOUN NOUN ADV ADP NOUN VERB PUNCT
+截至2009年，千禧公园是全芝加哥人气第二高的旅游景点，仅次于海军码头（Navy's Pier）。
+截至 2009年 ， 千禧 公园 是 全 芝加哥 人气 第二 高 的 旅游 景点 ， 仅次于 海军 码头 （ Navy 's Pier ） 。
+ADP NOUN PUNCT NOUN NOUN VERB DET PROPN NOUN NUM VERB PART NOUN NOUN PUNCT VERB NOUN NOUN PUNCT NOUN VERB NOUN PUNCT PUNCT
+老子在本章中主要是向帝王阐述治国之术，要王者注重时政中细微的变化，遵循事物发展规律，顺应自然，以达“无为”而治之目的。
+老子 在 本章 中 主要 是 向 帝王 阐述 治国 之 术 ， 要 王者 注重 时政 中 细微 的 变化 ， 遵循 事物 发展 规律 ， 顺应 自然 ， 以 达 “ 无为 ” 而 治 之 目的 。
+NOUN ADP NOUN PART ADV VERB ADP NOUN VERB VERB PART NOUN PUNCT VERB ADV VERB NOUN PART VERB PART NOUN PUNCT VERB NOUN NOUN NOUN PUNCT VERB NOUN PUNCT PART VERB PUNCT VERB PUNCT PART VERB PART NOUN PUNCT
+升A小调是一个于升A音开始的音乐的小调，组成的音有#A、#B（C）、#C、#D、#E（F）、#F、#G及#A（和声小调）。
+升A 小调 是 一个 于 升 A音 开始 的 音乐 的 小调 ， 组成 的 音有 # A 、 # B （ C ） 、 #C 、 # D 、 # E （ F ） 、 #F 、 # G及#A （ 和 声小调 ） 。
+VERB NOUN VERB ADV ADP VERB NOUN VERB PART NOUN PART NOUN PUNCT VERB PART NOUN PUNCT NUM PUNCT PUNCT NOUN PUNCT NOUN PUNCT PUNCT PROPN PUNCT PUNCT NOUN PUNCT PUNCT NOUN PUNCT PROPN PUNCT PUNCT PROPN PUNCT PUNCT PROPN PUNCT CCONJ PROPN PUNCT PUNCT
+半月山大佛又称资阳大佛，位于四川省资阳市雁江区碑记镇，是一座在山崖石壁上雕刻的佛像。
+半月山 大佛 又 称 资阳 大佛 ， 位于 四川省 资阳市 雁江区 碑记镇 ， 是 一 座 在 山崖 石壁 上 雕刻 的 佛像 。
+NOUN VERB ADV VERB NOUN VERB PUNCT VERB PROPN NOUN NOUN VERB PUNCT VERB NUM NUM ADP NOUN NOUN PART VERB PART NOUN PUNCT
+但其秘密账户最后被半泽查获，资产全遭冻结，身败名裂。
+但 其 秘密 账户 最后 被 半泽 查获 ， 资产 全 遭 冻结 ， 身败名裂 。
+ADV PRON ADJ NOUN ADV X VERB VERB PUNCT NOUN ADV VERB NOUN PUNCT VERB PUNCT
+半腰座椅，亦称半腰位、半截座椅，铁路车辆座位的一种。
+半腰座椅 ， 亦称 半 腰位 、 半 截座椅 ， 铁路 车辆 座位 的 一 种 。
+VERB PUNCT VERB NUM VERB PUNCT NUM NOUN PUNCT NOUN NOUN NOUN PART NUM NUM PUNCT
+在美国人的心目中，华尔街是一个依靠贸易、资本主义和创新，而非殖民主义和掠夺成长的国家和经济系统的象征。
+在 美国人 的 心目 中 ， 华尔街 是 一个 依靠 贸易 、 资本主义 和 创新 ， 而 非 殖民主义 和 掠夺 成长 的 国家 和 经济 系统 的 象征 。
+ADP NOUN PART NOUN PART PUNCT PROPN VERB ADV VERB NOUN PUNCT NOUN CCONJ NOUN PUNCT ADV ADJ NOUN CCONJ VERB VERB PART NOUN CCONJ NOUN NOUN PART NOUN PUNCT
+华尔街的公司反对政府的监督与管制。
+华尔街 的 公司 反对 政府 的 监督 与 管制 。
+PROPN PART NOUN VERB NOUN PART NOUN CCONJ NOUN PUNCT
+华山松（学名：Pinus armandii），是一种松科植物。
+华山松 （ 学名 ： Pinus ar mandii ） ， 是 一 种 松科 植物 。
+PROPN PUNCT NOUN PUNCT PROPN ADV VERB PUNCT PUNCT VERB NUM NUM ADJ NOUN PUNCT
+8月14日，Radzymin失守，波兰第五军团的战线被突破。
+8月 14日 ， Radzymin失守 ， 波兰 第五 军团 的 战线 被 突破 。
+NOUN NOUN PUNCT PROPN PUNCT PROPN NUM NOUN PART NOUN X VERB PUNCT
+他手上有24师的兵力，意图仿效俄军将领Ivan Paskievich在1831年的“十一月起义”中采用的方法去占领华沙。
+他 手上 有 24 师 的 兵力 ， 意图 仿效 俄军 将领 Ivan Paskievich 在 1831年 的 “ 十一月 起义 ” 中 采用 的 方法 去 占领 华沙 。
+PRON NOUN VERB NUM NOUN PART NOUN PUNCT NOUN VERB NOUN NOUN PROPN NOUN ADP NOUN PART PUNCT NOUN NOUN PUNCT PART VERB PART NOUN PART VERB PROPN PUNCT
+这是红军开战以来最接近华沙的时刻，可是形势即将逆转。
+这是 红军 开战 以来 最 接近 华沙 的 时刻 ， 可是 形势 即将 逆转 。
+VERB NOUN VERB PART ADV VERB PROPN PART NOUN PUNCT ADV NOUN ADV VERB PUNCT
+但哈利·华纳表示反对意见：“谁会想要听到演员开口说话呢？”。
+但 哈利·华纳 表示 反对 意见 ： “ 谁 会 想要 听到 演员 开口 说话 呢 ？ ” 。
+ADV PROPN VERB NOUN NOUN PUNCT PUNCT PRON VERB VERB VERB NOUN VERB VERB PART PUNCT PUNCT PUNCT
+在山姆·华纳逝世后，杰克·华纳成为制作部门的领导者，但杰克·华纳也因兄长逝世而遭受打击。
+在 山姆·华纳 逝世 后 ， 杰克·华纳 成为 制作 部门 的 领导者 ， 但 杰克·华纳 也 因 兄长 逝世 而 遭受 打击 。
+ADP PROPN VERB PART PUNCT PROPN VERB NOUN NOUN PART NOUN PUNCT ADV PROPN ADV ADP NOUN VERB PART VERB NOUN PUNCT
+1923年，威廉·莱昂·麦肯齐·金的联邦自由党政府，通过1923年华人移民法案，完全禁止了华人移民。
+1923年 ， 威廉·莱昂·麦肯齐·金 的 联邦 自由党 政府 ， 通过 1923年 华人 移民 法案 ， 完全 禁止 了 华人 移民 。
+NOUN PUNCT PROPN PART NOUN PROPN NOUN PUNCT ADP NOUN NOUN NOUN NOUN PUNCT ADV VERB PART NOUN NOUN PUNCT
+由于加拿大在二战后签署了联合国世界人权宣言，加拿大政府必须废除与宣言抵触的排华法案。
+由于 加拿大 在 二战 后 签署 了 联合国 世界 人权 宣言 ， 加拿大 政府 必须 废除 与 宣言 抵触 的 排华 法案 。
+ADP PROPN ADP PROPN PART VERB PART PROPN NOUN NOUN NOUN PUNCT PROPN NOUN VERB VERB CCONJ NOUN VERB PART NOUN NOUN PUNCT
+这些人主要居住在维多利亚、温哥华、蒙特利尔和多伦多。
+这些 人 主要 居住 在 维多利亚 、 温哥华 、 蒙特利尔 和 多伦多 。
+DET NOUN ADV VERB ADP NOUN PUNCT PROPN PUNCT PROPN CCONJ PROPN PUNCT
+2003年11月15日，法航协和飞机的一批剩余零部件和纪念品在巴黎佳士得拍卖行公开拍卖，有约13,000人到场竞投，共拍卖得320万欧元，部分拍卖品的成交价远超预期。
+2003年 11月 15日 ， 法航协 和 飞机 的 一批 剩余 零部件 和 纪念品 在 巴黎 佳士得 拍卖行 公开 拍卖 ， 有约 13 , 000 人 到场 竞投 ， 共 拍卖 得 320万 欧元 ， 部分 拍卖品 的 成交价 远超 预期 。
+NOUN NOUN NOUN PUNCT NOUN CCONJ NOUN PART NUM ADJ NOUN CCONJ NOUN ADP PROPN PROPN VERB ADV VERB PUNCT VERB NUM NUM NUM NOUN VERB VERB PUNCT ADV VERB PART NUM NUM PUNCT NUM VERB PART NOUN ADV VERB PUNCT
+拍卖的物品包括原来存放在图卢兹市欧洲航天航空防务集团工厂仓库内的超过1000件客机零部件和机舱内装饰物品，其中包括起价为600欧元的乘客座椅、300欧元的应急氧气罩、许多银质和陶瓷餐具以及其他飞机零件，甚至包括一个起落架，并且这些拍卖物品都是从来没有被旅客使用过的。
+拍卖 的 物品 包括 原来 存放 在 图卢兹市 欧洲 航天 航空 防务 集团 工厂 仓库 内 的 超过 1000 件 客机 零部件 和 机舱 内 装饰 物品 ， 其中 包括 起价 为 600 欧元 的 乘客 座椅 、 300 欧元 的 应急 氧气罩 、 许多 银质 和 陶瓷 餐具 以及 其他 飞机 零件 ， 甚至 包括 一个 起落架 ， 并且 这些 拍卖 物品 都 是 从来 没有 被 旅客 使用 过 的 。
+NOUN PART NOUN VERB ADV VERB ADP NOUN PROPN NOUN NOUN PROPN NOUN NOUN NOUN PART PART VERB NUM NUM NOUN NOUN CCONJ NOUN PART VERB NOUN PUNCT NOUN VERB VERB VERB NUM VERB PART NOUN NOUN PUNCT NUM NOUN PART ADJ NOUN PUNCT NUM NOUN CCONJ NOUN NOUN CCONJ DET NOUN NOUN PUNCT ADV VERB DET NOUN PUNCT ADV DET NOUN NOUN ADV VERB ADV ADV X NOUN VERB PART PART PUNCT
+自此卓义峰便拥有“丐帮帮主”的外号。
+自此卓义 峰便 拥有 “ 丐帮 帮主 ” 的 外号 。
+VERB NOUN VERB PUNCT ADJ NOUN PUNCT PART NOUN PUNCT
+虽则日语存在“二段音阶”的变化，但只凭这二音变化，也没有协音的可能。
+虽 则 日语 存在 “ 二 段 音阶 ” 的 变化 ， 但 只 凭 这 二 音 变化 ， 也 没有 协音 的 可能 。
+SCONJ ADV NOUN VERB PUNCT NUM NUM NOUN PUNCT PART NOUN PUNCT ADV ADV ADP DET NUM NOUN NOUN PUNCT ADV VERB VERB PART NOUN PUNCT
+从中华人民共和国建政到文化大革命结束，单县历任县长或革委会主任：
+从 中华 人民 共和国 建政 到 文化大革命 结束 ， 单县 历任 县长 或 革委会 主任 ：
+ADP PROPN NOUN NOUN VERB VERB NOUN VERB PUNCT ADV VERB NOUN CCONJ NOUN NOUN PUNCT
+1960年代后，随着殖民地独立，作为“单独关税区”的非主权政治实体渐渐减少。
+1960年代 后 ， 随着 殖民地 独立 ， 作为 “ 单独 关税区 ” 的 非主权 政治 实体 渐渐 减少 。
+NOUN PART PUNCT ADP NOUN VERB PUNCT ADP PUNCT ADJ NOUN PUNCT PART ADJ NOUN NOUN ADV VERB PUNCT
+尽管概念一般是一致的，两个学科已经发展出稍微不同的术语。
+尽管 概念 一般 是 一致 的 ， 两 个 学科 已经 发展 出 稍微 不同 的 术语 。
+SCONJ NOUN ADV VERB VERB PART PUNCT NUM NUM NOUN ADV VERB VERB ADV VERB PART NOUN PUNCT
+在微积分中，它们是带有平常次序的实数集的子集之间的函数，但是定义仍保持同更一般的序理论定义一样。
+在 微积 分中 ， 它们 是 带有 平常 次序 的 实数 集 的 子集 之间 的 函数 ， 但是 定义 仍 保持 同 更 一般 的 序理论 定义 一样 。
+ADP NOUN VERB PUNCT PRON VERB VERB NOUN NOUN PART NOUN NOUN PART NOUN PART PART NOUN PUNCT ADV NOUN ADV VERB ADP ADV ADJ PART NOUN NOUN VERB PUNCT
+国民革命军面临前后夹攻，因此下令全线撤退。
+国民 革命军 面临 前后 夹攻 ， 因此 下令 全线 撤退 。
+NOUN NOUN VERB NOUN NOUN PUNCT ADV VERB ADV VERB PUNCT
+2009年7月1日，南京大学2007、2008级学生由浦口校区搬迁至新建成的仙林校区。
+2009年 7月 1日 ， 南京 大学 2007 、 2008 级 学生 由 浦口 校区 搬迁 至 新 建成 的 仙林 校区 。
+NOUN NOUN NOUN PUNCT PROPN NOUN NOUN PUNCT NUM NUM NOUN ADP PROPN NOUN VERB ADP ADV VERB PART ADJ NOUN PUNCT
+南京官话曾经长期是中国的官方语言。
+南京 官话 曾经 长期 是 中国 的 官方 语言 。
+PROPN NOUN ADV ADV VERB PROPN PART ADJ NOUN PUNCT
+雅语和吴语融合，逐渐形成南方的江淮官话。
+雅语 和 吴语 融合 ， 逐渐 形成 南方 的 江淮 官话 。
+PROPN CCONJ PROPN VERB PUNCT ADV VERB NOUN PART PROPN NOUN PUNCT
+南京其他重要的水体还包括从六合区流过的滁河、高淳的固城湖、溧水的石臼湖等。
+南京 其他 重要 的 水体 还 包括 从 六合区 流过 的 滁河 、 高淳 的 固城湖 、 溧水 的 石臼湖 等 。
+PROPN DET VERB PART NOUN ADV VERB ADP NOUN NOUN PART NOUN PUNCT ADJ PART NOUN PUNCT PROPN PART PROPN PART PUNCT
+市区除玄武湖外、还有莫愁湖、南湖、琵琶湖、前湖、紫霞湖、月牙湖等天然或人工湖泊。
+市区 除 玄武 湖外 、 还有 莫愁湖 、 南湖 、 琵琶湖 、 前湖 、 紫霞湖 、 月牙湖 等 天然 或 人工 湖泊 。
+NOUN ADP NOUN NOUN PUNCT CCONJ PROPN PUNCT PROPN PUNCT NOUN PUNCT NOUN PUNCT PROPN PUNCT PROPN PART NOUN CCONJ ADJ VERB PUNCT
+温泉是南京市主要的地热资源，著名的有汤山温泉、汤泉温泉、珍珠泉温泉等。
+温泉 是 南京市 主要 的 地热 资源 ， 著名 的 有 汤山 温泉 、 汤泉 温泉 、 珍珠泉 温泉 等 。
+NOUN VERB PROPN ADJ PART NOUN NOUN PUNCT VERB PART VERB NOUN NOUN PUNCT PROPN NOUN PUNCT PROPN NOUN PART PUNCT
+1991年南加州铁路地区管理局成立。
+1991年 南加州 铁路 地区 管理局 成立 。
+NOUN PROPN NOUN NOUN NOUN VERB PUNCT
+该方案最终于2006年11月投票通过。
+该 方案 最终 于 2006年 11月 投票 通过 。
+DET NOUN ADV ADP NOUN NOUN VERB VERB PUNCT
+朝鲜虽然认为渤海国是本国历史，但不使用“南北国时代”这个词汇。
+朝鲜 虽然 认为 渤 海国 是 本国 历史 ， 但 不 使用 “ 南北国 时代 ” 这个 词汇 。
+PROPN SCONJ VERB VERB NOUN VERB NOUN NOUN PUNCT ADV ADV VERB PUNCT PROPN NOUN PUNCT DET NOUN PUNCT
+有人上告说刘三吾暗嘱张信等人故意以陋卷进呈。
+有人 上告 说 刘三吾 暗嘱 张信 等 人 故意 以 陋卷 进呈 。
+VERB NOUN VERB PROPN NOUN PROPN PART NOUN ADV ADP NOUN NOUN PUNCT
+中校威廉‧陆斯佛得（William Drayton Rutherford）是此步兵团的英勇将领之一，死于斯特拉斯堡。
+中校 威廉 ‧陆斯 佛得 （ William Drayton Rutherford ） 是 此 步兵团 的 英勇 将领 之一 ， 死于斯特拉斯堡 。
+NOUN PROPN NOUN PROPN PUNCT PROPN NOUN PROPN PUNCT VERB DET NOUN PART ADJ NOUN NOUN PUNCT VERB PUNCT
+南坑，位于台湾北部，为三姓公溪的支流，位于新竹市香山区中部。
+南坑 ， 位于 台湾 北部 ， 为 三 姓 公溪 的 支流 ， 位于 新竹市 香山区 中部 。
+NOUN PUNCT VERB PROPN NOUN PUNCT ADP NUM NOUN NOUN PART NOUN PUNCT VERB PROPN PROPN NOUN PUNCT
+2007年5月3日，中石油高调宣称冀东南堡油田油气总储量为10.2亿吨，探明储量4.05亿吨，约为30亿桶，媒体称之为“40多年来中国石油勘探最激动人心的发现”。
+2007年 5月 3日 ， 中石油 高调 宣称 冀 东南堡 油田 油气 总 储量 为 10 . 2亿 吨 ， 探明 储量 4. 05亿 吨 ， 约 为 30亿 桶 ， 媒体 称之为 “ 40多 年 来 中国 石油 勘探 最 激动 人心 的 发现 ” 。
+NOUN NOUN NOUN PUNCT NOUN ADV VERB PROPN NOUN NOUN NOUN ADJ NOUN VERB NUM PUNCT NUM NUM PUNCT VERB NOUN NOUN NUM NUM PUNCT ADV VERB NUM NUM PUNCT NOUN VERB PUNCT NUM NUM PART PROPN NOUN NOUN ADV VERB NOUN PART NOUN PUNCT PUNCT
+“文化大革命”中各级教育行政机构陷入瘫痪，1978年后恢复发展。
+“ 文化大革命 ” 中 各级 教育 行政 机构 陷入 瘫痪 ， 1978年 后 恢复 发展 。
+PUNCT PROPN PUNCT PART PRON NOUN NOUN NOUN VERB NOUN PUNCT NOUN PART VERB NOUN PUNCT
+“南曲戏文”跟宋金“北曲杂剧”有很大不同，它在表演的体制与结构上都要比杂剧来得自由，可以根据剧情需要作不同选择，具备了戏剧的特征。
+“ 南曲 戏文 ” 跟 宋金 “ 北曲 杂剧 ” 有 很 大 不同 ， 它 在 表演 的 体制 与 结构 上都 要 比 杂剧 来得 自由 ， 可以 根据 剧情 需要 作 不同 选择 ， 具备 了 戏剧 的 特征 。
+PUNCT NOUN NOUN PUNCT CCONJ PROPN PUNCT NOUN NOUN PUNCT VERB ADV ADJ NOUN PUNCT PRON ADP VERB PART NOUN CCONJ NOUN PART VERB ADP NOUN ADV VERB PUNCT VERB ADP NOUN NOUN VERB ADJ NOUN PUNCT VERB PART NOUN PART NOUN PUNCT
+元朝末年发展到巅峰，明中叶后逐渐被新兴的昆山腔所替代，并演化为明清的主要戏剧----传奇。
+元朝 末年 发展 到 巅峰 ， 明 中 叶后 逐渐 被 新兴 的 昆山腔 所 替代 ， 并 演化 为 明清 的 主要 戏剧 -- -- 传奇 。
+ADJ NOUN VERB VERB NOUN PUNCT NOUN PART VERB ADV X VERB PART ADJ PART VERB PUNCT CCONJ VERB VERB NOUN PART ADJ NOUN PUNCT PUNCT NOUN PUNCT
+理学家朱熹任漳州知府时，也曾禁止当地戏曲演出。
+理学家 朱熹任 漳州 知府 时 ， 也 曾 禁止 当地 戏曲 演出 。
+NOUN PROPN PROPN VERB PART PUNCT ADV ADV VERB NOUN ADV VERB PUNCT
+特殊的地理位置，使本区成为南投市区与中兴新村来往通道，也是中寮乡北部对外主要孔道。
+特殊 的 地理 位置 ， 使 本区 成为 南投 市区 与 中兴 新村 来往 通道 ， 也 是 中寮乡 北部 对外 主要 孔道 。
+VERB PART NOUN NOUN PUNCT VERB ADV VERB PROPN NOUN ADP PROPN NOUN ADJ NOUN PUNCT ADV VERB NOUN NOUN ADJ ADJ NOUN PUNCT
+1946年制的宪法规定无论共和国彼此人口与经济地位，代表人数皆相同，因此可视为南联邦以齐头式平等的权力保障与联邦制政体来解决民族问题的选择。
+1946年制 的 宪法 规定 无论 共和国 彼此 人口 与 经济 地位 ， 代表 人数 皆 相同 ， 因此 可 视为 南联邦 以 齐头式 平等 的 权力 保障 与 联邦 制政 体来 解决 民族 问题 的 选择 。
+NUM PART NOUN VERB SCONJ NOUN PRON NOUN CCONJ NOUN NOUN PUNCT NOUN NOUN ADV VERB PUNCT ADV VERB VERB PROPN ADP NOUN VERB PART NOUN NOUN ADP NOUN NOUN NOUN VERB NOUN NOUN PART NOUN PUNCT
+地方政府官员也不再由中央指派，而改由地方选出，连联邦中央人员也是由地方派代表所组成，使得其只对选区负责，不会去考量整体联邦之利益，使得各区的地方主义逐渐增长。
+地方政府 官员 也 不 再 由 中央 指派 ， 而 改由 地方 选出 ， 连 联邦 中央 人员 也 是 由 地方派 代表 所 组成 ， 使得 其 只 对 选区 负责 ， 不 会 去 考量 整体 联邦 之 利益 ， 使得 各区 的 地方主义 逐渐 增长 。
+NOUN NOUN ADV ADV ADV ADP NOUN VERB PUNCT ADV VERB NOUN VERB PUNCT ADV NOUN NOUN NOUN ADV VERB ADP ADJ NOUN PART VERB PUNCT VERB PRON ADV ADP NOUN VERB PUNCT ADV VERB VERB VERB NOUN NOUN PART NOUN PUNCT VERB NOUN PART NOUN ADV VERB PUNCT
+战争结束时，狄托下令所有超过27岁的士兵复员，将军队规模缩编为一半，并按照苏联模式组成新军，在南斯拉夫的观点中，苏联红军不仅是最优秀的，更重要的是，它是一支“社会主义的军队”。
+战争 结束 时 ， 狄托 下令 所有 超过 27 岁 的 士兵 复员 ， 将 军队 规模 缩编 为 一半 ， 并 按照 苏联 模式 组成 新军 ， 在 南斯拉夫 的 观点 中 ， 苏联 红军 不仅 是 最 优秀 的 ， 更 重要 的 是 ， 它 是 一 支 “ 社会主义 的 军队 ” 。
+NOUN VERB PART PUNCT PROPN VERB DET VERB NUM NUM PART NOUN VERB PUNCT X NOUN NOUN VERB VERB NUM PUNCT CCONJ ADP PROPN NOUN VERB NOUN PUNCT ADP PROPN PART NOUN PART PUNCT PROPN NOUN ADV VERB ADV VERB PART PUNCT ADV VERB PART VERB PUNCT PRON VERB NUM NUM PUNCT NOUN PART NOUN PUNCT PUNCT
+《南极条约》于1959年12月1日，由12个国家签订，并在1961年6月23日正式执行，迄今已有50国签署。
+《 南极 条约 》 于 1959年 12月 1日 ， 由 12 个 国家 签订 ， 并 在 1961年 6月 23日 正式 执行 ， 迄今 已 有 50 国 签署 。
+PUNCT PROPN NOUN PUNCT ADP NOUN NOUN NOUN PUNCT ADP NUM NUM NOUN VERB PUNCT ADV ADP NOUN NOUN NOUN ADV VERB PUNCT ADV ADV VERB NUM NOUN VERB PUNCT
+从坠落的时间，或是居住在地球的时间，陨石还可以提供更多研究南极冰层环境的有用资讯。
+从 坠落 的 时间 ， 或是 居住 在 地球 的 时间 ， 陨石 还 可以 提供 更 多 研究 南极 冰层 环境 的 有用 资讯 。
+ADP NOUN PART NOUN PUNCT CCONJ VERB ADP NOUN PART NOUN PUNCT NOUN ADV VERB VERB ADV NUM VERB PROPN NOUN NOUN PART ADJ NOUN PUNCT
+2009年5月，国务院批复同意，撤销南汇区，将其行政区域整体并入浦东新区。
+2009年 5月 ， 国务院 批复 同意 ， 撤销 南汇区 ， 将 其 行政 区域 整体 并入 浦东 新区 。
+NOUN NOUN PUNCT NOUN ADV VERB PUNCT VERB PROPN PUNCT X PRON NOUN NOUN ADV VERB PROPN NOUN PUNCT
+2007年，南洋商业银行转换新形象，以往是红色底，写上中英文全名的招牌，之后更换为和该公司网页相同的标志，标志后先写英文缩写，再写中文全名。
+2007年 ， 南洋 商业 银行 转换 新 形象 ， 以往 是 红色 底 ， 写上 中英文 全名 的 招牌 ， 之后 更换 为 和 该 公司 网页 相同 的 标志 ， 标志 后 先 写 英文 缩写 ， 再 写 中文 全名 。
+NOUN PUNCT PROPN NOUN NOUN VERB ADJ NOUN PUNCT NOUN VERB NOUN PART PUNCT VERB PROPN NOUN PART NOUN PUNCT ADV VERB VERB ADP DET NOUN NOUN ADJ PART NOUN PUNCT VERB PART ADV VERB NOUN NOUN PUNCT ADV VERB NOUN NOUN PUNCT
+2009年8月1日接收原中银香港于中国内地业务，使分行及支行达11家及7家。
+2009年 8月 1日 接 收原 中银 香港 于 中国 内地 业务 ， 使 分行 及 支行 达 11 家 及 7 家 。
+NOUN NOUN NOUN VERB VERB PROPN PROPN ADP PROPN NOUN NOUN PUNCT VERB NOUN CCONJ NOUN VERB NUM NUM CCONJ NUM NUM PUNCT
+南洋大学，是位于上海的一所大学。
+南洋 大学 ， 是 位于 上海 的 一 所 大学 。
+PROPN NOUN PUNCT VERB VERB PROPN PART NUM NUM NOUN PUNCT
+早在40至50年代，许多中国大陆的华人远涉重洋，南下谋生。
+早 在 40 至 50年代 ， 许多 中国 大陆 的 华人 远涉重洋 ， 南下 谋生 。
+ADV ADP NUM CCONJ NOUN PUNCT NUM PROPN NOUN PART NOUN VERB PUNCT VERB VERB PUNCT
+研讨会和讲座可以享用多媒体演示、视频会议和同时由数个不同地点的通讯的设备的支持。
+研讨会 和 讲座 可以 享用 多媒体 演示 、 视频 会议 和 同时 由 数 个 不同 地点 的 通讯 的 设备 的 支持 。
+NOUN CCONJ NOUN VERB VERB ADJ NOUN PUNCT NOUN NOUN CCONJ ADV ADP NUM NUM ADJ NOUN PART VERB PART NOUN PART NOUN PUNCT
+2005年，南洋酒店进行了大规模的装修工程。
+2005年 ， 南洋 酒店 进行 了 大规模 的 装修 工程 。
+NOUN PUNCT PROPN NOUN VERB PART ADJ PART NOUN NOUN PUNCT
+大殿原为明代建筑，在文化大革命期间被毁，1989年重建。
+大殿 原 为 明代 建筑 ， 在 文化大革命 期间 被 毁 ， 1989年 重建 。
+VERB NOUN VERB ADJ NOUN PUNCT ADP NOUN NOUN X VERB PUNCT NUM VERB PUNCT
+山上有一座小亭，名为浴日亭，是观望海上日出之地。
+山上 有 一 座 小亭 ， 名为 浴日亭 ， 是 观望 海上 日出 之 地 。
+NOUN VERB NUM NUM NOUN PUNCT VERB VERB PUNCT VERB NOUN NOUN PROPN PART NOUN PUNCT
+南调是台铁纵贯线因应铁路电气化所兴建的客车调车场，1974年10月动工、1977年12月17日启用。
+南调 是 台铁 纵贯线 因应 铁路 电气化 所 兴建 的 客车 调车场 ， 1974年 10月 动工 、 1977年 12月 17日 启用 。
+PROPN VERB PROPN NOUN VERB NOUN NOUN PART VERB PART NOUN NOUN PUNCT NOUN NOUN VERB PUNCT NOUN NOUN NOUN VERB PUNCT
+场内设有电力机车检修厂设备、洗车台，以及包含台北机务段、台北检车段、餐旅服务总所等单位的综合办公大楼。
+场内 设有 电力 机车 检修厂 设备 、 洗车台 ， 以及 包含 台北 机务段 、 台北 检车段 、 餐旅 服务 总所 等 单位 的 综合 办公 大楼 。
+NOUN VERB NOUN NOUN NOUN NOUN PUNCT NOUN PUNCT CCONJ VERB PROPN NOUN PUNCT PROPN NOUN PUNCT NOUN NOUN NOUN PART NOUN PART ADJ NOUN NOUN PUNCT
+中国境内流域面积3354.7平方公里。
+中国 境内 流域 面积 3354 . 7 平方公里 。
+PROPN NOUN NOUN NOUN NUM PUNCT NUM NUM PUNCT
+部分特色单位更另有平台、天台，甚至设有私人游泳池。
+部分 特色 单位 更 另 有 平台 、 天台 ， 甚至 设有 私人 游泳池 。
+NUM ADJ NOUN ADV ADV VERB NOUN PUNCT PROPN PUNCT ADV VERB ADJ NOUN PUNCT
+1923年，学校又更名为国立北京航空学校，隶属于由航空事务处扩组而成的航空署。
+1923年 ， 学校 又 更名 为 国立 北京 航空 学校 ， 隶属于 由 航空 事务处 扩组 而 成 的 航空署 。
+NOUN PUNCT NOUN ADV VERB VERB ADJ PROPN NOUN NOUN PUNCT VERB ADP NOUN NOUN VERB PART VERB PART NOUN PUNCT
+同年9月，南苑航空学校正式开学，秦国镛任首任校长，王鄂任教育长，厉汝燕任飞行主任教官。
+同年 9月 ， 南苑 航空 学校 正式 开学 ， 秦国 镛任 首任 校长 ， 王鄂任 教育长 ， 厉汝 燕任 飞行 主任 教官 。
+NOUN NOUN PUNCT PROPN NOUN NOUN ADV VERB PUNCT PROPN NOUN ADJ NOUN PUNCT PROPN NOUN PUNCT ADV VERB NOUN NOUN NOUN PUNCT
+梵语jambu，为树名，即阎浮树，是一种生长在印度南方的大型乔木。
+梵语jambu ， 为 树名 ， 即 阎浮 树 ， 是 一 种 生长 在 印度 南方 的 大型 乔木 。
+VERB PUNCT VERB NOUN PUNCT ADV NOUN NOUN PUNCT VERB NUM NUM VERB ADP PROPN NOUN PART ADJ NOUN PUNCT
+2008年11月，南车四方机车车辆股份获国家发改委批准，设立“高速列车系统集成国家工程实验室”，主力建设包含高速列车系统集成、转向架综合、电磁兼容综合、车体综合和环境综合等研发试验设施的高速列车研发实验基地。。
+2008年 11月 ， 南车 四方 机车 车辆 股份 获 国家 发改委 批准 ， 设立 “ 高速 列车 系统 集成 国家 工程 实验室 ” ， 主力 建设 包含 高速 列车 系统 集成 、 转向架 综合 、 电磁 兼容 综合 、 车体 综合 和 环境 综合 等 研发 试验 设施 的 高速 列车 研发 实验 基地 。。
+NOUN NOUN PUNCT PROPN NOUN NOUN NOUN NOUN VERB NOUN NOUN VERB PUNCT VERB PUNCT ADJ NOUN NOUN ADJ NOUN NOUN NOUN PUNCT PUNCT NOUN NOUN VERB ADJ NOUN NOUN VERB PUNCT NOUN VERB PUNCT VERB VERB NOUN PUNCT NOUN VERB CCONJ NOUN NOUN PART NOUN NOUN NOUN PART ADJ NOUN NOUN NOUN NOUN PUNCT
+另外，罗马教廷于1844年在靳岗设立的天主教南阳教区，曾长期掌管河南全省的教务，法国人安巴都为首任主教，现存有靳岗天主教堂。
+另外 ， 罗马 教廷 于 1844年 在 靳岗 设立 的 天主教 南阳 教区 ， 曾长期 掌管 河南 全省 的 教务 ， 法国人 安巴 都 为 首任 主教 ， 现存 有 靳岗 天主教堂 。
+ADV PUNCT PROPN NOUN ADP NOUN ADP NOUN VERB PART NOUN PROPN NOUN PUNCT PROPN VERB PROPN PROPN PART NOUN PUNCT NOUN NOUN ADV VERB NOUN NOUN PUNCT ADV VERB NOUN VERB PUNCT
+希比拉任命托尔托萨主教巴塞洛缪为市政官。
+希比拉任 命托尔托萨主教 巴塞洛缪 为 市政官 。
+PROPN PROPN PROPN VERB NOUN PUNCT
+2011年10月，公司决定退出出口市场，为减少50%的产能，工厂关闭了位于肯布兰两个高炉之一的第6号高炉。
+2011年 10月 ， 公司 决定 退出 出口 市场 ， 为 减少 50% 的 产能 ， 工厂 关闭 了 位于 肯布兰 两 个 高炉 之一 的 第6号 高炉 。
+NOUN NOUN PUNCT NOUN VERB VERB NOUN NOUN PUNCT ADP VERB NUM PART NOUN PUNCT NOUN VERB PART VERB PROPN NUM NUM NOUN NOUN PART NUM NOUN PUNCT
+总面积55平方公里，人口2388人，人口密度43.4人/平方公里（2009年）。
+总面积 55 平方公里 ， 人口 2388 人 ， 人口 密度 43 . 4 人 / 平方公里 （ 2009年 ） 。
+NOUN NUM NUM PUNCT NOUN NUM NOUN PUNCT NOUN NOUN NUM PUNCT NUM NOUN PUNCT NUM PUNCT NOUN PUNCT PUNCT
+交战后，一切如诸葛亮所安排般发生。
+交战 后 ， 一切 如 诸葛 亮所 安排 般 发生 。
+VERB PART PUNCT PRON ADP VERB VERB NOUN VERB VERB PUNCT
+博杰普尔语也在盖亚那、苏利南、斐济、特立尼达和多巴哥、模里西斯使用，可以说成在世界多个州份均有人使用。
+博杰普尔语 也 在 盖亚 那 、 苏利南 、 斐济 、 特立尼达和多巴哥 、 模里西斯 使用 ， 可以 说成 在 世界 多 个 州份 均 有人 使用 。
+PROPN ADV ADP VERB PRON PUNCT PROPN PUNCT PROPN PUNCT PROPN PUNCT ADV VERB PUNCT VERB VERB ADP NOUN NUM NUM NOUN ADV VERB VERB PUNCT
+1400年的庆典吸引了许多法国人。
+1400年 的 庆典 吸引 了 许多 法国人 。
+NOUN PART NOUN VERB PART NUM NOUN PUNCT
+近年来，肯亚女子长距离田径项目也开始崭露头角，而这些女运动员们也多为卡伦金人。
+近年来 ， 肯亚 女子 长距离 田径 项目 也 开始 崭露头角 ， 而 这些 女 运动员们 也 多 为 卡伦金人 。
+ADV PUNCT PROPN NOUN PROPN NOUN NOUN ADV VERB VERB PUNCT ADV DET NOUN NOUN ADV ADV VERB PROPN PUNCT
+建设该中心的目的是给本州制药企业，GMP工厂提供合格的人员资源。
+建设 该 中心 的 目的 是 给 本州 制药 企业 ， GM P工厂 提供 合格 的 人员 资源 。
+VERB DET NOUN PART NOUN VERB ADP NOUN NOUN NOUN PUNCT PROPN NOUN VERB ADJ PART NOUN NOUN PUNCT
+施米特于1888年生于威斯特伐里亚普勒腾贝格的一个天主教家庭。
+施米特 于 1888年 生于 威斯特伐里亚普勒腾 贝格 的 一个 天主教 家庭 。
+PROPN ADP NOUN VERB PROPN NOUN PART NUM NOUN NOUN PUNCT
+理察在小时候就对音乐很有兴趣，并且被培养为钢琴奇才。
+理察 在 小时候 就 对 音乐 很 有 兴趣 ， 并且 被 培养 为 钢琴 奇才 。
+NOUN ADP NOUN ADV ADP NOUN ADV VERB NOUN PUNCT ADV X VERB VERB NOUN NOUN PUNCT
+他的统治时间是从约1388年至1420年，其中从1400年至1405年他的统治被帖木儿帝国中断。
+他 的 统治 时间 是 从 约 1388年 至 1420年 ， 其中 从 1400年 至 1405年 他 的 统治 被 帖木儿 帝国 中断 。
+PRON PART NOUN NOUN VERB ADP ADV NOUN CCONJ NOUN PUNCT NOUN ADP NOUN CCONJ NOUN PRON PART NOUN X NOUN NOUN VERB PUNCT
+苏联本来曾想再分设一种1134A和一种1134B反潜舰，也曾想将反潜的任务都交给1124型小型反潜舰，但是发现小型舰适应不了远海任务于是还是发展了大型反潜舰。
+苏联 本来 曾 想 再 分设 一 种 1134A 和 一 种 1134 B反潜舰 ， 也 曾 想 将 反潜 的 任务 都 交给 1124型 小型 反潜舰 ， 但是 发现 小型 舰 适应 不 了 远海 任务 于是 还是 发展 了 大型 反潜舰 。
+PROPN ADV ADV VERB ADV VERB NUM NUM NOUN CCONJ NUM NUM NOUN NOUN PUNCT ADV ADV VERB X VERB PART NOUN ADV VERB NUM ADJ NOUN PUNCT ADV VERB ADJ VERB VERB ADV VERB PROPN NOUN ADV ADV VERB PART ADJ NOUN PUNCT
+卡拉胶是食品添加剂的一种。
+卡拉胶 是 食品 添加剂 的 一 种 。
+PROPN VERB NOUN NOUN PART NUM NUM PUNCT
+他生于第三纪元1259年，战死于1447年，享年188岁。
+他 生于 第三 纪元 1259年 ， 战死 于 1447年 ， 享年 188 岁 。
+PRON VERB NUM NUM NOUN PUNCT VERB ADP NOUN PUNCT VERB NUM NUM PUNCT
+卡斯科奎姆河（Kuskokwim River）是美国阿拉斯加州南部的一条河流。
+卡斯科 奎姆河 （ Kuskokwim River ） 是 美国 阿拉斯加州 南部 的 一 条 河流 。
+PROPN NOUN PUNCT PROPN PROPN PUNCT VERB PROPN PROPN NOUN PART NUM NUM NOUN PUNCT
+他的哥哥洛马纳·卢阿卢阿亦曾效力纽卡素。
+他 的 哥哥 洛马纳·卢阿卢 阿亦 曾 效力 纽卡素 。
+PRON PART NOUN PROPN NOUN ADV VERB NOUN PUNCT
+1914年她的父母离婚，母亲带着三个孩子来到了洛杉矶。
+1914年 她 的 父母 离婚 ， 母亲 带 着 三 个 孩子 来到 了 洛杉矶 。
+NOUN PRON PART NOUN VERB PUNCT NOUN VERB PART NUM NUM NOUN VERB PART PROPN PUNCT
+她是三个孩子中最小的，还有两个哥哥。
+她 是 三 个 孩子 中 最 小 的 ， 还有 两 个 哥哥 。
+PRON VERB NUM NUM NOUN PART ADV VERB PART PUNCT CCONJ NUM NUM NOUN PUNCT
+他也是西西里国王（称卡洛二世）和那不勒斯国王（称卡洛五世），勃艮第伯爵（1665年-1678年）、夏洛莱伯爵（1665年-1684年）。
+他 也 是 西西里 国王 （ 称 卡洛二世 ） 和 那不勒斯 国王 （ 称 卡洛五世 ） ， 勃艮 第伯爵 （ 1665年 - 1678年 ） 、 夏洛莱伯爵 （ 1665年 - 1684年 ） 。
+PRON ADV VERB NOUN NOUN PUNCT VERB PROPN PUNCT CCONJ PROPN NOUN PUNCT VERB PROPN PUNCT PUNCT VERB PROPN PUNCT NOUN PUNCT NOUN PUNCT PUNCT PROPN PUNCT NOUN PUNCT NOUN PUNCT PUNCT
+利奥波德一世与玛格丽塔只有一个女儿：玛利亚·安东妮娅，她就是巴伐利亚的约瑟夫·斐迪南亲王之母。
+利奥 波德一世 与 玛格丽塔 只有 一个 女儿 ： 玛利亚·安东 妮娅 ， 她 就是 巴伐利亚 的 约瑟夫·斐迪 南亲 王之母 。
+PROPN PROPN CCONJ NOUN VERB DET NOUN PUNCT PROPN VERB PUNCT PRON ADV PROPN PART PROPN PROPN PROPN PUNCT
+1970年因为他对维也纳音乐贡献卓著而荣获金牌大奖章，并享受奥地利音乐总监督的殊荣。
+1970年 因为 他 对 维也纳 音乐 贡献 卓著 而 荣获 金牌 大奖章 ， 并 享受 奥地利 音乐 总 监督 的 殊荣 。
+NOUN ADP PRON ADP PROPN NOUN VERB VERB PART VERB NOUN NOUN PUNCT CCONJ VERB PROPN NOUN ADJ NOUN PART NOUN PUNCT
+但人们经常将这两个族群有紧密的联系，但实际上两者讲的是不同的语言。
+但 人们 经常 将 这 两 个 族群 有 紧密 的 联系 ， 但 实际上 两者 讲 的 是 不同 的 语言 。
+ADV NOUN ADV X DET NUM NUM NOUN VERB VERB PART NOUN PUNCT ADV ADV NOUN VERB PART VERB ADJ PART NOUN PUNCT
+2005年球场曾遭受洪水淹浸。
+2005年 球场 曾 遭受 洪水 淹浸 。
+NOUN NOUN ADV VERB NOUN NOUN PUNCT
+卡莱尔是拥有简洁而历史意义重大的城市，该地有一座城堡、博物馆、大教堂以及不完整的城墙。
+卡莱尔 是 拥有 简洁 而 历史 意义 重大 的 城市 ， 该地 有 一 座 城堡 、 博物馆 、 大 教堂 以及 不 完整 的 城墙 。
+NOUN VERB VERB VERB CCONJ NOUN NOUN VERB PART NOUN PUNCT NOUN VERB NUM NUM NOUN PUNCT NOUN PUNCT ADJ NOUN CCONJ ADV VERB PART NOUN PUNCT
+而丘吉尔则同意扩大在缅甸的军事行动以稳固蒋介石在中国的地位。
+而 丘吉尔 则 同意 扩大 在 缅甸 的 军事 行动 以 稳固 蒋介石 在 中国 的 地位 。
+ADV NOUN ADV VERB VERB ADP PROPN PART NOUN NOUN ADP VERB PROPN ADP PROPN PART NOUN PUNCT
+这类动画较多以手绘的平面图片进行拍摄，通常具有连续或单元剧情，且大部份是以孩童为主要受众的动画作品。
+这 类 动画 较 多 以 手绘 的 平面 图片 进行 拍摄 ， 通常 具有 连续 或 单元 剧情 ， 且 大部份 是 以 孩童 为 主要 受众 的 动画 作品 。
+DET NUM NOUN ADV ADV ADP PROPN PART NOUN NOUN VERB NOUN PUNCT ADV VERB ADJ CCONJ NOUN NOUN PUNCT CCONJ ADV VERB ADP NOUN VERB ADJ NOUN PART NOUN NOUN PUNCT
+从历史记载上看，回到罗马的卡里努斯，出手阔绰，举办了盛大的赛会等活动。
+从 历史 记载 上 看 ， 回到 罗马 的 卡里努斯 ， 出手 阔绰 ， 举办 了 盛大 的 赛会 等 活动 。
+ADP NOUN NOUN PART VERB PUNCT VERB PROPN PART PROPN PUNCT VERB VERB PUNCT VERB PART ADJ PART NOUN PART NOUN PUNCT
+除了他的眼罩，贾霸最出名的就是他的大勾手投篮，其他球员几乎很难防守其勾手，他也因此被称为“天勾贾霸”。
+除了 他 的 眼罩 ， 贾霸 最 出名 的 就是 他 的 大 勾手 投篮 ， 其他 球员 几乎 很 难 防守 其 勾手 ， 他 也 因此 被 称为 “ 天勾 贾霸 ” 。
+ADP PRON PART NOUN PUNCT PROPN ADV VERB PART ADV PRON PART ADJ NOUN VERB PUNCT DET NOUN ADV ADV ADV VERB PRON NOUN PUNCT PRON ADV ADV X VERB PUNCT NOUN PROPN PUNCT PUNCT
+10月18日，孙中山改任黄复生、卢师谛为四川靖国联军总司令、副司令，石青阳为川北招讨使，并电嘱他们同唐继尧合作。
+10月 18日 ， 孙中山 改任 黄复生 、 卢师谛 为 四川 靖国 联军 总司令 、 副司令 ， 石青阳 为 川北 招讨 使 ， 并 电嘱 他们 同 唐继尧 合作 。
+NOUN NOUN PUNCT PROPN VERB PROPN PUNCT PROPN ADP PROPN PROPN NOUN NOUN PUNCT NOUN PUNCT PROPN ADP NOUN NOUN VERB PUNCT CCONJ VERB PRON ADP PROPN VERB PUNCT
+1917年8月，孙中山成立护法军政府，任大元帅。
+1917年 8月 ， 孙中山 成立 护法 军政府 ， 任大 元帅 。
+NOUN NOUN PUNCT PROPN VERB ADJ NOUN PUNCT NOUN NOUN PUNCT
+桥东头则立有乾隆帝题写的“卢沟晓月”碑。
+桥 东头 则 立有 乾隆 帝题 写 的 “ 卢沟 晓月 ” 碑 。
+NOUN PROPN ADV VERB NOUN NOUN VERB PART PUNCT NOUN NOUN PUNCT VERB PUNCT
+总面积8平方公里，总人口128人（2001年），人口密度16人/平方公里。
+总面积 8 平方公里 ， 总人口 128 人 （ 2001年 ） ， 人口 密度 16 人 / 平方公里 。
+PROPN NUM NUM PUNCT NOUN NUM NOUN PUNCT NOUN PUNCT PUNCT NOUN NOUN NUM NOUN PUNCT NUM PUNCT
+后来印刷的范围扩大到其他经典。
+后来 印刷 的 范围 扩大 到 其他 经典 。
+ADV VERB PART NOUN VERB VERB DET NOUN PUNCT
+印度是世界上产妇死亡率最高的国家，这和印度代孕产业的发展不无关系。
+印度 是 世界 上 产妇 死亡率 最 高 的 国家 ， 这 和 印度 代孕 产业 的 发展 不无 关系 。
+PROPN VERB NOUN PART NOUN NOUN ADV VERB PART NOUN PUNCT PRON ADP PROPN NOUN NOUN PART NOUN VERB NOUN PUNCT
+东欧，包括乌克兰、立陶宛和白俄罗斯等东欧国家一些生活艰难的女性通过出售卵子维生。
+东欧 ， 包括 乌克兰 、 立陶宛 和 白俄罗斯 等 东欧 国家 一些 生活 艰难 的 女性 通过 出售 卵子 维生 。
+PROPN PUNCT VERB PROPN PUNCT PROPN CCONJ PROPN PART PROPN NOUN NUM NOUN VERB PART NOUN ADP VERB NOUN NOUN PUNCT
+选择婴儿性别在印度属于违法。
+选择 婴儿 性别 在 印度 属于 违法 。
+VERB NOUN VERB ADP PROPN VERB NOUN PUNCT
+印戒细胞癌可以通过免疫组织化学进行分类。
+印戒 细胞 癌 可以 通过 免疫 组织 化学 进行 分类 。
+PROPN NOUN NOUN VERB ADP NOUN NOUN NOUN VERB NOUN PUNCT
+法国地质学家Gromaget（1934）在研究越南的地层时，首次提出印支运动的概念。
+法国 地质 学家 Gromaget （ 1934 ） 在 研究 越南 的 地层 时 ， 首次 提出 印支 运动 的 概念 。
+PROPN NOUN NOUN PROPN PUNCT NOUN PUNCT ADP VERB PROPN PART NOUN PART PUNCT ADV VERB ADJ NOUN PART NOUN PUNCT
+随后，数个铁路公司将其网路扩展到印第安纳波利斯，并修筑了多个车站。
+随后 ， 数 个 铁路 公司 将 其 网路 扩展 到 印第安纳波利斯 ， 并 修筑 了 多 个 车站 。
+ADV PUNCT NUM NUM NOUN NOUN X PRON NOUN VERB VERB PROPN PUNCT ADV VERB PART NUM NUM NOUN PUNCT
+教学管理中，以深化课堂教学改革、转变教学方式、打造高效课堂为核心，不断提高教学效率和教学效益。
+教学 管理 中 ， 以 深化 课堂 教学 改革 、 转变 教学 方式 、 打造 高效 课堂 为 核心 ， 不断 提高 教学 效率 和 教学 效益 。
+NOUN NOUN PART PUNCT PART VERB NOUN NOUN NOUN PUNCT VERB NOUN NOUN PUNCT VERB ADJ NOUN VERB NOUN PUNCT ADV VERB NOUN NOUN CCONJ NOUN NOUN PUNCT
+上述款项可维持本优惠4个月，另加2012年优惠余额可维持优惠再多5个月，共可维持优惠9个月，至2014年3月31日。
+上述 款项 可 维持 本 优惠 4 个 月 ， 另 加 2012年 优惠 余额 可 维持 优惠 再 多 5 个 月 ， 共 可 维持 优惠 9 个 月 ， 至 2014年 3月 31日 。
+ADJ NOUN VERB VERB DET NOUN NUM NUM NOUN PUNCT ADV VERB NOUN NOUN NOUN VERB VERB NOUN ADV NUM NUM NUM NOUN PUNCT ADV VERB VERB VERB NUM NUM NOUN PUNCT ADP NOUN NOUN NOUN PUNCT
+优惠期内，乘客乘坐港铁（重铁路线，机场快线及东铁线头等除外）、轻铁或者港铁巴士，每第二程即获九折优惠。
+优惠期 内 ， 乘客 乘坐 港铁 （ 重 铁路线 ， 机场 快线 及 东铁 线头 等 除外 ） 、 轻铁 或者 港铁 巴士 ， 每 第二 程 即 获 九 折 优惠 。
+PROPN PART PUNCT NOUN VERB NOUN PUNCT ADJ NOUN PUNCT NOUN NOUN CCONJ NOUN NOUN PART NOUN PUNCT PUNCT NOUN CCONJ NOUN NOUN PUNCT DET NUM NOUN ADV VERB NUM NUM NOUN PUNCT
+港铁公司营运的服务当中，如果有31分钟或以上的延误，而延误是因为港铁营运过程所导致，港铁公司需拨出款项，透过本优惠回馈乘客。
+港铁 公司 营运 的 服务 当中 ， 如果 有 31 分钟 或 以上 的 延误 ， 而 延误 是 因为 港铁 营运 过程 所 导致 ， 港铁 公司 需 拨出 款项 ， 透过 本 优惠 回馈 乘客 。
+NOUN NOUN NOUN PART NOUN PART PUNCT SCONJ VERB NUM NUM CCONJ PRON PART NOUN PUNCT ADV VERB VERB ADP NOUN NOUN NOUN PART VERB PUNCT NOUN NOUN VERB VERB NOUN PUNCT ADP DET NOUN VERB NOUN PUNCT
+卷花丹属（学名：Scorpiothyrsus）是野牡丹科下的一个属，为直立亚灌木植物。
+卷花丹属 （ 学名 ： Scorpiothyrsus ） 是 野牡丹 科下 的 一个 属 ， 为 直立亚 灌木 植物 。
+PROPN PUNCT NOUN PUNCT PROPN PUNCT VERB NOUN ADJ PART NUM NOUN PUNCT ADP NOUN NOUN NOUN PUNCT
+铁路网和公路隧道位于抬高的拉德芳斯广场下方。
+铁路网 和 公路 隧道 位于 抬高 的 拉德芳斯 广场 下方 。
+NOUN CCONJ NOUN NOUN VERB NOUN PART PROPN NOUN VERB PUNCT
+原驼是南美洲最大的野生哺乳动物之一。
+原驼 是 南美洲 最 大 的 野生 哺乳 动物 之一 。
+ADV VERB PROPN ADV VERB PART ADJ NOUN NOUN NOUN PUNCT
+它们只会从仙人掌中吸取养份。
+它们 只 会 从 仙人 掌中 吸取 养份 。
+PRON ADV VERB ADP NOUN NOUN VERB NOUN PUNCT
+这五篇散文与在北京创作的另五篇散文就构成了《朝花夕拾》的全部。
+这 五 篇 散文 与 在 北京 创作 的 另 五 篇 散文 就 构成 了 《 朝花 夕拾 》 的 全部 。
+DET NUM NUM NOUN CCONJ ADP PROPN NOUN PART DET NUM NUM NOUN ADV VERB PART PUNCT PROPN NOUN PUNCT PART NOUN PUNCT
+2011年厦门高崎国际机场年旅客吞吐量突破1575万人次，列世界百强机场第93位；旅客吞吐量列国内民航机场第11位，货邮吞吐量列国内民航机场第9位。
+2011年 厦门 高崎 国际 机场 年 旅客 吞吐量 突破 1575万 人次 ， 列 世界 百 强 机场 第93 位 ； 旅客 吞吐量 列 国内 民航 机场 第11 位 ， 货邮 吞吐量 列 国内 民航 机场 第9 位 。
+NOUN PROPN PROPN NOUN NOUN ADJ NOUN NOUN VERB NUM NUM PUNCT VERB NOUN NUM NOUN NOUN NUM NUM PUNCT NOUN NOUN VERB NOUN NOUN NOUN NUM NUM PUNCT NOUN NOUN VERB NOUN NOUN NOUN NUM NUM PUNCT
+世界三大观赏树厦门园林植物园种植有世界三大观赏树：中国金钱松，日本金松，日本南洋杉
+世界 三大 观赏 树 厦门 园林 植物园 种植 有 世界 三大 观赏 树 ： 中国 金钱松 ， 日本 金松 ， 日本 南洋 杉
+NOUN NUM VERB VERB PROPN NOUN NOUN NOUN VERB NOUN NUM VERB NOUN PUNCT PROPN PROPN PUNCT PROPN VERB PUNCT PROPN PROPN NOUN
+厦门港是中国沿海主要港口之一，是中国综合运输体系的重要枢纽、集装箱运输干线港、东南沿海的区域性枢纽港口、对台航运主要口岸。
+厦门港 是 中国 沿海 主要 港口 之一 ， 是 中国 综合 运输 体系 的 重要 枢纽 、 集装箱 运输 干线港 、 东南 沿海 的 区域性 枢纽 港口 、 对 台 航运 主要 口岸 。
+PROPN VERB PROPN NOUN ADJ NOUN NOUN PUNCT VERB PROPN ADJ NOUN NOUN PART ADJ NOUN PUNCT NOUN NOUN NOUN PUNCT NOUN NOUN PART ADJ NOUN NOUN PUNCT ADP PROPN NOUN ADJ NOUN PUNCT
+此外，本人十分善长游戏，因此作品中常见到这样的题材。
+此外 ， 本人 十分 善长 游戏 ， 因此 作品 中 常 见到 这样 的 题材 。
+ADV PUNCT PRON ADV VERB NOUN PUNCT ADV NOUN PART ADV VERB PRON PART NOUN PUNCT
+1994年3月13日，612与722线合并成720线（友爱至天瑞），自此720及506线同时以本站为终点站。
+1994年 3月 13日 ， 612 与 722 线 合并 成 720 线 （ 友爱 至 天瑞 ） ， 自此 720 及 506 线 同时 以 本 站 为 终点站 。
+NOUN NOUN NOUN PUNCT NUM CCONJ NUM NOUN VERB VERB NUM NUM PUNCT VERB VERB PROPN PUNCT PUNCT ADJ NUM CCONJ NUM NUM ADV ADP ADV VERB VERB NOUN PUNCT
+目前，友邦保险在中国大陆的业务范围已经扩展到北京市、广东省、江苏省、深圳市。
+目前 ， 友邦 保险 在 中国 大陆 的 业务 范围 已经 扩展 到 北京市 、 广东省 、 江苏省 、 深圳市 。
+NOUN PUNCT NOUN NOUN ADP PROPN NOUN PART NOUN NOUN ADV VERB VERB PROPN PUNCT PROPN PUNCT PROPN PUNCT PROPN PUNCT
+双井站位于北京市朝阳区，是北京地铁10号线和在建的7号线的一个换乘车站。
+双井站 位于 北京市 朝阳区 ， 是 北京 地铁 10号线 和 在建 的 7号线 的 一个 换乘 车站 。
+PROPN VERB PROPN PROPN PUNCT VERB PROPN NOUN NUM CCONJ VERB PART NUM PART NUM NOUN NOUN PUNCT
+现存的双吉寺建筑为明朝建筑，整体坐北朝南。
+现存 的 双吉寺 建筑 为 明朝 建筑 ， 整体 坐北朝南 。
+ADJ PART ADJ NOUN VERB PROPN NOUN PUNCT ADV VERB PUNCT
+由新加坡著名电视演员郑惠玉（饰演洛其芳）和李南星（饰演言飞）担纲主演。
+由 新加坡 著名 电视 演员 郑惠玉 （ 饰演 洛其芳 ） 和 李南星 （ 饰演言飞 ） 担纲 主演 。
+ADP PROPN ADJ NOUN NOUN PROPN PUNCT VERB PROPN PUNCT CCONJ PROPN PUNCT VERB PUNCT VERB NOUN PUNCT
+身体细长而扁平，白色或黄色，没有眼睛，尾部具有一对尾须或尾铗，触角长，如念珠状。
+身体 细长 而 扁平 ， 白色 或 黄色 ， 没有 眼睛 ， 尾部 具有 一对 尾须 或 尾铗 ， 触角长 ， 如念 珠状 。
+NOUN VERB PART VERB PUNCT ADJ CCONJ NOUN PUNCT VERB NOUN PUNCT NOUN VERB NUM NOUN CCONJ NOUN PUNCT PROPN PUNCT ADV VERB PUNCT
+东邻湘潭、衡山，南接衡阳，西毗邵东、涟源，北界娄底、湘乡。
+东邻 湘潭 、 衡山 ， 南接 衡阳 ， 西毗 邵东 、 涟源 ， 北界 娄底 、 湘乡 。
+NOUN NOUN PUNCT PROPN PUNCT PROPN VERB PUNCT NOUN NOUN PUNCT NOUN PUNCT PROPN NOUN PUNCT PROPN PUNCT
+而驯养的双峰驼是无法喝咸水的。
+而 驯养 的 双峰驼 是 无法 喝 咸水 的 。
+ADV VERB PART NOUN VERB ADV VERB NOUN PART PUNCT
+双峰驼因其耐寒，耐旱和对高海拔地区的适应力而于中亚长期驯养作驮畜，例如丝绸之路的骆驼商队。
+双峰 驼 因 其 耐寒 ， 耐旱 和 对 高 海拔 地区 的 适应 力而于 中亚 长期 驯养 作 驮畜 ， 例如 丝绸之路 的 骆驼 商队 。
+NOUN VERB ADP PRON NOUN PUNCT NOUN CCONJ ADP ADJ NOUN NOUN PART NOUN NOUN PROPN ADV ADV VERB NOUN PUNCT ADV NOUN PART NOUN NOUN PUNCT
+所以罗式几何中的一些几何事实没有像欧式几何那样容易被接受。
+所以 罗式 几何 中 的 一些 几何 事实 没有 像 欧式 几何 那样 容易 被 接受 。
+ADV PROPN NOUN PART PART NUM NOUN NOUN ADV ADP ADJ NOUN ADV ADV X VERB PUNCT
+实际上的双筒望远镜当然多少有些误差。
+实际上 的 双筒 望远镜 当然 多少 有些 误差 。
+ADJ PART ADJ NOUN ADV NUM DET NOUN PUNCT
+然而，更多的“盖梯尔式”的反例被制造出来，使得附加了各种额外要求的JTB理论仍然无法准确地描述“知道”这个概念。
+然而 ， 更 多 的 “ 盖梯尔式 ” 的 反例 被 制造 出来 ， 使得 附加 了 各种 额外 要求 的 JTB 理论 仍然 无法 准确 地 描述 “ 知道 ” 这个 概念 。
+ADV PUNCT ADV NUM PART PUNCT NOUN PUNCT PART NOUN X VERB VERB PUNCT VERB VERB PART ADJ ADJ NOUN PART PROPN NOUN ADV ADV VERB PART VERB PUNCT VERB PUNCT DET NOUN PUNCT
+当证明这样的数学猜想遇到困难时，数学家会趋向于寻找一个反例，以说明这个猜想是错误的。
+当 证明 这样 的 数学 猜想 遇到 困难 时 ， 数学家 会 趋向于 寻找 一个 反例 ， 以 说明 这个 猜想 是 错误 的 。
+ADP VERB PRON PART NOUN VERB VERB NOUN PART PUNCT NOUN VERB VERB VERB NUM NOUN PUNCT PART VERB DET NOUN VERB VERB PART PUNCT
+于是罗马的异端裁判所成立，由罗马教廷控制。
+于是 罗马 的 异端 裁判所 成立 ， 由 罗马 教廷 控制 。
+ADV PROPN PART NOUN NOUN VERB PUNCT ADP PROPN NOUN VERB PUNCT
+异端裁判所的正式名称为“最高宗教法庭”，其目的在于抑制异端的兴起，防止教会的分裂。
+异端 裁判所 的 正式 名称 为 “ 最 高 宗教 法庭 ” ， 其 目的 在于 抑制 异端 的 兴起 ， 防止 教会 的 分裂 。
+NOUN NOUN PART ADJ NOUN VERB PUNCT ADV ADJ NOUN NOUN PUNCT PUNCT PRON NOUN VERB VERB NOUN PART NOUN PUNCT VERB NOUN PART NOUN PUNCT
+但这个联盟在1797年因联军被拿破仑所率领的法国意大利方面军打败，最后两方议和，联盟瓦解。
+但 这个 联盟 在 1797年 因 联军 被 拿破仑 所 率领 的 法国 意大利 方面军 打败 ， 最后 两 方 议和 ， 联盟 瓦解 。
+ADV DET NOUN ADP NOUN ADP NOUN X PROPN PART VERB PART PROPN PROPN NOUN VERB PUNCT ADJ NUM NOUN NOUN PUNCT NOUN VERB PUNCT
+所以，有关成年人及老年人心理发展的研究开始如雨后春笋的发表。
+所以 ， 有关 成年人 及 老年人 心理 发展 的 研究 开始 如 雨后春笋 的 发表 。
+ADV PUNCT ADP NOUN CCONJ NOUN NOUN NOUN PART NOUN VERB ADP NOUN PART NOUN PUNCT
+渔业和工业也有重要的地位。
+渔业 和 工业 也 有 重要 的 地位 。
+NOUN CCONJ NOUN ADV VERB VERB PART NOUN PUNCT
+世界上，只有日本宣布实行免费的中等教育及高等教育。
+世界 上 ， 只有 日本 宣布 实行 免费 的 中等 教育 及 高等 教育 。
+NOUN PART PUNCT ADV PROPN VERB VERB ADJ PART ADJ NOUN CCONJ ADJ NOUN PUNCT
+十九世纪的自由思想家们指出，在教育范畴内的过多的国家干预是有危险的，这些危险体现在依靠国家干预来削弱教会的控制以及从家长手中夺回对其子女的教育权。
+十九 世纪 的 自由 思想家们 指出 ， 在 教育 范畴 内 的 过 多 的 国家 干预 是 有 危险 的 ， 这些 危险 体现 在 依靠 国家 干预 来 削弱 教会 的 控制 以及 从 家长 手中 夺回 对 其 子女 的 教育权 。
+NUM NOUN PART ADJ NOUN VERB PUNCT ADP NOUN NOUN PART PART ADV VERB PART NOUN NOUN VERB VERB NOUN PART PUNCT DET NOUN VERB ADV VERB NOUN VERB PART VERB NOUN PART NOUN CCONJ ADP NOUN NOUN VERB ADP PRON NOUN PART NOUN PUNCT
+按照传统，家长承担着对其子女进行教育的责任，然而考虑到教育系统的风险，家长在这其中的角色被削弱了。
+按照 传统 ， 家长 承担 着 对 其 子女 进行 教育 的 责任 ， 然而 考虑 到 教育 系统 的 风险 ， 家长 在 这 其中 的 角色 被 削弱 了 。
+ADP NOUN PUNCT NOUN VERB PART ADP PRON NOUN VERB NOUN PART NOUN PUNCT ADV VERB VERB NOUN NOUN PART NOUN PUNCT NOUN ADP DET NOUN PART NOUN X VERB PART PUNCT
+在指令式编程语言中，同样的行为用常量来表达，它和通常的变数存在反差。
+在 指令式 编程 语言 中 ， 同样 的 行为 用 常量 来 表达 ， 它 和 通常 的 变数 存在 反差 。
+ADP NOUN VERB NOUN PART PUNCT ADJ PART NOUN ADP NOUN PART VERB PUNCT PRON CCONJ ADJ PART NOUN VERB NOUN PUNCT
+5月26日，叙利亚自由军在107处作战。
+5月 26日 ， 叙利亚 自由军 在 107 处 作战 。
+NOUN NOUN PUNCT PROPN NOUN ADP NUM NUM NOUN PUNCT
+婴儿和儿童的发育遵循一定的规律。
+婴儿 和 儿童 的 发育 遵循 一定 的 规律 。
+NOUN CCONJ NOUN PART NOUN VERB ADJ PART NOUN PUNCT
+顾名思义，发育性口吃是一种发育性的疾病。
+顾名思义 ， 发育性 口吃 是 一 种 发育性 的 疾病 。
+VERB PUNCT NOUN NOUN VERB NUM NUM NOUN PART NOUN PUNCT
+10月15日，解放军渡海发动厦门战役，先佯攻鼓浪屿，成功吸引国军注意力，造成国军判断失误。
+10月 15日 ， 解放军 渡海 发动 厦门 战役 ， 先 佯攻鼓 浪屿 ， 成功 吸引 国军 注意力 ， 造成 国军 判断 失误 。
+NOUN NOUN PUNCT NOUN NOUN VERB PROPN NOUN PUNCT ADV PROPN VERB PUNCT ADV VERB NOUN NOUN PUNCT VERB NOUN VERB NOUN PUNCT
+1949年6月以前，国军根本未在金门岛上设防。
+1949年 6月 以前 ， 国军 根本 未 在 金门岛 上 设防 。
+NOUN NOUN PART PUNCT NOUN ADV ADV ADP NOUN PART VERB PUNCT
+到6月中旬，国军厦门要塞司令部才成立金门要塞总台，这才开始构筑岛上工事，铺设通信线路。
+到 6月 中旬 ， 国军 厦门 要塞 司令部 才 成立 金门 要塞 总台 ， 这才 开始 构筑岛 上 工事 ， 铺设 通信 线路 。
+ADP NOUN NOUN PUNCT NOUN PROPN NOUN NOUN ADV VERB PROPN NOUN NOUN PUNCT ADV VERB NOUN PART VERB PUNCT VERB NOUN NOUN PUNCT
+解放军迅速夺取了闽北、闽南，但缺乏海战经验，且无海、空军掩护作战。
+解放军 迅速 夺取 了 闽北 、 闽南 ， 但 缺乏 海战 经验 ， 且 无海 、 空军 掩护 作战 。
+NOUN ADV VERB PART NOUN PUNCT NOUN PUNCT ADV VERB NOUN NOUN PUNCT CCONJ VERB PUNCT NOUN VERB VERB PUNCT
+古巨基于2006年度得到四台联颁音乐大奖歌曲大奖成为继陈慧琳之后连续夺得最多次歌曲奖的歌手。
+古巨 基于 2006 年度 得到 四 台 联颁 音乐 大奖 歌曲 大奖 成为 继 陈慧琳 之后 连续 夺得 最多 次 歌曲 奖 的 歌手 。
+NOUN ADP NUM NOUN VERB NUM NUM ADJ NOUN NOUN NOUN NOUN VERB ADP PROPN PART ADV VERB ADJ NUM NOUN NOUN PART NOUN PUNCT
+亚历山大先后在格拉尼库斯河和伊苏斯击败波斯军队，从波斯人手中夺取了叙利亚和埃及。
+亚历山大 先后 在 格拉尼 库斯河 和 伊苏斯 击败 波斯军队 ， 从 波斯人 手 中 夺取 了 叙利亚 和 埃及 。
+PROPN ADV ADP PROPN NOUN CCONJ PROPN VERB PROPN PUNCT ADP PROPN NOUN PART VERB PART PROPN CCONJ PROPN PUNCT
+值得一提的是，当时的夫妻年龄结构也大约是这样的组成模式，即30岁左右的丈夫与10几岁妻子的组合。
+值得一提的是 ， 当时 的 夫妻 年龄 结构 也 大约 是 这样 的 组成 模式 ， 即 30岁 左右 的 丈夫 与 10几 岁 妻子 的 组合 。
+VERB PUNCT NOUN PART NOUN NOUN NOUN ADV ADV VERB PRON PART NOUN NOUN PUNCT VERB NUM PART PART NOUN CCONJ NUM NUM NOUN PART NOUN PUNCT
+因为对平民阶级的男子而言，贵族的那套追求方法太不切实际，而男妓的存在则可以满足他们对少年的爱慕。
+因为 对 平民 阶级 的 男子 而言 ， 贵族 的 那 套 追求 方法 太 不切实际 ， 而 男妓 的 存在 则 可以 满足 他们 对 少年 的 爱慕 。
+ADP ADP NOUN NOUN PART NOUN PART PUNCT NOUN PART DET NUM NOUN NOUN ADV VERB PUNCT ADV NOUN PART NOUN ADV VERB VERB PRON ADP NOUN PART NOUN PUNCT
+公元前7世纪，古希腊社会进一步发展，古希腊艺术也随之进步。
+公元前 7 世纪 ， 古希腊 社会 进一步 发展 ， 古 希腊 艺术 也 随之 进步 。
+NOUN NUM NOUN PUNCT PROPN NOUN ADV VERB PUNCT NOUN PROPN NOUN ADV ADV VERB PUNCT
+他补充道，当时斯巴达人还满足了他的好奇心，向他展示了位于狄俄尼索斯神庙附近、她接客时使用的房屋。
+他 补 充道 ， 当时 斯巴达人 还 满足 了 他 的 好奇心 ， 向 他 展示 了 位于 狄 俄 尼索 斯神庙 附近 、 她 接客 时 使用 的 房屋 。
+PRON NOUN VERB PUNCT NOUN PROPN ADV VERB PART PRON PART NOUN PUNCT ADP PRON VERB PART VERB PROPN PROPN PROPN PROPN NOUN PUNCT PRON VERB PART VERB PART NOUN PUNCT
+他会用极细的线条编织出物象的表面和体块，以线条的疏密来表现物体的明暗。
+他 会 用 极细 的 线条 编织 出 物象 的 表面 和 体块 ， 以 线条 的 疏密 来 表现 物体 的 明暗 。
+PRON VERB ADP ADJ PART NOUN VERB VERB NOUN PART NOUN CCONJ NOUN PUNCT ADP NOUN PART NOUN PART VERB ADJ PART NOUN PUNCT
+其作品也成为音乐会上常见的曲目，在欧洲甚至产生了过热的现象。
+其 作品 也 成为 音乐会 上 常见 的 曲目 ， 在 欧洲 甚至 产生 了 过 热 的 现象 。
+PRON NOUN ADV VERB NOUN PART VERB PART NOUN PUNCT ADP PROPN ADV VERB PART ADV VERB PART NOUN PUNCT
+自1960年起，马勒成为了最常被录音的作曲家之一，多位指挥家录制其交响曲全集。
+自 1960年 起 ， 马勒 成为 了 最 常 被 录音 的 作曲家 之一 ， 多 位 指挥家 录制 其 交响曲 全集 。
+ADP NOUN PART PUNCT PROPN VERB PART ADV ADV X VERB PART NOUN NOUN PUNCT NUM NUM NOUN VERB PRON NOUN NOUN PUNCT
+全镇辖域总面积154.2平方公里，总人口35,190人（2000年人口普查），下辖10个行政村、3个社区。
+全镇 辖域 总面积 154 . 2 平方公里 ， 总人口 35 , 190 人 （ 2000年 人口 普查 ） ， 下 辖 10 个 行政村 、 3 个 社区 。
+NOUN VERB PROPN NUM PUNCT NUM NUM PUNCT NOUN NUM PUNCT NUM NOUN PUNCT NOUN NOUN NOUN PUNCT PUNCT DET VERB NUM NUM NOUN PUNCT NUM NUM NOUN PUNCT
+他幼年受过良好的教育，通晓拉丁语和希腊语，能诵荷马史诗原文，并到雅典学过哲学。
+他 幼年 受 过 良好 的 教育 ， 通晓拉 丁语 和 希腊语 ， 能 诵 荷马史 诗 原文 ， 并 到 雅典 学过 哲学 。
+PRON NOUN VERB PART VERB PART NOUN PUNCT VERB NOUN CCONJ NOUN PUNCT VERB PROPN NOUN NOUN NOUN PUNCT ADV ADP PROPN NOUN NOUN PUNCT
+全诗计12卷，长达近万行，是遵照奥古斯都的旨意创作出来的。
+全 诗计 12 卷 ， 长 达 近 万 行 ， 是 遵照 奥古斯 都 的 旨意 创作 出来 的 。
+DET NOUN NUM NUM PUNCT ADV VERB ADV NUM NOUN PUNCT VERB VERB PROPN ADV PART ADV VERB VERB PART PUNCT
+其散文语言简洁凝练，朴实无华，体现了和西塞罗迥异的风格。
+其 散文 语言 简洁 凝练 ， 朴实 无华 ， 体现 了 和 西塞罗迥异 的 风格 。
+PRON NOUN NOUN VERB VERB PUNCT VERB VERB PUNCT VERB PART ADP PROPN PART NOUN PUNCT
+卢克莱修（前99年-前55年）生于共和国末期，唯一的传世之作《物性论》（一译《论自然》）共六卷，每卷千余行，是一部哲理诗。
+卢克莱修 （ 前 99年 - 前55年 ） 生于 共和国 末期 ， 唯一 的 传世 之 作 《 物性论 》 （ 一 译 《 论 自然 》 ） 共 六卷 ， 每 卷 千余 行 ， 是 一 部 哲理 诗 。
+PROPN PUNCT DET NOUN PUNCT NOUN PUNCT VERB NOUN NOUN PUNCT ADJ PART NOUN PART NOUN PUNCT PROPN PUNCT PUNCT NUM NUM PUNCT VERB NOUN PUNCT PUNCT ADV VERB PUNCT DET NUM NUM VERB PUNCT VERB NUM NUM NOUN NOUN PUNCT
+维吉尔在创作《埃涅阿斯纪》的时候虽有意摹仿荷马史诗，但全诗强调使命感、责任感，洋溢着严肃、哀婉和悲天悯人的情调，是典型的罗马风格。
+维吉尔 在 创作 《 埃涅 阿斯纪 》 的 时候 虽 有 意摹 仿荷 马史 诗 ， 但 全 诗 强调 使命感 、 责任感 ， 洋溢 着 严肃 、 哀婉 和 悲天悯人 的 情调 ， 是 典型 的 罗马 风格 。
+PROPN ADP VERB PUNCT ADJ NOUN PUNCT PART NOUN SCONJ VERB NOUN VERB PROPN NOUN PUNCT ADV DET NOUN VERB NOUN PUNCT NOUN PUNCT VERB PART VERB PUNCT NOUN CCONJ VERB PART NOUN PUNCT VERB ADJ PART PROPN NOUN PUNCT
+水库正常库容为1202万立方米，集雨面积为46平方千米，海拔为26.5米。
+水库 正常 库容 为 1202万 立方米 ， 集雨 面积 为 46 平方千 米 ， 海拔 为 26 . 5 米 。
+NOUN ADV VERB VERB NUM NUM PUNCT ADJ NOUN VERB NUM NUM NUM PUNCT NOUN VERB NUM PUNCT NUM NUM PUNCT
+这样，就可根据词语的词性和词语的组合规律（如语法关系）等来断句。
+这样 ， 就 可 根据 词语 的 词性 和 词语 的 组合 规律 （ 如 语法 关系 ） 等 来 断句 。
+VERB PUNCT ADV VERB ADP NOUN PART NOUN CCONJ NOUN PART NOUN NOUN PUNCT ADV NOUN NOUN PUNCT PART PART VERB PUNCT
+此外，其他废弃物、废水、废气等都不会排放。
+此外 ， 其他 废弃物 、 废水 、 废气 等 都 不 会 排放 。
+ADV PUNCT DET NOUN PUNCT NOUN PUNCT NOUN PART ADV ADV VERB VERB PUNCT
+但是，大型水力发电系统有几个显著的社会的和环境的缺点：在规划水库区中生活的人民颠沛流离，在施工期间和水库洪水期释放大量的二氧化碳和甲烷，破坏水生的生态系统和鸟类。
+但是 ， 大型 水力 发电 系统 有 几 个 显著 的 社会 的 和 环境 的 缺点 ： 在 规划 水库区 中 生活 的 人民 颠沛流离 ， 在 施工 期间 和 水库 洪水期 释放 大量 的 二氧化碳 和 甲烷 ， 破坏 水生 的 生态 系统 和 鸟类 。
+ADV PUNCT ADJ NOUN NOUN NOUN VERB NUM NUM ADJ PART NOUN PART CCONJ NOUN PART NOUN PUNCT ADP VERB NOUN PART VERB PART NOUN VERB PUNCT ADP NOUN NOUN ADP NOUN PROPN VERB NUM PART NUM CCONJ PROPN PUNCT VERB NOUN PART NOUN NOUN CCONJ NOUN PUNCT
+其次，尽管化石燃料技术是比较成熟的，可再生能源技术正在迅速被改进。
+其次 ， 尽管 化石 燃料 技术 是 比较 成熟 的 ， 可 再生 能源 技术 正在 迅速 被 改进 。
+ADV PUNCT SCONJ NOUN NOUN NOUN VERB ADV VERB PART PUNCT ADV VERB NOUN NOUN ADV ADV X VERB PUNCT
+根据国际能源署（IEA）的一个在2011年的预测，在50年之内，太阳能发电站可能会产生世界上大部分电力，显著减少对环境有害的温室气体的排放。
+根据 国际 能源署 （ IEA ） 的 一个 在 2011年 的 预测 ， 在 50年 之内 ， 太阳能 发电站 可能 会 产生 世界 上 大部分 电力 ， 显著 减少 对 环境 有害 的 温室 气体 的 排放 。
+ADP NOUN NOUN PUNCT PROPN PUNCT PART X ADP NOUN PART NOUN PUNCT ADP NUM PART PUNCT NOUN NOUN VERB VERB VERB NOUN PART NUM NOUN PUNCT ADV VERB ADP NOUN VERB PART NOUN NOUN PART NOUN PUNCT
+问世之初可口可乐的主要成分主要有两种，分别是古柯碱及咖啡因。
+问世 之初 可口可乐 的 主要 成分 主要 有 两 种 ， 分别 是 古柯碱 及 咖啡因 。
+VERB PART VERB PART ADJ NOUN ADV VERB NUM NUM PUNCT ADV VERB NOUN CCONJ NOUN PUNCT
+此译名被普遍认为是最经典的译名之一。
+此 译名 被 普遍 认为 是 最 经典 的 译名 之一 。
+DET NOUN X ADV VERB VERB ADV ADJ PART NOUN NOUN PUNCT
+快乐之道提倡真实是相对的，这些相对哲学现今被称为诡辩，早在二千多年前已被苏格拉底和他的弟子否定。
+快乐 之 道 提倡 真实 是 相对 的 ， 这些 相对 哲学 现今 被 称为 诡辩 ， 早 在 二千多 年前 已 被 苏格拉底 和 他 的 弟子 否定 。
+ADJ PART NOUN VERB NOUN VERB VERB PART PUNCT PRON ADV NOUN ADV X VERB NOUN PUNCT ADV ADP NUM PART ADV X PROPN CCONJ PRON PART NOUN VERB PUNCT
+目前接驳车的营运业务则是由大南汽车负责。
+目前 接驳车 的 营运 业务 则 是 由 大南 汽车 负责 。
+NOUN VERB PART NOUN NOUN ADV VERB ADP NOUN NOUN VERB PUNCT
+1973年7月10日，为了要推展体育用品的外销市场，以贸易商、体育用品批发商、体育用品制造商为基础的台北市体育用品商业同业公会应运而生，胡益兰成为第一任理事长，李荣淮成为常务理事长，并且开始针对各国体育用品发展之情况进行调查。
+1973年 7月 10日 ， 为了 要 推展 体育 用品 的 外销 市场 ， 以 贸易商 、 体育 用品 批发商 、 体育 用品 制造商 为 基础 的 台北市 体育 用品 商业 同业 公会 应运而生 ， 胡益兰 成为 第一 任 理事长 ， 李荣淮 成为 常务 理事长 ， 并且 开始 针对 各国 体育 用品 发展 之 情况 进行 调查 。
+NOUN NOUN NOUN PUNCT ADP VERB VERB NOUN NOUN PART NOUN NOUN PUNCT ADP NOUN PUNCT NOUN NOUN NOUN PUNCT NOUN NOUN NOUN VERB NOUN PART PROPN NOUN NOUN NOUN NOUN NOUN VERB PUNCT PROPN VERB NUM NUM NOUN PUNCT PROPN VERB ADJ NOUN PUNCT ADV VERB ADP NOUN NOUN NOUN NOUN PART NOUN VERB NOUN PUNCT
+1976年，张建邦博士出任董事长。
+1976年 ， 张建邦 博士 出任 董事长 。
+NOUN PUNCT PROPN NOUN VERB NOUN PUNCT
+黄岩路桥机场建于1987年，是全国第一个县级民航站，2001年1月起，台州市替代黄岩区接管该机场，同时加挂台州市民航局牌子。
+黄岩 路桥 机场 建于 1987年 ， 是 全国 第一 个 县级 民航站 ， 2001年 1月 起 ， 台州市 替代 黄岩区 接管 该 机场 ， 同时 加挂 台州市 民航局 牌子 。
+PROPN PROPN NOUN VERB NUM PUNCT VERB NOUN NUM NUM NOUN NOUN PUNCT NOUN NOUN PART PUNCT PROPN VERB PROPN VERB DET NOUN PUNCT ADV VERB PROPN NOUN VERB PUNCT
+前台湾国防部长李杰在军购案回答李敖质询时，表示在大陆全力攻台下，台湾只有防守两个星期的能力。
+前 台湾 国防 部长 李杰 在 军购案 回答 李敖 质询 时 ， 表示 在 大陆 全力 攻台 下 ， 台湾 只有 防守 两 个 星期 的 能力 。
+ADJ PROPN NOUN NOUN PROPN ADP NOUN VERB PROPN NOUN PART PUNCT VERB ADP NOUN ADV VERB PART PUNCT PROPN ADV VERB NUM NUM NOUN PART NOUN PUNCT
+新闻自由在台湾常被利用于爆料与不负责任的言论上，而非理性的讨论。
+新闻 自由 在 台湾 常 被 利用 于 爆料 与 不 负 责任 的 言论 上 ， 而 非 理性 的 讨论 。
+NOUN NOUN ADP PROPN ADV X VERB ADP NOUN CCONJ ADV VERB NOUN PART NOUN PART PUNCT ADV ADV VERB PART NOUN PUNCT
+这些显然都是台湾媒体所需大力加强的。
+这些 显然 都 是 台湾 媒体 所需 大力 加强 的 。
+PRON ADV ADV VERB PROPN NOUN VERB ADV VERB PART PUNCT
+另一方面，民营报纸亦于艰难中求生，1946年创刊于台中的《民声日报》当时办的有声有色，但最后由《联合报》及《征信新闻》脱颖而出。
+另一方面 ， 民营 报纸 亦 于 艰难 中 求生 ， 1946年 创刊 于 台中 的 《 民声 日报 》 当时 办 的 有声有色 ， 但 最后 由 《 联合报 》 及 《 征信 新闻 》 脱颖而出 。
+ADV PUNCT ADJ NOUN ADV ADP NOUN PART VERB PUNCT NOUN VERB ADP PROPN PART PUNCT NOUN NOUN PUNCT NOUN VERB PART VERB PUNCT ADV ADV ADP PUNCT PROPN PUNCT CCONJ PUNCT NOUN NOUN PUNCT VERB PUNCT
+北方全真教偏重自行主义，重视修养苦行，南方偏重他力主义，重视符咒科仪，一般来说，台湾的道教来自南方福建泉州与漳州一代所盛行的天师教（天师道）。
+北方 全 真 教偏 重 自行主义 ， 重视 修养 苦行 ， 南方 偏重 他力主义 ， 重视 符咒 科仪 ， 一般来说 ， 台湾 的 道教 来自 南方 福建 泉州 与 漳州 一代 所 盛行 的 天师教 （ 天师道 ） 。
+NOUN DET ADV VERB VERB VERB PUNCT VERB VERB NOUN PUNCT NOUN VERB VERB PUNCT VERB NOUN NOUN PUNCT ADV PUNCT PROPN PART NOUN VERB NOUN PROPN PROPN CCONJ PROPN NUM PART VERB PART PROPN PUNCT PROPN PUNCT PUNCT
+福利制度的完善已初见端倪。
+福利 制度 的 完善 已 初见端倪 。
+NOUN NOUN PART NOUN ADV VERB PUNCT
+在这些事件中，有11件发生在1911年的辛亥革命之后，并且有4件是受到辛亥革命的刺激而发动的。
+在 这些 事件 中 ， 有 11 件 发生 在 1911年 的 辛亥革命 之后 ， 并且 有 4 件 是 受到 辛亥革命 的 刺激 而 发动 的 。
+ADP DET NOUN PART PUNCT VERB NUM NUM VERB ADP NOUN PART PROPN PART PUNCT ADV VERB NUM NUM VERB VERB PROPN PART NOUN PART VERB PART PUNCT
+这个转变，可能和义勇军开赴内地推翻清朝，以及原本领导游击战的前台湾民主国军务大臣李秉瑞殉职有关。
+这个 转变 ， 可能 和 义勇军 开赴 内地 推翻 清朝 ， 以及 原本 领导 游击战 的 前 台湾 民主国 军务 大臣 李秉瑞 殉职 有关 。
+DET NOUN PUNCT VERB ADP PROPN VERB NOUN VERB PROPN PUNCT CCONJ ADV VERB NOUN PART ADJ PROPN NOUN NOUN NOUN PROPN ADV VERB PUNCT
+电影主要呈现写实风格，其题材贴近现实社会，回顾民众的真实生活，由于形式新颖、风格独特，促成了台湾电影的新风貌。
+电影 主要 呈现 写实 风格 ， 其 题材 贴近 现实 社会 ， 回顾 民众 的 真实 生活 ， 由于 形式 新颖 、 风格 独特 ， 促成 了 台湾 电影 的 新 风貌 。
+NOUN ADV VERB NOUN NOUN PUNCT PRON NOUN VERB ADJ NOUN PUNCT VERB NOUN PART ADJ NOUN PUNCT ADP NOUN VERB PUNCT NOUN VERB PUNCT VERB PART PROPN NOUN PART ADJ NOUN PUNCT
+10月25日陈仪代表同盟国的中华民国政府接管台湾，接受日本帝国台湾总督兼台湾军司令官安藤利吉的投降。
+10月 25日 陈仪 代表 同盟国 的 中华 民国 政府 接管 台湾 ， 接受 日本 帝国 台湾 总督 兼 台湾军 司令官 安藤利吉 的 投降 。
+NOUN NOUN ADV VERB VERB PART PROPN NOUN NOUN VERB PROPN PUNCT VERB PROPN PROPN PROPN NOUN CCONJ PROPN NOUN NOUN PART VERB PUNCT
+1945年8月14日，日本天皇发表终战诏书，二战结束。
+1945年 8月 14日 ， 日本 天皇 发表 终战 诏书 ， 二战 结束 。
+NOUN NOUN NOUN PUNCT PROPN NOUN VERB ADV VERB PUNCT PROPN VERB PUNCT
+树的稀有与其缓慢的生长速度意味着合法的供应非常稀少。
+树 的 稀有 与其 缓慢 的 生长 速度 意味着 合法 的 供应 非常 稀少 。
+NOUN PART ADJ CCONJ VERB PART NOUN NOUN VERB ADJ PART NOUN ADV VERB PUNCT
+第二条，台湾独立不是因为台湾人四百年来受到外来政权的压迫。
+第二 条 ， 台湾 独立 不是 因为 台湾人 四百 年 来 受到 外来 政权 的 压迫 。
+NUM NUM PUNCT PROPN ADV ADV ADP NOUN NUM NUM PART VERB ADJ NOUN PART NOUN PUNCT
+二次大战刚结束时，台湾糖业铁路年久失修，且有钢轨轻重不一、蒸汽机车大多逾龄等问题。
+二次大战 刚 结束 时 ， 台湾 糖业 铁路 年久失修 ， 且 有 钢轨 轻重 不一 、 蒸汽 机车 大多 逾龄 等 问题 。
+PROPN ADV VERB PART PUNCT PROPN NOUN NOUN VERB PUNCT ADV VERB NOUN ADV VERB PUNCT NOUN NOUN ADV VERB PART NOUN PUNCT
+主持人也会视情形开放现场观众参赛，获胜者同样也有丰盛的奖品或丰厚的奖金。
+主持人 也 会 视 情形 开放 现场 观众 参赛 ， 获胜者 同样 也 有 丰盛 的 奖品 或 丰厚 的 奖金 。
+NOUN ADV VERB VERB NOUN VERB NOUN NOUN VERB PUNCT NOUN ADV ADV VERB VERB PART NOUN CCONJ VERB PART NOUN PUNCT
+该单元曾经也出现特别版，夹到者的最高奖品为洋房一栋。
+该 单元 曾经 也 出现 特别版 ， 夹到者 的 最高 奖品 为 洋房 一 栋 。
+DET NOUN ADV ADV VERB NOUN PUNCT VERB PART ADJ NOUN VERB NOUN NUM NUM PUNCT
+1956年2月28日在日本东京成立的海外台独组织“台湾共和国临时政府”，其领导人称为“大统领”，但未获承认。
+1956年 2月 28日 在 日本 东京 成立 的 海外 台独 组织 “ 台湾 共和国 临时 政府 ” ， 其 领导人 称为 “ 大 统领 ” ， 但 未 获 承认 。
+NOUN NOUN NOUN ADP PROPN PROPN VERB PART NOUN NOUN NOUN PUNCT PROPN NOUN ADJ NOUN PUNCT PUNCT PRON NOUN VERB PUNCT ADJ NOUN PUNCT PUNCT ADV ADV VERB NOUN PUNCT
+每集几乎有案件关系人访谈，结尾开始有高哲翰讲解。
+每 集 几乎 有 案件 关系人 访谈 ， 结尾 开始 有 高哲翰 讲解 。
+DET NUM ADV VERB NOUN NOUN VERB PUNCT NOUN VERB VERB PROPN VERB PUNCT
+信义乡与水里乡相同，是从1980年代左右，才开始辟垦茶园，所以也属于新兴的高山茶区。
+信义乡 与 水里乡 相同 ， 是 从 1980年代 左右 ， 才 开始 辟垦 茶园 ， 所以 也 属于 新兴 的 高山 茶区 。
+NOUN CCONJ NOUN VERB PUNCT VERB ADP NOUN PART PUNCT ADV VERB VERB NOUN PUNCT ADV ADV VERB VERB PART NOUN NOUN PUNCT
+嘉义县是当前台湾生产高山茶的重要产区，种植的区域，以梅山乡、竹崎乡、番路乡及阿里山乡等四个山区乡镇为主。
+嘉义县 是 当前 台湾 生产 高山 茶 的 重要 产区 ， 种植 的 区域 ， 以 梅山乡 、 竹崎乡 、 番路乡 及 阿里山乡 等 四 个 山区 乡镇 为主 。
+NOUN VERB NOUN PROPN VERB NOUN NOUN PART ADJ NOUN PUNCT VERB PART NOUN PUNCT ADP PROPN PUNCT NOUN PUNCT PROPN CCONJ PROPN PART NUM NUM NOUN NOUN VERB PUNCT
+斯坦·李还是李小龙的影迷，在自己的事业上也极大地受到李小龙电影的影响。
+斯坦·李还是 李小龙 的 影迷 ， 在 自己 的 事业 上 也 极 大地 受到 李小龙 电影 的 影响 。
+PROPN PROPN PART NOUN PUNCT ADP PRON PART NOUN PART ADV ADV NOUN VERB PROPN NOUN PART NOUN PUNCT
+电影《蜘蛛侠：惊奇再起》中，曾于蜘蛛人和蜥蜴人打斗的场景（学校某处图书室）中出现。
+电影 《 蜘蛛侠 ： 惊奇 再 起 》 中 ， 曾 于 蜘蛛人 和 蜥蜴人 打斗 的 场景 （ 学校 某 处 图书室 ） 中 出现 。
+NOUN PUNCT NOUN PUNCT VERB ADV VERB PUNCT PART PUNCT ADV ADP NOUN CCONJ PROPN VERB PART NOUN PUNCT NOUN DET NUM NOUN PUNCT PART VERB PUNCT
+科学家们最早的重建揭示出一个没有头的人形雕像。
+科学家们 最 早 的 重建 揭示 出 一个 没有 头 的 人形 雕像 。
+NOUN ADV VERB PART NOUN VERB VERB ADV VERB NUM PART NOUN NOUN PUNCT
+谢拉特协助利物浦在这个赛季取得英超第2名并取得球会历史上最高的联赛分数。
+谢拉特 协助 利物浦 在 这个 赛季 取得 英超 第2 名 并 取得 球会 历史 上 最 高 的 联赛 分数 。
+PROPN VERB NOUN ADP DET NOUN VERB NOUN NUM NUM CCONJ VERB NOUN NOUN PART ADV VERB PART NOUN NOUN PUNCT
+谢拉特是当今球坛最全能球员之一。
+谢拉特 是 当今 球坛 最 全能 球员 之一 。
+PROPN VERB NOUN NOUN ADV ADJ NOUN NOUN PUNCT
+招数并不复杂，却指住国人要害，颇见奇效。
+招数 并不 复杂 ， 却 指住 国人 要害 ， 颇 见 奇效 。
+NOUN ADV VERB PUNCT ADV VERB NOUN VERB PUNCT ADV VERB NOUN PUNCT
+史旺森山脉是南极洲的山脉，位于玛丽伯德地，属于福特山脉的一部分，全长约15公里，处于桑德斯山东南面11公里，该山脉在1934年由美国探险队发现。
+史旺森 山脉 是 南极洲 的 山脉 ， 位于 玛丽伯德地 ， 属于 福特山脉 的 一部分 ， 全长 约 15 公里 ， 处于 桑德斯山 东南面 11 公里 ， 该 山脉 在 1934年 由 美国 探险队 发现 。
+PROPN NOUN VERB PROPN PART NOUN PUNCT VERB NOUN PUNCT VERB NOUN PART NOUN PUNCT NOUN ADV NUM NUM PUNCT VERB NOUN PROPN NUM NUM PUNCT DET NOUN ADP NOUN ADP PROPN ADV VERB PUNCT
+谢根荣请史树青等人鉴定一件伪造的金缕玉衣，史树青等专家认定为真品，估价24亿人民币。
+谢根荣 请 史树青 等 人 鉴定 一 件 伪造 的 金缕 玉衣 ， 史树青 等 专家 认定 为 真品 ， 估价 24亿 人民币 。
+PROPN VERB PROPN PART NOUN VERB NUM NUM NOUN PART NOUN NOUN PUNCT PROPN PART NOUN VERB ADP NOUN PUNCT VERB NUM NOUN PUNCT
+从1953年英国军方开始采用史特林冲锋枪以来，之后经过了数次的改良，并且也追加成为制式装备。
+从 1953年 英国 军方 开始 采用 史特林 冲锋枪 以来 ， 之后 经过 了 数次 的 改良 ， 并且 也 追加 成为 制式 装备 。
+ADP NOUN PROPN NOUN VERB VERB NOUN NOUN PART PUNCT ADV VERB PART ADJ PART NOUN PUNCT ADV ADV VERB VERB NOUN NOUN PUNCT
+回到树林后，将神水喝下的史瑞克与驴子并没有任何改变，史瑞克嗅了嗅神水后突然向着毒蘑菇打喷嚏。
+回到 树林 后 ， 将 神水 喝 下 的 史瑞克 与 驴子 并 没有 任何 改变 ， 史瑞克 嗅 了 嗅神水 后 突然 向着 毒 蘑菇 打喷嚏 。
+VERB NOUN PART PUNCT X NOUN VERB VERB PART NOUN CCONJ NOUN ADV VERB DET NOUN PUNCT NOUN VERB PART NOUN PART ADV VERB ADJ NOUN VERB PUNCT
+国王给予两人祝福后就准备要离开这个伤心地，但王后却告诉国王自己仍然深爱着他，即使国王是一只青蛙。
+国王 给予 两 人 祝福 后 就 准备 要 离开 这个 伤心地 ， 但 王后 却 告诉 国王 自己 仍然 深 爱 着 他 ， 即使 国王 是 一 只 青蛙 。
+NOUN VERB NUM NOUN VERB PART ADV VERB VERB VERB DET NOUN PUNCT ADV NOUN ADV VERB NOUN PRON ADV ADV VERB PART PRON PUNCT SCONJ NOUN VERB NUM NUM NOUN PUNCT
+镜头回到“很远很远的王国”，费欧娜也受到神水的影响晕了过去。
+镜头 回到 “ 很 远 很 远 的 王国 ” ， 费欧娜 也 受到 神水 的 影响 晕 了 过去 。
+NOUN VERB PUNCT ADV VERB ADV VERB PART NOUN PUNCT PUNCT PROPN ADV VERB NOUN PART NOUN VERB PART VERB PUNCT
+长靴猫以无辜的眼神请求原谅，而史瑞克和猫咪很快变成了朋友。
+长靴 猫 以 无辜 的 眼神 请求 原谅 ， 而 史瑞克 和 猫咪 很快 变成 了 朋友 。
+PROPN NOUN ADP ADJ PART NOUN VERB NOUN PUNCT ADV NOUN CCONJ NOUN ADV VERB PART NOUN PUNCT
+《西城故事》（West Side Story）是桑坦事业的突破。
+《 西城 故事 》 （ West Side Story ） 是 桑坦 事业 的 突破 。
+PUNCT PROPN NOUN PUNCT PUNCT PROPN NOUN PROPN PUNCT VERB NOUN NOUN PART NOUN PUNCT
+这出音乐剧被当年时代杂志评为桑坦最优秀的成就。
+这 出 音乐剧 被 当年 时代 杂志 评为 桑坦 最 优秀 的 成就 。
+DET NUM NOUN X NOUN NOUN NOUN VERB NOUN ADV VERB PART NOUN PUNCT
+他将四人强留在工厂，并从他们身上各拿走一部分来制作巧克力棒。
+他 将 四 人 强留 在 工厂 ， 并 从 他们 身上 各 拿走 一部分 来 制作 巧克力棒 。
+PRON X NUM NOUN VERB ADP NOUN PUNCT ADV ADP PRON NOUN ADV VERB NUM PART VERB VERB PUNCT
+拉森与祖父母住在乡村小木屋里，他相当喜爱这个地方，在北瑞典冰雪纷飞的漫长冬季，他就靠越野滑雪板上下学。
+拉森 与 祖父母 住 在 乡村 小木屋 里 ， 他 相当 喜爱 这个 地方 ， 在 北瑞典 冰雪 纷飞 的 漫长 冬季 ， 他 就 靠 越野 滑雪板 上下学 。
+NOUN ADP NOUN VERB ADP NOUN NOUN PART PUNCT PRON ADV VERB DET NOUN PUNCT ADP PROPN VERB VERB PART ADJ NOUN PUNCT PRON ADV VERB NOUN NOUN PROPN PUNCT
+由于《史通》总结唐以前史学的全部问题，因而拥有极高史学地位，对后世影响深远。
+由于 《 史通 》 总结 唐 以前 史学 的 全部 问题 ， 因而 拥有 极 高 史学 地位 ， 对 后世 影响 深远 。
+ADP PUNCT PROPN PUNCT VERB PROPN NOUN VERB PART DET NOUN PUNCT ADV VERB ADV ADJ NOUN NOUN PUNCT ADP NOUN NOUN VERB PUNCT
+右龙是日本将棋的棋子之一。
+右龙 是 日本 将 棋 的 棋子 之一 。
+NOUN VERB PROPN X NOUN PART NOUN NOUN PUNCT
+1977年1月10日，叶企孙侄子叶铭汉交工资给叔父，发觉他病情恶化。
+1977年 1月 10日 ， 叶企孙 侄子 叶铭汉 交 工资 给 叔父 ， 发觉 他 病情 恶化 。
+NOUN NOUN NOUN PUNCT PROPN NOUN PROPN VERB NOUN VERB NOUN PUNCT VERB PRON NOUN VERB PUNCT
+后来，他躲入一条运兵船，终于到达重庆。
+后来 ， 他 躲入 一 条 运兵 船 ， 终于 到达 重庆 。
+ADV PUNCT PRON VERB NUM NUM NOUN NOUN PUNCT ADV VERB PROPN PUNCT
+当时，他的父亲去世，母亲对他十分溺爱。
+当时 ， 他 的 父亲 去世 ， 母亲 对 他 十分 溺爱 。
+NOUN PUNCT PRON PART NOUN VERB PUNCT NOUN ADP PRON ADV VERB PUNCT
+1995年5月，叶小文出掌国务院宗教事务局；同年12月，作为国务院特派专员，赴西藏参与主持第十一世班禅的金瓶掣签和坐床大典。
+1995年 5月 ， 叶小文 出掌 国务院 宗教 事务局 ； 同年 12月 ， 作为 国务院 特派 专员 ， 赴 西藏 参与 主持 第十一 世 班禅 的 金瓶掣签 和 坐床 大典 。
+NOUN NOUN PUNCT PROPN VERB NOUN NOUN NOUN PUNCT NOUN NOUN PUNCT ADP NOUN ADJ NOUN PUNCT VERB PROPN VERB VERB NUM NOUN PROPN PART PROPN CCONJ NOUN NOUN PUNCT
+一个月后，在漳州执行侦察任务时，因遭遇暴雨，飞机失事，叶少毅不幸牺牲。
+一个 月 后 ， 在 漳州 执行 侦察 任务 时 ， 因 遭遇 暴雨 ， 飞机 失事 ， 叶少毅 不幸 牺牲 。
+X NOUN PART PUNCT ADP PROPN VERB NOUN NOUN PART PUNCT ADP VERB NOUN PUNCT NOUN VERB PUNCT PROPN ADV VERB PUNCT
+11岁的叶甫根尼·普鲁申科借居在圣彼得堡的公寓，小房间内仅有一张桌与椅子、折叠床，叶甫根尼·普鲁申科不仅要生活上学处理家务，更要面对团队中的由来已久的陋习：欺负新人。
+11 岁 的 叶甫根尼·普鲁申科 借居 在 圣彼得堡 的 公寓 ， 小 房间 内 仅 有 一 张 桌 与 椅子 、 折叠 床 ， 叶甫根尼·普鲁申科 不仅 要 生活 上学 处理 家务 ， 更 要 面对 团队 中 的 由来已久 的 陋习 ： 欺负 新人 。
+NUM NUM PART PROPN VERB ADP PROPN PART NOUN PUNCT ADJ NOUN PART ADV VERB NUM NUM NOUN CCONJ NOUN PUNCT ADJ NOUN PUNCT PROPN ADV VERB VERB VERB VERB NOUN PUNCT ADV VERB VERB NOUN PART PART VERB PART NOUN PUNCT PROPN NOUN PUNCT
+叶甫根尼·普鲁申科在2010年加拿大温哥华举行的冬季奥运会，于短曲项目获得90.85分，打破奥运会纪录，领先所有竞争对手。
+叶甫根尼·普鲁申科 在 2010年 加拿大 温哥华 举行 的 冬季 奥运会 ， 于 短曲 项目 获得 90.85分 ， 打破 奥运会 纪录 ， 领先 所有 竞争 对手 。
+PROPN ADP NOUN PROPN PROPN VERB PART NOUN PROPN PUNCT ADP ADJ NOUN VERB NOUN PUNCT VERB PROPN NOUN PUNCT VERB DET NOUN NOUN PUNCT
+1812年7月23日，他随军前往俄国，9月14日到达莫斯科，之后，他取道柯尼斯堡撤回巴黎。
+1812年 7月 23日 ， 他 随军 前往 俄国 ， 9月 14日 到达 莫斯科 ， 之后 ， 他 取道 柯尼斯堡 撤回 巴黎 。
+NOUN NOUN NOUN PUNCT PRON ADV VERB PROPN PUNCT NOUN NOUN VERB PROPN PUNCT ADV PUNCT PRON VERB PROPN VERB PROPN PUNCT
+关于精灵之眼的介绍，将在下方『魔法』条目中会详以叙述。
+关于 精灵 之 眼 的 介绍 ， 将 在 下方 『 魔法 』 条目 中 会 详以 叙述 。
+ADP NOUN PART NOUN PART NOUN PUNCT ADV ADP NOUN PUNCT NOUN PUNCT NOUN PART VERB ADV VERB PUNCT
+次年司马炎创立西晋，司马攸受封为齐王。
+次 年司 马炎 创立 西晋 ， 司马攸 受 封为 齐王 。
+NUM NOUN PROPN VERB PROPN PUNCT NOUN VERB VERB NOUN PUNCT
+其后汲桑杀害东赢公司马腾，号称为颖报仇，于是起出司马颖的棺木，带着它行军，每有事都启奏司马颖，以行军令。
+其后 汲桑 杀害 东赢 公司 马腾 ， 号称 为 颖 报仇 ， 于是 起出 司马颖 的 棺木 ， 带 着 它 行军 ， 每 有事 都 启奏 司马颖 ， 以 行 军令 。
+ADV VERB VERB ADJ NOUN PROPN PUNCT VERB VERB VERB NOUN PUNCT ADV VERB NOUN PART NOUN PUNCT VERB PART PRON VERB PUNCT DET VERB ADV VERB NOUN PUNCT PART VERB NOUN PUNCT
+合武铁路为沪汉蓉快速通道的一部分。
+合武 铁路 为 沪 汉蓉 快速 通道 的 一部分 。
+VERB NOUN ADP PROPN NOUN ADV NOUN PART NUM PUNCT
+变调夹最初的用途是调整吉他的音调，使其与演唱者的嗓音相协调。
+变调 夹 最初 的 用途 是 调整 吉他 的 音调 ， 使 其 与 演唱者 的 嗓音 相 协调 。
+NOUN VERB ADJ PART NOUN VERB VERB NOUN PART NOUN PUNCT VERB PRON CCONJ NOUN PART NOUN ADV VERB PUNCT
+约11世纪，苯教大师贤钦鲁噶的弟子许耶罗布兴建了一座名叫“吉卡日香”的苯教寺院。
+约 11世纪 ， 苯教 大师 贤钦 鲁噶 的 弟子 许耶 罗布 兴建 了 一 座 名叫 “ 吉卡 日香 ” 的 苯教 寺院 。
+ADV NOUN PUNCT NOUN NOUN VERB VERB PART NOUN VERB NOUN VERB PART NUM NUM VERB PUNCT NOUN NOUN PUNCT PART NOUN NOUN PUNCT
+对于语言学家来说一般这是区分两种语言的标志。
+对于 语言学家 来说 一般 这是 区分 两 种 语言 的 标志 。
+ADP NOUN PART ADV VERB VERB NUM NUM NOUN PART NOUN PUNCT
+相反的只会说吉大港语的人听不懂孟加拉语。
+相反 的 只 会 说 吉大港语 的 人 听 不 懂 孟加拉语 。
+VERB PART ADV VERB VERB PROPN PART NOUN VERB ADV VERB VERB PUNCT
+多斯桑托斯早于2007年便入选墨西哥国家足球队成为大国脚，在2009年也入选2009年美洲金杯的国家队名单，在赛事中合共射入两球及交出多次助攻，表现出色，协助墨西哥羸得第五次美洲金杯冠军。
+多斯桑托斯 早 于 2007年 便 入选 墨西哥 国家 足球队 成为 大 国脚 ， 在 2009年 也 入选 2009年 美洲 金杯 的 国家队 名单 ， 在 赛事 中 合共 射入 两 球 及 交出 多次 助攻 ， 表现 出色 ， 协助 墨西哥 羸得 第五 次 美洲 金杯 冠军 。
+PROPN ADV ADP NOUN ADV VERB PROPN NOUN NOUN VERB ADJ NOUN PUNCT ADP NOUN ADV VERB NOUN PROPN PROPN PART NOUN NOUN PUNCT ADP NOUN PART NOUN NOUN NUM NOUN CCONJ NOUN ADV VERB PUNCT VERB VERB PUNCT VERB PROPN VERB NUM NUM PROPN PROPN NOUN PUNCT
+2004年5月6日，吉田美和选在生日这天，透过网站向世人宣布与末田健闪电结婚的消息。
+2004年 5月 6日 ， 吉田美和 选 在 生日 这天 ， 透过 网站 向 世人 宣布 与 末田健 闪电 结婚 的 消息 。
+NOUN NOUN NOUN PUNCT PROPN VERB ADP NOUN PRON PUNCT ADP NOUN ADP NOUN VERB ADP NOUN ADV VERB PART NOUN PUNCT
+斯诺克以外，怀特亦曾参与周星驰所主演的电影龙的传人，饰演其真实身份--职业斯诺克球手。
+斯诺克 以外 ， 怀特 亦 曾 参与 周星驰 所 主演 的 电影龙 的 传人 ， 饰演 其 真实 身份 -- 职业 斯诺克球手 。
+PROPN PART PUNCT NOUN ADV ADV VERB PROPN PART VERB PART NOUN PART NOUN PUNCT VERB PRON ADJ NOUN PUNCT ADJ PROPN PUNCT
+同义镇是中国黑龙江省齐齐哈尔市讷河市下辖的一个镇。
+同义镇 是 中国 黑龙江省 齐齐哈尔市 讷河市 下辖 的 一个 镇 。
+NOUN VERB PROPN PROPN VERB NOUN VERB PART NUM NOUN PUNCT
+名人会议成员包括亲王、贵族、大主教、大法官，某些情况下，也包括主要城镇的官员。
+名人 会议 成员 包括 亲王 、 贵族 、 大主教 、 大法官 ， 某些 情况 下 ， 也 包括 主要 城镇 的 官员 。
+NOUN NOUN NOUN VERB NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT DET NOUN PART PUNCT ADV VERB ADJ NOUN PART NOUN PUNCT
+总括来说，名人会议旨在维持国家繁荣安定。
+总括 来说 ， 名人 会议 旨在 维持 国家 繁荣 安定 。
+ADV VERB PUNCT NOUN NOUN VERB VERB NOUN VERB VERB PUNCT
+上映第四周为日本黄金周过后的第一周，柯南历届剧场版票房通常从这时期开始增幅放缓，但M 17却依然成为周票房榜冠军，蝉联四周冠军。
+上映 第四 周 为 日本 黄金周 过后 的 第一 周 ， 柯南历 届 剧场 版票房 通常 从 这 时期 开始 增幅 放缓 ， 但 M 17 却 依然 成为 周票 房榜 冠军 ， 蝉联 四周 冠军 。
+VERB NUM NUM ADP PROPN NOUN PART PART NUM NUM PUNCT PROPN NUM NOUN NOUN ADV ADP DET NOUN VERB NOUN VERB PUNCT ADV X NOUN ADV ADV VERB NOUN NOUN NOUN PUNCT VERB NOUN NOUN PUNCT
+曾经花了30年的时间冒险的冒险家，打算和好友分享他的宝物和经历演说，然而为了如此还邀请福尔摩斯与华生来参加展览。
+曾经 花 了 30年 的 时间 冒险 的 冒险家 ， 打算 和 好友 分享 他 的 宝物 和 经历 演说 ， 然而 为了 如此 还 邀请 福尔摩斯 与 华生 来 参加 展览 。
+ADV VERB PART NUM PART NOUN VERB PART NOUN PUNCT VERB ADP NOUN VERB PRON PART NOUN CCONJ NOUN NOUN PUNCT ADV ADP ADV ADV VERB PROPN CCONJ PROPN VERB VERB NOUN PUNCT
+1934年，他共为日本国家足球队出场1次，打进1球。
+1934年 ， 他 共 为 日本 国家 足球队 出场 1 次 ， 打进 1球 。
+NOUN PUNCT PRON ADV ADP PROPN NOUN NOUN VERB NUM NUM PUNCT VERB NUM PUNCT
+校园中有一条南北向的大道将校园分成东西两部。
+校园 中 有 一 条 南北向 的 大道 将 校园 分成 东西 两 部 。
+NOUN PART VERB NUM NUM NOUN PART NOUN X NOUN VERB NOUN NUM NUM PUNCT
+后港体育场是新加坡的一所综合性体育场，球场位于新加坡后港地区，最多可以同时容纳3,400名观众，球场每天早晨对大众开放晨练和慢跑活动，球场目前是新加坡职业足球联赛球队盛港榜鹅队的主场。
+后 港 体育场 是 新加坡 的 一 所 综合性 体育场 ， 球场 位于 新加坡 后 港 地区 ， 最多 可以 同时 容纳 3 , 400 名 观众 ， 球场 每天 早晨 对 大众 开放 晨练 和 慢跑 活动 ， 球场 目前 是 新加坡 职业 足球 联赛 球队 盛港 榜鹅队 的 主场 。
+ADJ PROPN NOUN VERB PROPN PART NUM NUM ADJ NOUN PUNCT NOUN VERB PROPN PART PROPN NOUN PUNCT ADV VERB ADV VERB NUM PUNCT NUM NUM NOUN PUNCT NOUN ADV NOUN ADP NOUN NOUN NOUN CCONJ ADJ NOUN PUNCT NOUN NOUN VERB PROPN NOUN NOUN NOUN NOUN VERB NOUN PART NOUN PUNCT
+当然由于我们已经没有办法脱离现代生活方式的制约，而各种现代主义所带来的恶果，并不足以完全否定现代文明的生活。
+当然 由于 我们 已经 没有 办法 脱离 现代 生活 方式 的 制约 ， 而 各种 现代主义 所 带来 的 恶果 ， 并 不 足以 完全 否定 现代 文明 的 生活 。
+ADV ADP PRON ADV VERB NOUN VERB ADJ NOUN NOUN PART NOUN PUNCT ADV ADV NOUN PART VERB PART NOUN PUNCT ADV ADV VERB ADV VERB ADJ NOUN PART NOUN PUNCT
+这种行为本身造成了一种对后现代理解的偏激和错位。
+这种 行为 本身 造成 了 一 种 对 后 现代 理解 的 偏激 和 错位 。
+ADJ NOUN PRON VERB PART NUM NUM ADP ADJ ADJ NOUN PART NOUN CCONJ NOUN PUNCT
+除了怀疑之外，他们的思想在理性思维者看来几乎是凝滞的，他们只能寄生在现代启蒙理性之上作个永远的捣蛋鬼。
+除了 怀疑 之外 ， 他们 的 思想 在 理性 思维者 看来 几乎 是 凝滞 的 ， 他们 只能 寄生 在 现代 启蒙 理性 之上 作个 永远 的 捣蛋 鬼 。
+ADP NOUN PART PUNCT PRON PART NOUN ADP NOUN NOUN VERB ADV VERB VERB PART PUNCT PRON ADV VERB ADP ADJ NOUN NOUN PART VERB ADJ PART ADJ NOUN PUNCT
+她是日本第一位女性宇航员，也是首位两度登上太空的日本宇航员。
+她 是 日本 第一 位 女性 宇航员 ， 也 是 首位 两 度 登上 太空 的 日本 宇航员 。
+PRON VERB PROPN NUM NUM NOUN NOUN PUNCT ADV VERB NOUN NUM NUM VERB NOUN PART PROPN NOUN PUNCT
+自1992年以来，向井千秋是德克萨斯州休斯敦贝勒医学院外科研究讲师。
+自 1992年 以来 ， 向 井 千秋 是 德克萨斯州 休斯敦 贝勒 医学院 外科 研究 讲师 。
+ADP NOUN PART PUNCT ADP NOUN PROPN VERB PROPN PROPN VERB NOUN NOUN NOUN NOUN PUNCT
+向则错是一个位于中国西藏自治区日喀则地区的湖泊，面积约为1.69平方千米，属于青藏高原。
+向 则 错 是 一个 位于 中国 西藏 自治区 日喀则 地区 的 湖泊 ， 面积 约 为 1. 69 平方千 米 ， 属于 青藏 高原 。
+ADP ADV VERB VERB ADV VERB PROPN PROPN NOUN PROPN NOUN PART NOUN PUNCT NOUN ADV VERB NUM NUM NOUN NUM PUNCT VERB NOUN NOUN PUNCT
+向岛TB（向岛本线料金所）是位于广岛县尾道市的西濑户自动车道（濑户内岛波海道）之收费站。
+向 岛TB （ 向 岛本线 料金所 ） 是 位于 广岛县 尾道市 的 西濑户 自动 车道 （ 濑户 内 岛波 海道 ） 之 收费站 。
+ADP NOUN PUNCT ADP PROPN VERB PUNCT VERB VERB PROPN PROPN PART PROPN ADJ NOUN PUNCT NOUN PART VERB NOUN PUNCT PART NOUN PUNCT
+独特的地理条件和气候特点造就了春夏间云山雾海的奇景，使向阳成为夏日休闲避暑的圣地，同时为我乡名优特水果、速生丰产林、食用菌、有机茶叶等绿色农业成规模开发提供了得天独厚的自然条件。
+独特 的 地理 条件 和 气候 特点 造就 了 春夏 间 云山 雾海 的 奇景 ， 使 向阳 成为 夏日 休闲 避暑 的 圣地 ， 同时 为 我 乡名 优特 水果 、 速生 丰产林 、 食用菌 、 有机 茶叶 等 绿色 农业 成 规模 开发 提供 了 得天独厚 的 自然 条件 。
+VERB PART NOUN NOUN CCONJ NOUN NOUN VERB PART NOUN PART VERB NOUN PART NOUN PUNCT VERB NOUN VERB NOUN NOUN VERB PART NOUN PUNCT ADV ADP PRON VERB NOUN NOUN PUNCT NOUN NOUN PUNCT PROPN PUNCT ADJ NOUN PART ADJ NOUN VERB NOUN NOUN VERB PART VERB PART NOUN NOUN PUNCT
+伊吕西60年代师从格罗滕迪克，参与了代数几何讨论班。
+伊吕西60年代 师从 格罗滕迪克 ， 参与 了 代数几 何 讨论 班 。
+PROPN NOUN VERB PUNCT VERB PART NOUN ADV NOUN NOUN PUNCT
+宋太宗去世后，内侍王继恩密谋废掉太子，另立君王。
+宋 太 宗 去世 后 ， 内侍 王继恩 密谋 废掉 太子 ， 另立君王 。
+PROPN ADV VERB VERB PART PUNCT NOUN PROPN ADV VERB VERB PUNCT VERB PUNCT
+此外，君主要做到珍惜人才，任人为贤，激励人们在各行各业做好本职工作。
+此外 ， 君 主要 做到 珍惜 人才 ， 任人为贤 ， 激励 人们 在 各行各业 做好 本职 工作 。
+ADV PUNCT NOUN ADV VERB VERB NOUN PUNCT VERB PUNCT VERB NOUN ADP NOUN VERB NOUN NOUN PUNCT
+1048年帝国与塞尔柱人在亚美尼亚发生冲突，但不久即缔结和约。
+1048年 帝国 与 塞尔柱人 在 亚美尼亚 发生 冲突 ， 但 不久 即 缔结 和约 。
+NOUN NOUN CCONJ PROPN ADP PROPN VERB NOUN PUNCT ADV NOUN ADV VERB NOUN PUNCT
+这次叛乱大大削弱了帝国在巴尔干地区的防御力量，导致1048年佩切涅格人入侵该地区，并在此后5年多次进行劫掠，造成很大破坏。
+这次 叛乱 大大 削弱 了 帝国 在 巴尔干 地区 的 防御 力量 ， 导致 1048年 佩切 涅格人 入侵 该 地区 ， 并 在 此后 5 年 多次 进行 劫掠 ， 造成 很 大 破坏 。
+X NOUN ADV VERB PART NOUN ADP PROPN NOUN PART NOUN NOUN PUNCT VERB NOUN NOUN PROPN VERB DET NOUN PUNCT ADV ADP ADV NUM NUM ADV VERB NOUN PUNCT VERB ADV ADJ NOUN PUNCT
+像富人住宅一样，教堂和修道院通常也带有花园。
+像 富人 住宅 一样 ， 教堂 和 修道院 通常 也 带有 花园 。
+ADP NOUN NOUN VERB PUNCT NOUN CCONJ NOUN ADV ADV VERB NOUN PUNCT
+普通平民为逃避兵役竟采取自残的办法。
+普通 平民 为 逃避 兵役 竟 采取 自残 的 办法 。
+ADJ NOUN ADP VERB NOUN ADV VERB NOUN PART NOUN PUNCT
+吲哚乙酸也可以用化学方法合成。
+吲哚 乙酸 也 可以 用 化学 方法 合成 。
+NOUN NOUN ADV VERB ADP NOUN NOUN VERB PUNCT
+吴廷琰的活动使他实质上获得了公开身份，这时法国人决定让步，以安抚民族主义鼓动者，还要求他劝说保大皇帝加入他们。
+吴廷琰 的 活动 使 他 实质上 获得 了 公开 身份 ， 这时 法国人 决定 让步 ， 以 安抚 民族主义 鼓动者 ， 还 要求 他 劝说 保大 皇帝 加入 他们 。
+PROPN PART NOUN VERB PRON ADV VERB PART ADJ NOUN PUNCT ADV NOUN VERB VERB PUNCT PART VERB NOUN NOUN PUNCT ADV VERB PRON VERB NOUN NOUN VERB PRON PUNCT
+吴之父亲将其送往英国寄宿学校读高中，但他又因偷窃而被学校开除。
+吴 之 父亲 将 其 送往 英国 寄宿 学校 读 高中 ， 但 他 又 因 偷窃 而 被 学校 开除 。
+PROPN PART NOUN X PRON VERB PROPN NOUN NOUN VERB NOUN PUNCT ADV PRON ADV ADP VERB PART X NOUN VERB PUNCT
+吴念真的父亲来自嘉义县民雄，到达瑞芳，在李建兴兄弟创办的瑞三煤矿工作。
+吴念 真的 父亲 来自 嘉义县 民雄 ， 到达 瑞芳 ， 在 李建兴 兄弟 创办 的 瑞三 煤矿 工作 。
+PROPN ADV NOUN VERB NOUN NOUN PUNCT VERB PROPN PUNCT ADP PROPN NOUN VERB PART PROPN NOUN VERB PUNCT
+消息传得很快，日本报章也报道中国发现了天才神童。
+消息 传得 很快 ， 日本 报章 也 报道 中国 发现 了 天才 神童 。
+NOUN NOUN ADV PUNCT PROPN NOUN ADV VERB PROPN VERB PART NOUN NOUN PUNCT
+吴曾任跨国机构信昌工程有限公司之常务董事。
+吴 曾 任 跨国 机构 信昌 工程 有限 公司 之 常务 董事 。
+PROPN ADV VERB ADJ NOUN NOUN NOUN ADJ NOUN PART ADJ NOUN PUNCT
+三桂治军严谨，精锐骑兵一千人，分二十队，五十人一队，每队设一领骑官，吴三桂在自己的靴筒上放这二十名领骑官姓名，一旦抽中谁，便呼叫某领骑官，该领骑官即统五十人骑队，跟随他冲锋陷阵，可谓“无往不利”，是明末最后一支有战力的铁骑部队。
+三桂 治军 严谨 ， 精锐 骑兵 一千 人 ， 分 二十队 ， 五十 人 一 队 ， 每 队 设 一领骑官 ， 吴三桂 在 自己 的 靴筒 上 放 这 二十 名 领骑 官 姓名 ， 一旦 抽中 谁 ， 便 呼叫 某领 骑官 ， 该 领 骑官 即统 五十 人 骑队 ， 跟随 他 冲锋陷阵 ， 可谓 “ 无往不利 ” ， 是 明末 最后 一 支 有 战力 的 铁骑 部队 。
+NOUN VERB VERB PUNCT NOUN NOUN NUM NOUN PUNCT VERB NUM PUNCT NUM NOUN NUM NUM PUNCT DET NUM VERB NOUN PUNCT PROPN ADP PRON PART NOUN PART VERB DET NUM NUM NOUN NOUN NOUN PUNCT SCONJ VERB PRON PUNCT ADV VERB NOUN NOUN PUNCT VERB VERB NOUN NOUN NUM NOUN VERB PUNCT ADP PRON VERB PUNCT ADV PUNCT VERB PUNCT PUNCT VERB VERB ADJ NUM NUM VERB NOUN PART NOUN NOUN PUNCT
+之后吴三桂转成为清军先驱，率军攻打陕西、四川等地的李自成、张献忠余部。
+之后 吴 三 桂转 成为 清军 先驱 ， 率军 攻打陕西 、 四川 等 地 的 李自成 、 张献忠 余部 。
+PART PROPN NUM NOUN VERB NOUN NOUN PUNCT VERB PROPN PUNCT PROPN PART NOUN PART PROPN PUNCT PROPN VERB PUNCT
+顺治十七年，朝廷以赋税不足，令吴三桂裁减兵员。
+顺治 十七 年 ， 朝廷 以 赋税 不足 ， 令 吴 三 桂裁 减兵员 。
+VERB NUM NUM PUNCT NOUN ADP NOUN VERB PUNCT VERB PROPN NUM NOUN NOUN PUNCT
+故事的高潮在于周润发在手里抱着婴儿嘴里哼着摇篮曲哄小孩睡觉的情况下，一一解决歹徒并跳出窗外，婴儿仍是安然无恙。
+故事 的 高潮 在于 周润发 在 手里 抱 着 婴儿 嘴里 哼 着 摇篮 曲哄 小孩 睡觉 的 情况 下 ， 一一 解决 歹徒 并 跳出 窗外 ， 婴儿 仍 是 安然无恙 。
+NOUN PART NOUN VERB PROPN ADP NOUN VERB PART NOUN NOUN INTJ PART NOUN VERB NOUN VERB PART NOUN PART PUNCT ADV VERB NOUN CCONJ VERB VERB PUNCT NOUN ADV VERB VERB PUNCT
+2008年6月28日，成立中国首个以同性恋者及其亲友为主体的民间组织----同性恋亲友会并任会长3年半。
+2008年 6月 28日 ， 成立 中国 首 个 以 同性恋者 及其 亲友 为 主体 的 民间 组织 -- -- 同性恋 亲友会 并任 会长 3 年 半 。
+NOUN NOUN NOUN PUNCT VERB PROPN NUM NUM ADP NOUN CCONJ NOUN VERB NOUN PART NOUN NOUN PUNCT PUNCT NOUN NOUN VERB NOUN NUM NUM NUM PUNCT
+而为了补充吴桂贤的文化知识，她曾被安排到西北大学学习；于1968年毕业。
+而 为了 补充 吴桂贤 的 文化 知识 ， 她 曾 被 安排 到 西北 大学 学习 ； 于 1968年 毕业 。
+ADV ADP VERB PROPN PART NOUN NOUN PUNCT PRON ADV X VERB VERB PROPN NOUN VERB PUNCT ADP NOUN VERB PUNCT
+该建筑现为一般保护等级历史风貌建筑。
+该 建筑 现为 一般 保护 等级 历史 风貌 建筑 。
+DET NOUN NOUN ADV VERB NOUN NOUN NOUN NOUN PUNCT
+2004年初，吴金贵被调入中国国家足球队，出任荷兰主教练阿里·哈恩的助理，但是很快因为对于“业务的不同意见”而离开。
+2004年 初 ， 吴金贵 被 调入 中国 国家 足球队 ， 出任 荷兰主 教练 阿里·哈恩 的 助理 ， 但是 很快 因为 对于 “ 业务 的 不同 意见 ” 而 离开 。
+NOUN PART PUNCT PROPN X VERB PROPN NOUN NOUN PUNCT VERB PROPN NOUN PROPN PART NOUN PUNCT ADV ADV ADP ADP PUNCT NOUN PART ADJ NOUN PUNCT PART VERB PUNCT
+Elijah之后由Elena取回匕首，重新立规则对付Klaus。
+Elijah 之后 由 Elena 取回 匕首 ， 重新 立规 则 对付 Klaus 。
+PROPN PART ADP PROPN VERB NOUN PUNCT ADV VERB ADV VERB NOUN PUNCT
+Katherine自杀，因此成了吸血鬼。
+Katherine 自杀 ， 因此 成 了 吸血鬼 。
+PROPN VERB PUNCT ADV VERB PART NOUN PUNCT
+Lucy在月光石上施咒，交给Katherine。
+Lucy 在 月光石 上 施咒 ， 交给 Katherine 。
+PROPN ADP NOUN PART VERB PUNCT VERB PROPN PUNCT
+最初在1996年未上映的试播节目中罗森博格这个角色是让Riff Regan饰演，但在确定会上映并重新征选角色后，Hannigan参加了罗森博格这个角色的征选。
+最初 在 1996年 未 上映 的 试播 节目 中罗森 博格 这个 角色 是 让 Riff Regan 饰演 ， 但 在 确定 会 上映 并 重新 征选 角色 后 ， Hannigan 参加 了 罗森 博格 这个 角色 的 征选 。
+NOUN ADP NOUN ADV VERB PART NOUN NOUN NOUN NOUN DET NOUN VERB VERB PROPN PROPN VERB PUNCT ADV ADP VERB VERB VERB CCONJ ADV VERB NOUN PART PUNCT PROPN VERB PART PROPN VERB DET NOUN PART NOUN PUNCT
+因为天生身体虚弱，从没在“夜之社交界”里出现过。
+因为 天生 身体 虚弱 ， 从没 在 “ 夜之社 交界 ” 里 出现 过 。
+ADP NOUN NOUN VERB PUNCT ADV ADP PUNCT NOUN VERB PUNCT PART VERB PART PUNCT
+古斯塔夫·克林姆创作这幅画时为45岁，当时他仍然跟母亲及两个尚未结婚的姐妹居住在一起。
+古斯塔夫·克林姆 创作 这 幅 画时 为 45 岁 ， 当时 他 仍然 跟 母亲 及 两 个 尚未 结婚 的 姐妹 居住 在 一起 。
+PROPN NOUN DET NUM NOUN VERB NUM NUM PUNCT NOUN PRON ADV ADP NOUN CCONJ NUM NUM ADV VERB PART NOUN VERB VERB ADV PUNCT
+1988年11月15日，他于伦敦病逝，终年73岁。
+1988年 11月 15日 ， 他 于 伦敦 病逝 ， 终年 73 岁 。
+NOUN NOUN NOUN PUNCT PRON ADP PROPN VERB PUNCT ADV NUM NUM PUNCT
+可是，吕卫伦接任会长的时候，正值英国文化协会的低潮，在1960年代，由于政府削减资助等原因，协会被迫先后结束在缅甸、斐济、加勒比海和非洲及中东部份地区的工作，并将协会的服务对象逐步缩窄至西欧地区，工作性质也限制到只有艺术、科学和科技领域的交流层面，使协会的规模不断萎缩。
+可是 ， 吕卫伦 接任 会长 的 时候 ， 正值 英国 文化 协会 的 低潮 ， 在 1960年代 ， 由于 政府 削减 资助 等 原因 ， 协会 被迫 先后 结束 在 缅甸 、 斐济 、 加勒比海 和 非洲 及 中东 部份 地区 的 工作 ， 并 将 协会 的 服务 对象 逐步 缩窄 至 西欧 地区 ， 工作 性质 也 限制 到 只有 艺术 、 科学 和 科技 领域 的 交流 层面 ， 使 协会 的 规模 不断 萎缩 。
+ADV PUNCT NOUN VERB NOUN PART NOUN PUNCT VERB PROPN NOUN NOUN PART NOUN PUNCT ADP NUM PUNCT ADP NOUN VERB NOUN PART NOUN PUNCT NOUN ADV ADV VERB ADP PROPN PUNCT PROPN PUNCT PROPN CCONJ PROPN CCONJ PROPN NOUN NOUN PART NOUN PUNCT CCONJ X NOUN PART NOUN NOUN ADV VERB ADP NOUN NOUN PUNCT NOUN NOUN ADV VERB VERB ADV NOUN PUNCT NOUN CCONJ NOUN NOUN PART NOUN NOUN PUNCT VERB NOUN PART NOUN ADV VERB PUNCT
+吕卫伦在纽西兰工作期间，也曾担任过与教育无关的公职。
+吕卫伦 在 纽西兰 工作 期间 ， 也 曾 担任 过 与 教育 无关 的 公职 。
+PROPN ADP PROPN VERB NOUN PUNCT ADV ADV VERB PART CCONJ NOUN VERB PART NOUN PUNCT
+在出任协会会长以前，他早在1968年至1972年任英国文化协会英联邦大学交流委员会委员，因此对协会有一定认识。
+在 出任 协会 会长 以前 ， 他 早 在 1968年 至 1972年 任 英国 文化 协会 英 联邦 大学 交流 委员会 委员 ， 因此 对 协会 有 一定 认识 。
+ADP VERB NOUN NOUN PART PUNCT PRON ADV ADP NOUN CCONJ NOUN NUM PROPN NOUN NOUN PROPN NOUN NOUN NOUN NOUN NOUN PUNCT ADV ADP NOUN VERB ADJ NOUN PUNCT
+尽管他的钱币象征意味雄厚，但在政策上可能趋向防御性质。
+尽管 他 的 钱币 象征 意味 雄厚 ， 但 在 政策 上 可能 趋向 防御 性质 。
+SCONJ PRON PART NOUN VERB NOUN VERB PUNCT ADV ADP NOUN PART VERB VERB NOUN NOUN PUNCT
+香港马会亦暂时吊销其骑师牌照，停赛四个月。
+香港 马会 亦 暂时 吊销 其 骑师 牌照 ， 停赛 四 个 月 。
+PROPN PROPN ADV ADV VERB PRON NOUN NOUN PUNCT VERB NUM NUM NOUN PUNCT
+辛亥革命爆发后，他被蜀军政府派到上海购买军械，并与各省都督府代表联合会代表在湖北会议。
+辛亥革命 爆发 后 ， 他 被 蜀军 政府 派到 上海 购买 军械 ， 并 与 各省 都 督府 代表 联合会 代表 在 湖北 会议 。
+PROPN VERB PART PUNCT PRON X ADJ NOUN VERB PROPN VERB NOUN PUNCT CCONJ ADP NOUN ADP NOUN VERB NOUN NOUN ADP PROPN NOUN PUNCT
+他是北京大学第一个讲欧洲文学史的教授。
+他 是 北京 大学 第一 个 讲 欧洲 文学史 的 教授 。
+PRON VERB PROPN NOUN NUM NUM VERB PROPN NOUN PART NOUN PUNCT
+但可以举一事为例，他说他喜欢涉览笔记，中国的，他几乎都看过。
+但 可以 举 一 事 为例 ， 他 说 他 喜欢 涉览 笔记 ， 中国 的 ， 他 几乎 都 看 过 。
+ADV VERB VERB NUM NOUN VERB PUNCT PRON VERB PRON VERB VERB VERB PUNCT PROPN PART PUNCT PRON ADV ADV VERB PART PUNCT
+这情况，轻一些说是他们有了自己的独有的风格，重一些说是别人办不了。
+这 情况 ， 轻 一些 说 是 他们 有 了 自己 的 独有 的 风格 ， 重 一些 说 是 别人 办 不 了 。
+DET NOUN PUNCT ADV ADV VERB VERB PRON VERB PART PRON PART NOUN PART NOUN PUNCT VERB ADV VERB VERB NOUN VERB ADV VERB PUNCT
+从第二年开始，周俊三渐转球队辅助角色，上场时间愈来愈少。
+从 第二 年 开始 ， 周俊 三 渐 转球队 辅助 角色 ， 上场 时间 愈来愈 少 。
+ADP NUM NUM PART PUNCT NOUN NUM NOUN NOUN ADJ NOUN PUNCT NOUN NOUN ADV VERB PUNCT
+民国6年（1917年），段祺瑞执政，国会再度解散。
+民国 6 年 （ 1917年 ） ， 段祺瑞 执政 ， 国会 再度 解散 。
+PROPN NUM NUM PUNCT NOUN PUNCT PUNCT NOUN VERB PUNCT NOUN ADV VERB PUNCT
+汪精卫从重庆脱出并受到日本保护之际，周化人归国辅佐汪。
+汪精卫 从 重庆 脱出 并 受到 日本 保护 之际 ， 周化人 归国 辅佐汪 。
+PROPN ADP PROPN VERB CCONJ VERB PROPN NOUN PART PUNCT PROPN VERB NOUN PUNCT
+1946年10月19日他被首都高等法院判处死刑，1947年（民国36年）5月上诉仍被维持原判，但迟迟未执行枪决。
+1946年 10月 19日 他 被 首都 高等 法院 判处 死刑 ， 1947年 （ 民国 36年 ） 5月 上诉 仍 被 维持 原判 ， 但 迟迟 未 执行 枪决 。
+NOUN NOUN NOUN PRON X NOUN ADJ NOUN VERB NOUN PUNCT NOUN PUNCT PROPN NUM PUNCT NOUN NOUN ADV X VERB NOUN PUNCT ADV ADV ADV VERB NOUN PUNCT
+光绪三十二年（1906年）任山东大学堂总监督，任职一年。
+光绪 三十二年 （ 1906年 ） 任 山东 大学堂 总 监督 ， 任职 一 年 。
+NOUN NUM PUNCT NOUN PUNCT VERB PROPN PROPN ADJ NOUN PUNCT VERB NUM NUM PUNCT
+西戎是对中国古代西部部族的统称，长期威胁西周王朝的西部边境。
+西戎 是 对 中国 古代 西部 部族 的 统称 ， 长期 威胁 西周 王朝 的 西部 边境 。
+PROPN VERB ADP PROPN NOUN NOUN NOUN PART NOUN PUNCT ADV VERB ADJ NOUN PART NOUN NOUN PUNCT
+后来，周志仁随护国军赴四川，转战泸州、叙府，后在四川战死。
+后来 ， 周志仁 随护 国军 赴 四川 ， 转战 泸州 、 叙府 ， 后 在 四川 战死 。
+ADV PUNCT PROPN VERB NOUN VERB PROPN PUNCT VERB VERB PUNCT NOUN PUNCT ADV ADP PROPN VERB PUNCT
+周成建是中国的著名浙商及企业家，2009年以个人资产达136亿元人民币上榜福布斯中国富豪榜。
+周 成建 是 中国 的 著名 浙商 及 企业家 ， 2009年 以 个人 资产 达 136亿 元 人民币 上 榜福布斯 中国 富豪榜 。
+PROPN NOUN VERB PROPN PART ADJ NOUN CCONJ NOUN PUNCT NOUN ADP NOUN NOUN VERB NUM NUM NOUN PART VERB PROPN PROPN PUNCT
+晚年留居北京，常与恩施樊增祥、应山左绍佐以诗文唱和，号“楚中三老”。
+晚年 留居 北京 ， 常 与 恩施 樊 增祥 、 应山 左绍 佐 以 诗文 唱和 ， 号 “ 楚中 三 老 ” 。
+NOUN VERB PROPN PUNCT ADV ADP PROPN NOUN NOUN PUNCT ADV VERB ADV ADP NOUN NOUN PUNCT NOUN PUNCT ADJ NUM NOUN PUNCT PUNCT
+最小的弟弟周渝继承爸爸的思想，将紫藤庐经营成台北市独具一格的文化茶馆，成为台北市市定古迹。
+最 小 的 弟弟 周渝 继承 爸爸 的 思想 ， 将 紫藤 庐 经营 成 台北市 独具一格 的 文化 茶馆 ， 成为 台北市 市定 古迹 。
+ADV VERB PART NOUN PROPN VERB NOUN PART NOUN PUNCT ADV VERB ADV VERB VERB PROPN VERB PART NOUN NOUN PUNCT VERB PROPN ADJ NOUN PUNCT
+有人说这是裴世清见到的秦王国。
+有人 说 这是 裴世清 见到 的 秦 王国 。
+VERB VERB VERB PROPN VERB PART PROPN NOUN PUNCT
+1912年，调任回浙江，出任浙江省高等审判厅书记官长。
+1912年 ， 调任 回 浙江 ， 出任 浙江省 高等 审判厅 书记 官长 。
+NOUN PUNCT VERB VERB PROPN PUNCT VERB PROPN ADJ NOUN NOUN NOUN PUNCT
+1932年，周骏彦出任南京国民政府军政部军需署署长，后擢升至陆军军需总监，陆军中将军衔，是为周骏彦职业生涯顶点。
+1932年 ， 周骏彦 出任 南京 国民 政府 军政 部军 需署 署长 ， 后擢 升至 陆军 军需 总监 ， 陆军 中将 军衔 ， 是 为 周骏 彦职业 生涯 顶点 。
+NOUN PUNCT PROPN VERB PROPN NOUN NOUN NOUN NOUN VERB NOUN PUNCT NOUN VERB NOUN NOUN NOUN PUNCT NOUN VERB VERB PUNCT VERB ADP NOUN NOUN NOUN VERB PUNCT
+周骏彦早年曾在家乡奉化县的龙津学堂担任学监。
+周骏彦 早年 曾 在 家乡 奉化县 的 龙津学堂 担任 学监 。
+PROPN NOUN ADV ADP NOUN NOUN PART ADV VERB NOUN PUNCT
+幸得卫将军呼延瑜击杀了陈安之弟陈集，让刘曜顺利撤军。
+幸得 卫将军 呼延瑜 击杀 了 陈安之弟 陈集 ， 让 刘曜 顺利 撤军 。
+VERB NOUN PROPN VERB PART PROPN PROPN PUNCT VERB PROPN ADV VERB PUNCT
+玩家以地下军新成员与达夏取得联络，从达夏那玩家得知为针对盟军的抵抗活动已经就绪，但为我们研发新武器的苏联首席科学家却神秘失踪。
+玩家 以 地下军 新 成员 与 达夏 取得 联络 ， 从 达夏 那 玩家 得知 为 针对 盟军 的 抵抗 活动 已经 就绪 ， 但 为 我们 研发 新 武器 的 苏联 首席 科学家 却 神秘 失踪 。
+VERB ADP NOUN ADJ NOUN CCONJ NOUN VERB NOUN PUNCT ADP NOUN DET VERB VERB ADP ADP NOUN PART NOUN NOUN ADV VERB PUNCT ADV ADP PRON VERB ADJ NOUN PART PROPN ADJ NOUN ADV ADV VERB PUNCT
+所以，在现在的图形使用者介面的操作系统中，通常都保留着可选的命令列介面。
+所以 ， 在 现在 的 图形 使用者 介面 的 操作 系统 中 ， 通常 都 保留 着 可选 的 命令列 介面 。
+ADV PUNCT ADP NOUN PART NOUN NOUN PROPN PART NOUN NOUN PART PUNCT ADV ADV VERB PART VERB PART NOUN VERB PUNCT
+但在西元2000年以后，传媒尺度大开，许多命理节目风行，如：开运鉴定团、命运好好玩，造成命理的风行与正当化。
+但 在 西元 2000年 以后 ， 传媒 尺度 大 开 ， 许多 命理 节目 风行 ， 如 ： 开运 鉴定团 、 命运 好好 玩 ， 造成 命理 的 风行 与 正当化 。
+ADV ADP ADJ NOUN PART PUNCT NOUN NOUN ADV VERB PUNCT NUM NOUN NOUN VERB PUNCT ADV PUNCT VERB NOUN PUNCT NOUN ADV VERB PUNCT VERB NOUN PART NOUN CCONJ NOUN PUNCT
+命理师是台湾对于算命先生、半仙用现代自创词汇来称呼，是利用中国术数来算命的古老职业。
+命理师 是 台湾 对于 算命 先生 、 半 仙 用 现代 自创 词汇 来 称呼 ， 是 利用 中国 术数 来 算命 的 古老 职业 。
+NOUN VERB PROPN ADP PROPN NOUN PUNCT NUM NOUN ADP NOUN VERB NOUN PART VERB PUNCT VERB VERB PROPN VERB PART VERB PART ADJ NOUN PUNCT
+乡村柏油路纵横交织，程式控制电话遍布全乡。
+乡村 柏油路 纵横 交织 ， 程式 控制 电话 遍布 全 乡 。
+NOUN NOUN ADV VERB PUNCT NOUN VERB NOUN VERB DET NOUN PUNCT
+他们不分战争的社会根源，认为通过和平谈判和协商就能解决双方的暴力。
+他们 不 分 战争 的 社会 根源 ， 认为 通过 和平 谈判 和 协商 就 能 解决 双方 的 暴力 。
+PRON ADV VERB NOUN PART NOUN NOUN PUNCT VERB ADP NOUN NOUN CCONJ NOUN ADV VERB VERB PRON PART NOUN PUNCT
+香港主权移交后，官方每日的升降旗仪式改于金紫荆广场举行，由香港警察仪仗队执行。
+香港 主权 移交 后 ， 官方 每日 的 升降旗 仪式 改于 金紫荆 广场 举行 ， 由 香港 警察 仪仗队 执行 。
+PROPN NOUN VERB PART PUNCT NOUN ADJ PART NOUN NOUN NOUN NOUN NOUN VERB PUNCT ADP PROPN NOUN NOUN VERB PUNCT
+而她温柔善良的个性也与和缓翁主恰好相反，比起这个同母的妹妹，她与弟弟庄献世子感情也可以说非常融洽。
+而 她 温柔 善良 的 个性 也 与 和 缓翁 主恰 好 相反 ， 比起 这个 同母 的 妹妹 ， 她 与 弟弟 庄献 世子 感情 也 可以 说 非常 融洽 。
+ADV PRON VERB VERB PART NOUN ADV ADP ADP NOUN NOUN VERB VERB PUNCT ADP DET NOUN PART NOUN PUNCT PRON CCONJ NOUN NOUN NOUN NOUN ADV VERB VERB ADV VERB PUNCT
+和黄是业务遍布全球的大型跨国企业，经营多元化业务，包括全球多个市场最大的货柜码头经营商、零售连锁集团、地产发展与基建业务，以至电讯及电台广播服务。
+和 黄是 业务 遍布 全球 的 大型 跨国 企业 ， 经营 多元化 业务 ， 包括 全球 多 个 市场 最 大 的 货柜 码头 经营商 、 零售 连锁 集团 、 地产 发展 与 基建 业务 ， 以至 电讯 及 电台 广播 服务 。
+CCONJ PROPN NOUN VERB NOUN PART ADJ ADJ NOUN PUNCT VERB NOUN NOUN PUNCT VERB NOUN NUM NUM NOUN ADV VERB PART NOUN NOUN NOUN PUNCT NOUN ADJ NOUN PUNCT NOUN VERB CCONJ NOUN NOUN PUNCT ADP NOUN CCONJ NOUN NOUN NOUN PUNCT
+狐狸因过度疼痛，昏死过去。
+狐狸 因 过度 疼痛 ， 昏死 过去 。
+ADV ADP ADV VERB PUNCT VERB VERB PUNCT
+以下是一些常见的咖啡种类：咖啡粉的好坏对接下来的烹制过程有非常重要的影响。
+以下 是 一些 常见 的 咖啡 种类 ： 咖啡粉 的 好坏 对接 下来 的 烹制 过程 有 非常 重要 的 影响 。
+PRON VERB NUM ADJ PART NOUN NOUN PUNCT ADJ PART NOUN VERB VERB PART NOUN NOUN VERB ADV ADJ PART NOUN PUNCT
+咖啡因是一种黄嘌呤生物碱化合物，对人类来说是一种兴奋剂。
+咖啡因 是 一 种 黄嘌呤 生物 碱化 合物 ， 对 人类 来说 是 一 种 兴奋剂 。
+NOUN VERB NUM NUM PROPN NOUN ADV VERB PUNCT ADP NOUN PART VERB NUM NUM NOUN PUNCT
+深焙咖啡一般比浅焙咖啡的咖啡因含量少，因为烘焙能减少咖啡豆里的咖啡因含量。
+深焙 咖啡 一般 比 浅焙 咖啡 的 咖啡因 含量 少 ， 因为 烘焙 能 减少 咖啡豆 里 的 咖啡因 含量 。
+PROPN NOUN ADV ADP NOUN NOUN PART NOUN NOUN VERB PUNCT ADP NOUN VERB VERB NOUN PART PART NOUN NOUN PUNCT
+咸昌里，是台湾南部自清治时期至日治初期的一个行政区划，其范围即今屏东县的车城乡北部。
+咸昌 里 ， 是 台湾 南部 自 清治 时期 至 日治 初期 的 一个 行政 区划 ， 其 范围 即今 屏东县 的 车城乡 北部 。
+NOUN PART PUNCT VERB PROPN NOUN ADP NOUN NOUN CCONJ NOUN NOUN PART NUM NOUN NOUN PUNCT PRON NOUN ADP NOUN PART PROPN NOUN PUNCT
+中华民国时期，咸福宫曾作为故宫博物院乾隆御赏物陈列室。
+中华 民国 时期 ， 咸福宫 曾 作为 故宫 博物院 乾隆 御赏物 陈列室 。
+PROPN NOUN NOUN PUNCT ADV ADV ADP PROPN NOUN PROPN NOUN PROPN PUNCT
+品客除了口味多样之外，还有限定贩卖地区或时间的特色口味，相当受到消费者的欢迎，而该广告亦于无线、亚视及商台播出。
+品客 除了 口味 多样 之外 ， 还有 限定 贩卖 地区 或 时间 的 特色 口味 ， 相当 受到 消费者 的 欢迎 ， 而 该 广告 亦 于 无线 、 亚视 及 商台 播出 。
+NOUN ADP NOUN VERB PART PUNCT CCONJ NOUN VERB NOUN CCONJ NOUN PART NOUN NOUN PUNCT ADV VERB NOUN PART NOUN PUNCT ADV DET NOUN ADV ADP ADJ PUNCT PROPN CCONJ NOUN VERB PUNCT
+哈公，香港作家、电影编导、传媒工作者，原名许国、许子宾，潮汕人，一说是闽南泉州人（潮州话和泉州话都属于闽南语系，和泉州话有很多完全相同，比如“你”、“鱼”、“举”、“话”、“同”等字音）。
+哈公 ， 香港 作家 、 电影 编导 、 传媒 工作者 ， 原名 许国 、 许子宾 ， 潮汕人 ， 一 说 是 闽南 泉州人 （ 潮州话 和 泉州 话 都 属于 闽南 语系 ， 和 泉州 话 有 很多 完全 相同 ， 比如 “ 你 ” 、 “ 鱼 ” 、 “ 举 ” 、 “ 话 ” 、 “ 同 ” 等 字音 ） 。
+NOUN PUNCT PROPN NOUN PUNCT NOUN NOUN PUNCT NOUN NOUN PUNCT ADV NOUN PUNCT PROPN PUNCT PROPN PUNCT ADV VERB VERB PROPN PROPN PUNCT PROPN CCONJ PROPN NOUN ADV VERB PROPN NOUN PUNCT CCONJ PROPN NOUN VERB NUM ADV VERB PUNCT ADV PUNCT PRON PUNCT PUNCT PUNCT NOUN PUNCT PUNCT PUNCT NOUN PUNCT PUNCT PUNCT NOUN PUNCT PUNCT PUNCT NOUN PUNCT PART NOUN PUNCT PUNCT
+后来卡通造型的桑德斯上校（由演员Randy Quaid配音），出现在越来越多的肯德基广告中。
+后来 卡通 造型 的 桑德斯 上校 （ 由 演员 Randy Quaid 配音 ） ， 出现 在 越来越 多 的 肯德基 广告 中 。
+ADV NOUN NOUN PART NOUN VERB PUNCT ADP NOUN PROPN PROPN VERB PUNCT PUNCT VERB ADP ADV NUM PART ADJ NOUN PART PUNCT
+因相当着迷小丑，而开始分析和研究有关他的事，还疯狂地爱上他。
+因 相当 着迷 小丑 ， 而 开始 分析 和 研究 有关 他 的 事 ， 还 疯狂 地 爱上 他 。
+ADP ADV VERB NOUN PUNCT ADV VERB VERB CCONJ VERB ADP PRON PART NOUN PUNCT ADV VERB PART VERB PRON PUNCT
+圣诞晚会上，哈利、罗恩、赫敏分别提出或接受了异性的邀请，与舞伴一起参与了晚会。
+圣诞 晚会 上 ， 哈利 、 罗恩 、 赫敏 分别 提出 或 接受 了 异性 的 邀请 ， 与 舞伴 一起 参与 了 晚会 。
+NOUN NOUN PART PUNCT NOUN PUNCT PROPN PUNCT NOUN ADV VERB CCONJ VERB PART ADJ PART NOUN PUNCT ADP NOUN ADV VERB PART NOUN PUNCT
+最近的公交车站为九三五厂站。
+最近 的 公交 车站 为 九三五 厂站 。
+NOUN PART NOUN NOUN ADP NUM NOUN PUNCT
+2011年，哈尔滨实现地区生产总值4243.4亿元，比上年增长12.3%，连续9年保持12%以上的增长速度。
+2011年 ， 哈尔滨 实现 地区 生产 总值 4243 . 4亿 元 ， 比 上年 增长 12 . 3% ， 连续 9 年 保持 12% 以上 的 增长 速度 。
+NOUN PUNCT PROPN VERB NOUN NOUN NOUN NUM PUNCT NUM NUM PUNCT ADP NOUN VERB NUM PUNCT VERB PUNCT ADV NUM NUM VERB NUM PART PART NOUN NOUN PUNCT
+其中哈尔滨电机厂产品占全国水电工程设备数量的二分之一，火电工程设备数量的三分之一，总量的二分之一，也是三峡工程设备供应国内唯一中标单位，成为同行业龙头。
+其中 哈尔滨 电机厂 产品 占 全国 水电 工程 设备 数量 的 二分之一 ， 火电 工程 设备 数量 的 三分之一 ， 总量 的 二分之一 ， 也 是 三峡 工程 设备 供应 国内 唯一 中标 单位 ， 成为 同行业 龙头 。
+NOUN PROPN NOUN NOUN VERB ADJ NOUN NOUN NOUN NOUN PART NUM PUNCT NOUN NOUN NOUN NOUN PART NUM PUNCT NOUN PART NUM PUNCT ADV VERB PROPN NOUN NOUN NOUN NOUN ADJ ADJ NOUN PUNCT VERB NOUN NOUN PUNCT
+哈尔滨正处于金融业加速期，其金融业的“利基市场”成为国内外银行纷纷锁定的一块肥硕蛋糕。
+哈尔滨 正 处于 金融业 加速期 ， 其 金融业 的 “ 利基 市场 ” 成为 国内外 银行 纷纷 锁定 的 一块 肥硕 蛋糕 。
+PROPN ADV VERB NOUN NOUN PUNCT PRON NOUN PART PUNCT NOUN NOUN PUNCT VERB NOUN NOUN ADV VERB PART ADV NOUN NOUN PUNCT
+哈德逊（Hudson，Ohio）是美国俄亥俄州萨米特县的一个城市。
+哈德逊 （ Hudson ， Ohio ） 是 美国 俄亥俄州 萨米特县 的 一个 城市 。
+PROPN PUNCT PROPN PUNCT PROPN PUNCT VERB PROPN PROPN PROPN PART NUM NOUN PUNCT
+日本品牌的商品，无论是否在日本制造，在台湾通常价格较高但被视为品质较佳，依然有不少人购买。
+日本 品牌 的 商品 ， 无论 是否 在 日本 制造 ， 在 台湾 通常 价格 较 高 但 被 视为 品质 较 佳 ， 依然 有 不少 人 购买 。
+PROPN NOUN PART NOUN PUNCT SCONJ VERB ADP PROPN VERB PUNCT ADP PROPN ADJ NOUN ADV VERB ADV X VERB NOUN ADV VERB PUNCT ADV VERB NUM NOUN VERB PUNCT
+2001年5月，经组织批准，哈旺罗布享受正厅级职务工资和医疗待遇，提前退休。
+2001年 5月 ， 经 组织 批准 ， 哈旺罗布 享受 正厅级 职务 工资 和 医疗 待遇 ， 提前 退休 。
+NOUN NOUN PUNCT ADP NOUN VERB PUNCT PROPN VERB ADJ NOUN NOUN CCONJ NOUN NOUN PUNCT ADV VERB PUNCT
+他是瑞士著名穆斯林学者塔里克·拉马丹的外祖父，也是著名埃及美术类兄弟会成员贾麦勒·班纳（Gamal al-Banna）的哥哥。
+他 是 瑞士 著名 穆斯林 学者 塔里克·拉马丹 的 外祖父 ， 也 是 著名 埃及 美术 类 兄弟会 成员 贾麦勒·班纳 （ Gamal al-Banna ） 的 哥哥 。
+PRON VERB PROPN ADJ NOUN NOUN PROPN PART NOUN PUNCT ADV VERB ADJ PROPN NOUN NOUN PROPN NOUN PROPN PUNCT PROPN PUNCT PUNCT PART NOUN PUNCT
+保亚沙合共为黑池上阵20场及射入1球，虽然球队透过附加赛取得升班英超资格，但他仍于季后约满被放弃。
+保亚 沙合 共 为 黑池 上阵 20场 及 射入 1球 ， 虽然 球队 透过 附加赛 取得 升班 英超 资格 ， 但 他 仍 于 季后 约 满 被 放弃 。
+NOUN NOUN ADV ADP NOUN VERB NOUN CCONJ NOUN NOUN PUNCT SCONJ NOUN ADP NOUN VERB NOUN NOUN NOUN PUNCT ADV PRON ADV ADP NOUN ADV ADV X VERB PUNCT
+而在公众场合故意焚烧、毁损、涂划、沾污、践踏市旗、市徽的，由公安部门处以100至500元人民币罚款。
+而 在 公众 场合 故意 焚烧 、 毁损 、 涂划 、 沾污 、 践踏市 旗 、 市徽 的 ， 由 公安 部门 处以 100 至 500 元 人民币 罚款 。
+ADV ADP NOUN NOUN ADV VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN NOUN PUNCT NOUN PART PUNCT ADP NOUN NOUN VERB NUM CCONJ NUM NUM NOUN NOUN PUNCT
+俱乐部在2006年将球队名字更名为现在的哈特兰德。
+俱乐部 在 2006年 将 球队 名字 更名 为 现在 的 哈特兰德 。
+NOUN ADP NOUN X PROPN NOUN VERB VERB NOUN PART NOUN PUNCT
+目前至少有1000名哈瑞迪自愿入伍。
+目前 至少 有 1000 名 哈瑞迪 自愿 入伍 。
+NOUN ADV VERB NUM NUM NOUN ADV VERB PUNCT
+自14岁起，许多哈瑞迪男孩便不再学习任何世俗的科目（科学、数学、外语），转而专注在犹太律法的研读。
+自 14 岁 起 ， 许多 哈瑞迪 男孩 便 不 再 学习 任何 世俗 的 科目 （ 科学 、 数学 、 外语 ） ， 转而 专注 在 犹太 律法 的 研读 。
+ADP NUM NUM PART PUNCT NUM ADJ NOUN ADV ADV ADV VERB DET ADJ PART NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PUNCT ADV VERB ADP NOUN NOUN PART NOUN PUNCT
+该处为一个小型遗址，大约150米宽，200米长，高度约7米。
+该 处 为 一个 小型 遗址 ， 大约 150 米 宽 ， 200米 长 ， 高度 约 7 米 。
+DET NOUN VERB X ADJ NOUN PUNCT ADV NUM NUM VERB PUNCT NUM VERB PUNCT NOUN ADV NUM NUM PUNCT
+在1946年，美国本土发生了数宗残暴的私刑，其中有两名黑人男子和两名黑人妇女在乔治亚州的华尔顿县附近被杀害；另外亦有一名刚从二战战场退役的非洲裔军人遭到虐待，称为艾萨克·伍德沃德事件。
+在 1946年 ， 美国 本土 发生 了 数宗 残暴 的 私刑 ， 其中 有 两 名 黑人 男子 和 两 名 黑人 妇女 在 乔治亚州 的 华尔顿县 附近 被 杀害 ； 另外 亦 有 一 名 刚 从 二战 战场 退役 的 非洲裔 军人 遭到 虐待 ， 称为 艾萨克·伍德沃德 事件 。
+ADP NOUN PUNCT PROPN NOUN VERB PART NOUN VERB PART NOUN PUNCT NOUN VERB NUM NUM NOUN NOUN CCONJ NUM NUM NOUN NOUN ADP PROPN PART NOUN NOUN X VERB PUNCT ADV ADV VERB NUM NUM ADV ADP PROPN NOUN VERB PART ADJ NOUN VERB NOUN PUNCT VERB PROPN NOUN PUNCT
+杜鲁门是在罗斯福的身体健康每况愈下时被任命为副总统的，而任职副总统的时间只有82日，因此他们两人没有开展重要的合作。
+杜鲁门 是 在 罗斯福 的 身体 健康 每况愈下 时 被 任命 为 副总统 的 ， 而 任职 副总统 的 时间 只有 82日 ， 因此 他们 两 人 没有 开展 重要 的 合作 。
+PROPN VERB ADP PROPN PART NOUN NOUN VERB PART X VERB VERB NOUN PART PUNCT ADV VERB NOUN PART NOUN VERB NUM PUNCT ADV PRON NUM NOUN ADV VERB VERB PART NOUN PUNCT
+然而出乎意料的是，杜鲁门宣誓就任副总统之后数日，即接替罗斯福任总统前的数个月，他公然出席了彭德格斯特的丧礼。
+然而 出乎意料 的 是 ， 杜鲁门 宣誓 就任 副总统 之后 数日 ， 即 接替 罗斯 福任 总统 前 的 数 个 月 ， 他 公然 出席 了 彭德格斯特 的 丧礼 。
+ADV VERB PART VERB PUNCT PROPN VERB VERB NOUN PART VERB PUNCT ADV VERB PROPN PROPN NOUN PART PART NUM NUM NOUN PUNCT PRON ADV VERB PART PROPN PART NOUN PUNCT
+其枪机是以AK-47的双大形闭锁锁耳枪机为蓝本，并且经过相当的修改使其适用于大威力的反器材步枪上。
+其 枪机 是 以 AK - 47 的 双 大 形闭 锁锁 耳枪机 为 蓝本 ， 并且 经过 相当 的 修改 使 其 适用于 大 威力 的 反器材 步枪 上 。
+PRON NOUN VERB ADP NOUN PUNCT NUM PART NUM ADJ NOUN VERB PROPN VERB NOUN PUNCT ADV ADP ADJ PART NOUN VERB PRON VERB ADJ NOUN PART ADJ NOUN PART PUNCT
+哥伦比亚比索是哥伦比亚正在流通使用的货币。
+哥伦比亚 比索 是 哥伦比亚 正在 流通 使用 的 货币 。
+PROPN NOUN VERB PROPN ADV NOUN VERB PART NOUN PUNCT
+参加哥德堡号建造工作的人大约有100至150人，其中约有80人是不领取任何报酬的自愿者。
+参加 哥德 堡号 建造 工作 的 人 大约 有 100 至 150 人 ， 其中 约 有 80 人 是 不 领取 任何 报酬 的 自愿者 。
+VERB NOUN NOUN NOUN NOUN PART NOUN ADV VERB NUM CCONJ NUM NOUN PUNCT NOUN ADV VERB NUM NOUN VERB ADV VERB DET NOUN PART NOUN PUNCT
+这个结果来自于次文化成员多样化的喜好。
+这个 结果 来自于 次 文化 成员 多样化 的 喜好 。
+DET NOUN VERB NUM NOUN NOUN NOUN PART NOUN PUNCT
+随着冬季及冰雪的来临渡过塞尼奥河的任何企图是不可能的，第8军团在1944年的行动因而结束。
+随着 冬季 及 冰雪 的 来临 渡过 塞尼奥河 的 任何 企图 是 不 可能 的 ， 第8 军团 在 1944年 的 行动 因而 结束 。
+ADP NOUN CCONJ NOUN PART VERB VERB PROPN PART DET NOUN VERB ADV VERB PART PUNCT NUM NOUN ADP NOUN PART NOUN ADV VERB PUNCT
+他表示一定是有相当数量的猎人聚在一起，才能盖起这样的建筑物。
+他 表示 一定 是 有 相当 数量 的 猎人 聚 在一起 ， 才能 盖起 这样 的 建筑物 。
+PRON VERB ADV VERB VERB ADJ NOUN PART NOUN VERB ADV PUNCT ADV VERB PRON PART NOUN PUNCT
+科学家亦发现，人在悲痛时流的眼泪和伤风感冒及风沙入眼时流的眼泪，其化学成分是不同的。
+科学家 亦 发现 ， 人 在 悲痛 时流 的 眼泪 和 伤风 感冒 及 风沙 入眼 时流 的 眼泪 ， 其 化学 成分 是 不同 的 。
+NOUN ADV VERB PUNCT NOUN ADP NOUN NOUN PART NOUN CCONJ NOUN NOUN CCONJ NOUN NOUN NOUN PART NOUN PUNCT PRON NOUN NOUN VERB VERB PART PUNCT
+大型的食草哺乳动物，如牛是人类早期农业的重要组成部分，几乎所有的文明的早期农业都依赖于牛等牲畜的使用。
+大型 的 食草 哺乳 动物 ， 如 牛 是 人类 早期 农业 的 重要 组成 部分 ， 几乎 所有 的 文明 的 早期 农业 都 依赖于 牛等 牲畜 的 使用 。
+ADJ PART NOUN NOUN NOUN PUNCT ADV NOUN VERB NOUN NOUN NOUN PART ADJ NOUN NOUN PUNCT ADV DET PART NOUN PART NOUN NOUN ADV VERB VERB NOUN PART NOUN PUNCT
+宋军在王韶的率领下于该年占领唃厮啰国熙河地区，这迫使唃厮啰国与西夏联合，出兵攻打北宋的河州，杀其守将。
+宋军 在 王韶 的 率领 下于 该 年 占领 唃厮 啰国 熙河 地区 ， 这 迫使 唃厮 啰国 与 西夏 联合 ， 出兵 攻打 北宋 的 河州 ， 杀 其 守将 。
+PROPN ADP PROPN PART VERB NOUN DET NUM VERB NOUN NOUN VERB NOUN PUNCT PRON VERB NOUN NOUN CCONJ PROPN VERB PUNCT VERB VERB NOUN PART NOUN PUNCT VERB PRON NOUN PUNCT
+从此法国成为欧洲第二个拥有住房抗告权的国家。
+从此 法国 成为 欧洲 第二 个 拥有 住房 抗告权 的 国家 。
+ADV PROPN VERB PROPN NUM NUM VERB NOUN NOUN PART NOUN PUNCT
+随后，唐开始集结陆海部队准备在649年再一次大规模攻高句丽。
+随后 ， 唐开始 集结 陆海 部队 准备 在 649年 再 一 次 大规模 攻高句丽 。
+ADV PUNCT PROPN ADJ NOUN NOUN VERB ADP NUM ADV NUM NUM ADV VERB PUNCT
+宦官李辅国奉承肃宗，离间玄宗与肃宗的关系，迫使玄宗软禁于太极宫（西内）甘露殿。
+宦官 李辅国 奉承 肃宗 ， 离间 玄宗 与 肃宗 的 关系 ， 迫使 玄宗 软禁于 太极宫 （ 西内 ） 甘露 殿 。
+ADV PROPN VERB NOUN PUNCT VERB NOUN CCONJ NOUN PART NOUN PUNCT VERB ADJ NOUN PROPN PUNCT PROPN PUNCT VERB NOUN PUNCT
+玄宗虽然没有发动过像唐太宗、唐高宗朝时那样的大规模的开边军事行动。
+玄宗 虽然 没有 发动 过 像 唐太宗 、 唐 高 宗朝 时 那样 的 大规模 的 开边 军事 行动 。
+NOUN SCONJ ADV VERB PART ADP PROPN PUNCT PROPN VERB VERB PART PRON PART ADJ PART NOUN NOUN NOUN PUNCT
+自此以后，没有人敢再有谏争之言了。
+自此以后 ， 没有 人 敢 再有 谏争 之 言 了 。
+VERB PUNCT VERB NOUN VERB VERB VERB PART NOUN PART PUNCT
+90年代后期他的财务状况和名声出现了通货膨胀。
+90年代 后期 他 的 财务 状况 和 名声 出现 了 通货膨胀 。
+NOUN NOUN PRON PART NOUN NOUN CCONJ NOUN VERB PART NOUN PUNCT
+唐诗咏中学时开始兼职模特儿，直至2000年参演“香港电台”的电视剧《青春@Y2K》同期演员有余文乐、蔡卓妍、黎国辉等。
+唐诗咏 中学 时 开始 兼职 模特儿 ， 直至 2000年 参演 “ 香港 电台 ” 的 电视剧 《 青春 @ Y2K 》 同期 演员 有 余文乐 、 蔡卓妍 、 黎国辉 等 。
+PROPN NOUN PART VERB VERB NOUN PUNCT VERB NOUN VERB PUNCT PROPN NOUN PUNCT PART NOUN PUNCT NOUN PUNCT PROPN PUNCT NOUN NOUN VERB PROPN PUNCT PROPN PUNCT PROPN PART PUNCT
+据《淡水厅志》记载：“淡水开垦，自奇里岸（今唭哩岸）始。”
+据 《 淡水 厅志 》 记载 ： “ 淡水 开垦 ， 自奇 里岸 （ 今唭 哩岸 ） 始 。 ”
+ADP PUNCT PROPN NOUN PUNCT VERB PUNCT PUNCT NOUN VERB PUNCT NOUN NOUN PUNCT NOUN NOUN PUNCT NOUN PUNCT PUNCT
+唯心论直接相对于唯物论，后者认为世界的基本成分为物质，我们对世界之认识主要是通过物质，并将之视作为一种物质形式与过程。
+唯心论 直接 相对于 唯物论 ， 后者 认为 世界 的 基本 成分 为 物质 ， 我们 对 世界 之 认识 主要 是 通过 物质 ， 并 将 之视 作为 一 种 物质 形式 与 过程 。
+PROPN ADV VERB NOUN PUNCT NOUN VERB NOUN PART ADJ NOUN VERB NOUN PUNCT PRON ADP NOUN PART NOUN ADV VERB VERB NOUN PUNCT ADV ADV VERB VERB NUM NUM NOUN NOUN CCONJ NOUN PUNCT
+投资贷款由贷款人发出，并一直在其资产负债表上体现，直至贷款到期。
+投资 贷款 由 贷款人 发出 ， 并 一直 在 其 资产 负债 表上 体现 ， 直至 贷款 到期 。
+NOUN NOUN ADP NOUN VERB PUNCT ADV ADV ADP PRON NOUN NOUN NOUN VERB PUNCT VERB NOUN VERB PUNCT
+魏惠王怨恨商鞅用欺骗的手段俘虏公子卬、击败魏军，将其驱逐回秦国。
+魏惠 王怨 恨商 鞅用 欺骗 的 手段 俘虏 公子 卬 、 击败 魏军 ， 将 其 驱逐回 秦国 。
+PROPN PROPN NOUN VERB NOUN PART NOUN VERB NOUN VERB PUNCT VERB NOUN PUNCT X PRON NOUN PROPN PUNCT
+一般来说，同一款间格的单边单位比非单边的呎价约贵20%。
+一般来说 ， 同一 款 间格 的 单边 单位 比 非 单边 的 呎价 约 贵 20% 。
+ADV PUNCT DET NUM NOUN PART ADJ NOUN ADP ADV VERB PART NOUN ADV VERB NUM PUNCT
+她最擅长运用魔咒施加于药草，并召唤来神明的力量于自身，将人永远变成猪等动物。
+她 最 擅长 运用 魔咒 施加于 药草 ， 并 召唤 来 神明 的 力量 于 自身 ， 将 人 永远 变成 猪等 动物 。
+PRON ADV VERB NOUN ADV NOUN NOUN PUNCT ADV VERB VERB NOUN PART NOUN ADP PRON PUNCT X NOUN ADV VERB ADJ NOUN PUNCT
+虽然西克索人只统治埃及的北部，但整个埃及都向他们进贡。
+虽然 西克索人 只 统治 埃及 的 北部 ， 但 整个 埃及 都 向 他们 进贡 。
+SCONJ PROPN ADV VERB PROPN PART NOUN PUNCT ADV DET PROPN ADV ADP PRON VERB PUNCT
+喜市于2003年提供居民范围庞大的无线网路服务，受到全国性的瞩目。
+喜市 于 2003年 提供 居民 范围 庞大 的 无线 网路 服务 ， 受到 全国性 的 瞩目 。
+VERB ADP NOUN VERB NOUN NOUN VERB PART ADJ NOUN NOUN PUNCT VERB ADJ PART NOUN PUNCT
+在《恶灵古堡》中，植物也可以感染病毒而成为丧尸。
+在 《 恶灵 古堡 》 中 ， 植物 也 可以 感染 病毒 而 成为 丧尸 。
+ADP PUNCT ADJ NOUN PUNCT PART PUNCT NOUN ADV VERB VERB NOUN PART VERB NOUN PUNCT
+1825年1月28日皮克特生于维吉尼亚州的里奇蒙，1846年于西点军校毕业。
+1825年 1月 28日 皮克 特生 于 维吉尼亚州 的 里 奇蒙 ， 1846年 于 西点 军校 毕业 。
+NOUN NOUN NOUN VERB NOUN ADP PROPN PART PART VERB PUNCT NOUN ADP PROPN NOUN VERB PUNCT
+皮克特在内战末年一直留在维吉尼亚州。
+皮克特 在 内战 末年 一直 留 在 维吉尼亚州 。
+NOUN ADP NOUN NOUN ADV VERB ADP PROPN PUNCT
+他也是首位担任公务员的英国王室成员。
+他 也 是 首位 担任 公务员 的 英国 王室 成员 。
+PRON ADV VERB NOUN VERB NOUN PART PROPN PROPN NOUN PUNCT
+乔治王子和玛丽娜公主的婚姻是英国王室最后一桩门当户对的婚姻。
+乔治 王子 和 玛丽娜 公主 的 婚姻 是 英国 王室 最后 一 桩 门当户对 的 婚姻 。
+PROPN NOUN CCONJ NOUN NOUN PART NOUN VERB PROPN NOUN ADV NUM NUM VERB PART NOUN PUNCT
+玛丽娜公主生于1906年，比乔治王子年幼四岁。
+玛丽娜 公主 生于 1906年 ， 比 乔治 王子年 幼四 岁 。
+NOUN NOUN VERB NOUN PUNCT ADP VERB PROPN NOUN NUM PUNCT
+直到1934年8月，应玛丽娜公主的姐姐奥尔加公主和姐夫保罗王子的邀请，乔治王子来到南斯拉夫才和玛丽娜公主订婚。
+直到 1934年 8月 ， 应玛丽娜 公主 的 姐姐 奥尔加 公主 和 姐夫 保罗 王子 的 邀请 ， 乔治 王子 来到 南斯拉夫 才 和 玛丽娜 公主 订婚 。
+VERB NOUN NOUN PUNCT VERB NOUN PART NOUN PROPN NOUN CCONJ NOUN VERB NOUN PART NOUN PUNCT PROPN NOUN VERB PROPN ADV ADP NOUN NOUN VERB PUNCT
+在这之后，他接拍了一部名为《我们是马歇尔》的电影，这部电影讲述的是大学橄榄球队中发生的故事，不过并没有获得霹雳娇娃那样的成功。
+在 这 之后 ， 他 接拍 了 一 部 名 为 《 我们 是 马歇尔 》 的 电影 ， 这部 电影 讲述 的 是 大学 橄榄 球队 中 发生 的 故事 ， 不过 并没有 获得 霹雳 娇娃 那样 的 成功 。
+ADP PRON PART PUNCT PRON VERB PART NUM NUM NOUN VERB PUNCT PRON VERB PROPN PUNCT PART NOUN PUNCT PRON NOUN VERB PART VERB NOUN NOUN NOUN PART VERB PART NOUN PUNCT ADV ADV VERB NOUN NOUN VERB PART NOUN PUNCT
+汉密尔顿在当时被视为棒球界的一颗新星。
+汉密尔顿 在 当时 被 视为 棒球界 的 一 颗 新星 。
+PROPN ADP NOUN X VERB NOUN PART NUM NUM NOUN PUNCT
+在光纤通讯中，单模光纤是一种设计用来传送单一光束（模）的光纤。
+在 光纤 通讯 中 ， 单模 光纤 是 一 种 设计 用来 传送 单一 光束 （ 模 ） 的 光纤 。
+ADP NOUN NOUN PART PUNCT ADJ NOUN VERB NUM NUM NOUN VERB VERB ADJ NOUN PUNCT NOUN PUNCT PART NOUN PUNCT
+通常此光束内有多种波长的光。
+通常 此 光束 内 有 多种 波长 的 光 。
+ADV DET NOUN PART VERB ADV PROPN PART NOUN PUNCT
+大众被邀请参观实验室的设施，目睹实验室有关科学技术的演示。
+大众 被 邀请 参观 实验室 的 设施 ， 目睹 实验室 有关 科学 技术 的 演示 。
+NOUN X VERB VERB NOUN PART NOUN PUNCT VERB NOUN ADP NOUN NOUN PART NOUN PUNCT
+火箭发动机直到1940年代中期经常被称为喷射发动机。
+火箭 发动机 直到 1940年代 中期 经常 被 称为 喷射 发动机 。
+NOUN NOUN ADP NOUN NOUN ADV X VERB VERB NOUN PUNCT
+1917年，北白川宫成久王与王妃也亲自前往视查。
+1917年 ， 北白 川宫 成久王 与 王妃 也 亲自 前往 视查 。
+NOUN PUNCT PROPN NOUN NOUN CCONJ NOUN ADV ADV VERB VERB PUNCT
+1980年由陈宗仁接任，1982年配合嘉义市升格为省辖市，校名为嘉义市立民生国民中学。
+1980年 由 陈宗仁 接任 ， 1982年 配合 嘉义市 升格 为 省辖市 ， 校名 为 嘉义 市立 民生 国民 中学 。
+NOUN ADP PROPN VERB PUNCT NOUN VERB NOUN VERB VERB NOUN PUNCT NOUN ADP PROPN ADJ NOUN NOUN NOUN PUNCT
+嘉莉迪在参加《超级名模生死斗》前是一位摄影师，也曾担任过演员。
+嘉莉迪 在 参加 《 超级 名 模生 死斗 》 前 是 一 位 摄影师 ， 也 曾 担任 过 演员 。
+NOUN ADP VERB PUNCT ADJ VERB NOUN NOUN PUNCT PART VERB NUM NUM NOUN PUNCT ADV ADV VERB PART NOUN PUNCT
+40楼为Penthouse，设4个复式单位。
+40 楼 为 Penthouse ， 设 4 个 复式 单位 。
+NUM NOUN VERB NOUN PUNCT VERB NUM NUM NOUN NOUN PUNCT
+另外，嘉薛地喜爱研究历史，二战前曾发表一些有关香港通商史和商业史的文章。
+另外 ， 嘉薛 地 喜爱 研究 历史 ， 二战 前 曾 发表 一些 有关 香港 通商史 和 商业史 的 文章 。
+ADV PUNCT VERB PART VERB VERB NOUN PUNCT PROPN PART ADV VERB NUM ADP PROPN NOUN CCONJ NOUN PART NOUN PUNCT
+正传《嘉薰医生》最初是作者陈嘉薰运用自身形象进行创作。
+正传 《 嘉薰 医生 》 最初 是 作者 陈嘉薰 运用 自身 形象 进行 创作 。
+NOUN PUNCT PROPN NOUN PUNCT ADV VERB NOUN PROPN VERB PRON NOUN VERB NOUN PUNCT
+学校亦于1956年成立了香港的第一队香港红十字会青年团（Youth Unit One），其后逐渐普及于其他中学，成为香港其中一个最具规模的制服团体。
+学校 亦 于 1956年 成立 了 香港 的 第一 队 香港 红十字会 青年团 （ Youth Unit One ） ， 其后 逐渐 普及于 其他 中学 ， 成为 香港 其中 一个 最 具 规模 的 制服 团体 。
+NOUN ADV ADP NOUN VERB PART PROPN PART NUM NUM PROPN PROPN PROPN PUNCT PROPN NOUN VERB PUNCT PUNCT ADV ADV VERB DET NOUN PUNCT VERB PROPN NOUN NUM ADV VERB NOUN PART NOUN NOUN PUNCT
+深蓝色的背心绒布连身百折裙，配白色恤衫、蓝色的领带和腰带，深蓝色的短袜和黑色皮鞋。
+深蓝色 的 背心 绒布 连 身百 折裙 ， 配白色 恤衫 、 蓝色 的 领带 和 腰带 ， 深蓝色 的 短袜 和 黑色 皮鞋 。
+NOUN PART NOUN VERB ADV NOUN NOUN PUNCT VERB NOUN PUNCT NOUN PART NOUN CCONJ NOUN PUNCT NOUN PART NOUN CCONJ NOUN NOUN PUNCT
+2011年1月8日，她在亚利桑那州图森市的Safeway超级市场外举办“国会就在你的街角”（Congress on Your Corner）活动时遭枪手击中头部受重伤，当时被枪手击中的另外还有18人。
+2011年 1月 8日 ， 她 在 亚利桑那州 图森市 的 Safeway 超级 市场 外 举办 “ 国会 就 在 你 的 街角 ” （ Congress on Your Corner ） 活动 时 遭枪 手击 中头部 受 重伤 ， 当时 被 枪手 击中 的 另外 还有 18 人 。
+NOUN NOUN NOUN PUNCT PRON ADP PROPN NOUN PART PROPN ADJ NOUN PART VERB PUNCT NOUN ADV ADP PRON PART NOUN PUNCT PUNCT PROPN ADP PROPN PROPN PUNCT NOUN PART ADV VERB NOUN VERB NOUN PUNCT NOUN X NOUN VERB PART ADV CCONJ NUM NOUN PUNCT
+她也是该州历史上最年轻的女性参议员。
+她 也 是 该州 历史 上 最 年轻 的 女性 参议员 。
+PRON ADV VERB ADJ NOUN PART ADV VERB PART NOUN NOUN PUNCT
+噶哈巫语对数词的称呼与台湾各原住民族的数词称呼法，或多或少有相似之处。
+噶哈巫语 对 数词 的 称呼 与 台湾 各 原住民族 的 数词 称 呼法 ， 或 多 或 少有 相似 之 处 。
+PROPN ADP NUM PART NOUN CCONJ PROPN DET NOUN PART NOUN VERB NOUN PUNCT CCONJ VERB CCONJ VERB ADJ PART NOUN PUNCT
+1745年，准噶尔汗国爆发大瘟疫，五十岁的噶尔丹策零9月在伊犁染病去世。
+1745年 ， 准噶尔 汗国 爆发 大瘟疫 ， 五十 岁 的 噶尔 丹策 零9月 在 伊犁 染病 去世 。
+NOUN PUNCT NOUN NOUN VERB NOUN PUNCT NUM NUM PART NOUN NOUN NOUN VERB PROPN VERB VERB PUNCT
+而动态性质的名物化以谓语等词加上后缀/-an/等表示，其特性为词语在句中有动态语义（active）连系。
+而 动态 性质 的 名物化 以 谓语 等 词 加上 后缀 /- an / 等 表示 ， 其 特性 为 词语 在 句 中 有 动态 语义 （ active ） 连系 。
+ADV NOUN NOUN PART NOUN ADP NOUN PART NOUN VERB NOUN VERB NOUN PUNCT NUM VERB PUNCT PRON NOUN ADP NOUN ADP NOUN PART VERB NOUN NOUN PUNCT PROPN PUNCT NOUN PUNCT
+萧瑜认为严光拜访光武帝，表明其爱慕虚荣。
+萧瑜 认为 严光 拜访 光 武帝 ， 表明 其 爱慕 虚荣 。
+ADV VERB VERB VERB NOUN NOUN PUNCT VERB PRON NOUN NOUN PUNCT
+因实际持有单位台湾银行对古迹维护方式及见解不同，该古迹连同周边附属建物于1993年后严重荒废。
+因 实际 持有 单位 台湾 银行 对 古迹 维护 方式 及 见解 不同 ， 该 古迹 连同 周边 附属 建物 于 1993年 后 严重 荒废 。
+ADP ADJ VERB NOUN PROPN NOUN ADP NOUN NOUN NOUN CCONJ NOUN VERB PUNCT DET NOUN ADP NOUN VERB NOUN ADP NOUN PART ADV VERB PUNCT
+四川北路站周边，目前仍以20世纪建造的石库门住宅和公园绿地为主。
+四川 北路站 周边 ， 目前 仍 以 20 世纪 建造 的 石库门 住宅 和 公园 绿地 为主 。
+PROPN PROPN NOUN PUNCT NOUN ADV ADP NUM NOUN VERB PART NOUN NOUN CCONJ NOUN NOUN VERB PUNCT
+明太祖洪武四年（1371年），四川地区并入明朝版图。
+明太 祖洪武四年 （ 1371年 ） ， 四川 地区 并入 明朝 版图 。
+PROPN NOUN PUNCT NOUN PUNCT PUNCT PROPN NOUN VERB NOUN NOUN PUNCT
+8世纪的鄂尔浑碑铭中有一部分是回纥人刻成的，但其语言和后东突厥汗国时期的碑刻基本一致，称为古突厥语。
+8 世纪 的 鄂尔 浑碑 铭中 有 一部分 是 回纥人 刻成 的 ， 但 其 语言 和 后东 突厥 汗国 时期 的 碑刻 基本 一致 ， 称为 古突 厥语 。
+NUM NOUN PART ADJ NOUN NOUN VERB NUM VERB NOUN NOUN PART PUNCT ADV PRON NOUN CCONJ NOUN ADV NOUN NOUN PART NOUN ADV NOUN PUNCT VERB NOUN NOUN PUNCT
+国际天文联会（IAU）将为该组卫星保留因纽特神话名。
+国际 天文 联会 （ IAU ） 将 为 该 组 卫星 保留 因 纽特 神话 名 。
+NOUN NOUN NOUN PUNCT PROPN PUNCT ADV ADP DET NUM NOUN VERB ADP NOUN NOUN NOUN PUNCT
+十公主有别于一般皇室宗女，她从儿时起，便经常跟着皇父与大臣公卿会面，亦常与亲哥哥及堂兄弟们混在一起，因此熟知政务。
+十 公主 有别于 一般 皇室 宗女 ， 她 从 儿时 起 ， 便 经常 跟着 皇父 与 大臣 公卿 会面 ， 亦 常 与 亲哥哥 及堂 兄弟们 混 在一起 ， 因此 熟知 政务 。
+NUM NOUN ADV ADJ NOUN NOUN PUNCT PRON ADP NOUN PART PUNCT ADV ADV ADP NOUN CCONJ NOUN PROPN VERB PUNCT ADV ADV ADP NOUN VERB NOUN VERB ADV PUNCT ADV VERB NOUN PUNCT
+车站距固始县城约30公里，距西安站822公里，距南京站333公里。
+车站 距固 始县 城约 30 公里 ， 距 西安站 822 公里 ， 距 南京站 333 公里 。
+NOUN NOUN NOUN NOUN NUM NUM PUNCT VERB PROPN NUM NUM PUNCT VERB PROPN NUM NUM PUNCT
+国联季后赛在NFC冠军赛两队竞争乔治哈拉斯杯达到高潮。
+国联 季后赛 在 NFC 冠军赛 两 队 竞争 乔治哈拉斯杯 达到 高潮 。
+NOUN NOUN ADP PROPN NOUN NUM NUM NOUN PROPN VERB NOUN PUNCT
+1993年，该馆文物库房迁到柏林寺藏经楼。
+1993年 ， 该馆 文物 库房 迁到 柏林 寺藏 经楼 。
+NOUN PUNCT NOUN NOUN VERB NOUN PROPN NOUN NOUN PUNCT
+国际友谊博物馆是中华人民共和国国家文物局直属的国家级博物馆，“专门收藏、保护、研究和展示新中国对外交往中党和国家领导人受赠的外交礼品”。
+国际 友谊 博物馆 是 中华 人民 共和国 国家 文物局 直属 的 国家级 博物馆 ， “ 专门 收藏 、 保护 、 研究 和 展示 新 中国 对外 交往 中 党 和 国家 领导人 受赠 的 外交 礼品 ” 。
+NOUN NOUN NOUN VERB PROPN NOUN NOUN NOUN NOUN VERB PART ADJ NOUN PUNCT PUNCT ADV VERB PUNCT NOUN PUNCT NOUN CCONJ VERB ADJ PROPN ADJ VERB PART NOUN CCONJ NOUN NOUN VERB PART NOUN NOUN PUNCT PUNCT
+此外还作为国际奥委会的代表进行技术监督，组织四年一度的世界射击锦标赛；促进和发展教学计划与方法、出版联合会通讯和奖励对国际射联有突出贡献的个人。
+此外 还 作为 国际 奥委会 的 代表 进行 技术 监督 ， 组织 四 年 一度 的 世界 射击 锦标赛 ； 促进 和 发展 教学 计划 与 方法 、 出版 联合会 通讯 和 奖励 对 国际 射联 有 突出 贡献 的 个人 。
+ADV ADV ADP NOUN NOUN PART NOUN VERB NOUN NOUN PUNCT VERB NUM NUM ADJ PART NOUN NOUN NOUN PUNCT VERB CCONJ VERB NOUN NOUN CCONJ NOUN PUNCT NOUN NOUN NOUN CCONJ NOUN ADP NOUN NOUN VERB ADJ NOUN PART NOUN PUNCT
+国际气象节的发起人是一个法国人。
+国际 气象节 的 发起人 是 一个 法国人 。
+NOUN NOUN PART NOUN VERB NUM NOUN PUNCT
+各国不论政治、经济、社会制度上有何差异，都有义务互相协助。
+各国 不论 政治 、 经济 、 社会 制度 上 有 何 差异 ， 都 有 义务 互相 协助 。
+PRON ADV NOUN PUNCT NOUN PUNCT NOUN NOUN PART VERB DET NOUN PUNCT ADV VERB NOUN ADV VERB PUNCT
+国家有权对其在国外的本国国民的合法权益进行保护，这是国家属人优越权的重要内容之一。
+国家 有 权 对 其 在 国外 的 本国 国民 的 合法 权益 进行 保护 ， 这是 国家 属 人 优越权 的 重要 内容 之一 。
+NOUN VERB NOUN ADP PRON ADP NOUN PART NOUN NOUN PART ADJ NOUN VERB NOUN PUNCT VERB NOUN VERB NOUN NOUN PART ADJ NOUN NOUN PUNCT
+追求利润的动机不断推动着一般国际法的向前发展和海商法的形成。
+追求 利润 的 动机 不断 推动 着 一般 国际法 的 向前 发展 和 海商法 的 形成 。
+VERB NOUN PART NOUN ADV VERB PART ADJ NOUN PART ADV NOUN CCONJ PROPN PART NOUN PUNCT
+该机构的宗旨为“致力于推动电磁理论及其相关的先进应用，以及在全球范围促进电磁学的教育和学术交流。”
+该 机构 的 宗旨 为 “ 致力于 推动 电磁 理论 及其 相关 的 先进 应用 ， 以及 在 全球 范围 促进 电磁学 的 教育 和 学术 交流 。 ”
+DET NOUN PART NOUN VERB PUNCT VERB VERB NOUN NOUN CCONJ ADJ PART ADJ NOUN PUNCT CCONJ ADP NOUN NOUN VERB NOUN PART NOUN CCONJ NOUN NOUN PUNCT PUNCT
+这场战役于1553年12月25日发生在智利图卡佩尔。
+这 场 战役 于 1553年 12月 25日 发生 在 智利图卡佩尔 。
+DET NUM NOUN ADP NOUN NOUN NOUN VERB ADV VERB PUNCT
+在南部环礁的一个灯塔小岛上居住着大量海鸟。
+在 南部 环礁 的 一个 灯塔 小岛 上 居住 着 大量 海鸟 。
+ADP NOUN NOUN PART NUM NOUN NOUN PART VERB PART NUM NOUN PUNCT
+紧随其后，他们研发了喷气动力的Tu-16轰炸机（北大西洋公约组织命名：獾Badger）。
+紧随 其后 ， 他们 研发 了 喷气 动力 的 Tu - 16 轰炸机 （ 北大西洋 公约 组织 命名 ： 獾Badger ） 。
+VERB NOUN PUNCT PRON VERB PART ADJ NOUN PART NOUN PUNCT NUM NOUN PUNCT PROPN NOUN NOUN VERB PUNCT PROPN PUNCT PUNCT
+最初总统只是象征式的国家元首，政务由国会主持。
+最初 总统 只是 象征式 的 国家 元首 ， 政务 由 国会 主持 。
+ADJ NOUN ADV PROPN PART NOUN NOUN PUNCT NOUN ADP NOUN VERB PUNCT
+虽然大部分的总统由民主方法选出，也有部分国家元首是发动政变或起义夺权而产生（如古巴前国务委员会主席菲德尔·卡斯特罗）。
+虽然 大部分 的 总统 由 民主 方法 选出 ， 也 有 部分 国家 元首 是 发动 政变 或 起义 夺权 而 产生 （ 如 古巴 前 国务 委员会 主席 菲德尔·卡斯特罗 ） 。
+SCONJ NUM PART NOUN ADP NOUN NOUN VERB PUNCT ADV VERB NUM NOUN NOUN VERB VERB NOUN CCONJ NOUN VERB PART VERB PUNCT ADV PROPN ADJ NOUN NOUN NOUN PROPN PUNCT PUNCT
+2010年1月12日海地地震中三层中较高的两层倒塌。
+2010年 1月 12日 海地 地震 中 三 层 中 较 高 的 两 层 倒塌 。
+NOUN NOUN NOUN PROPN NOUN PART NUM NUM PART ADV VERB PART NUM NUM NOUN PUNCT
+于2004年12月，国家应变计划正式生效。
+于 2004年 12月 ， 国家 应变 计划 正式 生效 。
+ADP NOUN NOUN PUNCT NOUN NOUN NOUN ADV VERB PUNCT
+国家足球博物馆（The National Football Museum）是英国的一座博物馆。
+国家 足球 博物馆 （ The National Football Museum ） 是 英国 的 一 座 博物馆 。
+NOUN NOUN NOUN PUNCT DET NOUN PROPN PROPN PUNCT VERB PROPN PART NUM NUM NOUN PUNCT
+74军成军不久随即参与1937年8月13日爆发之淞沪会战，51师在罗店、58师在蕴藻滨战场，随后因损失过重于11月9日撤出淞沪战场休整。
+74军 成军 不久随即 参与 1937年 8月 13日 爆发 之 淞 沪 会战 ， 51师 在 罗店 、 58师 在 蕴藻滨 战场 ， 随后 因 损失 过 重于 11月 9日 撤出 淞沪 战场 休整 。
+NOUN NOUN VERB VERB NOUN NOUN NOUN VERB PART NOUN PROPN NOUN PUNCT NUM ADP PROPN PUNCT NOUN ADP NOUN NOUN PUNCT ADV ADP VERB PART VERB NOUN NOUN VERB ADJ NOUN VERB PUNCT
+1941年12月日军偷袭珍珠港，随后进攻缅甸，企图切断中国唯一对外之陆上补给线。
+1941年 12月 日军 偷袭 珍珠港 ， 随后 进攻 缅甸 ， 企图 切断 中国 唯一 对外 之 陆上 补给线 。
+NOUN NOUN NOUN VERB NOUN PUNCT ADV VERB PROPN PUNCT VERB VERB PROPN ADJ ADJ PART NOUN NOUN PUNCT
+第五军军长杜聿明后在史迪威压力下兼任远征军代理司令长官。
+第五 军 军长 杜聿明 后 在 史迪威 压力 下 兼任 远征军 代理 司令 长官 。
+NUM NOUN NOUN PROPN PART ADP NOUN NOUN PART VERB NOUN VERB NOUN NOUN PUNCT
+此时，该军下辖第33师、第117师及独立第6旅，在苏鲁战区担任敌后战场对日作战和被共产党彭雪枫军偷袭，政府军伤亡惨重。
+此时 ， 该 军下 辖 第33 师 、 第117 师及 独立 第6 旅 ， 在 苏鲁 战区 担任 敌后 战场 对 日 作战 和 被 共产党 彭雪 枫军 偷袭 ， 政府军 伤亡 惨重 。
+NOUN PUNCT DET NOUN VERB NUM NOUN PUNCT PROPN NOUN ADJ NUM NOUN PUNCT ADP PROPN NOUN VERB ADJ NOUN ADP PROPN VERB CCONJ X PROPN NOUN NOUN VERB PUNCT NOUN NOUN VERB PUNCT
+当时的香港政府后来把香港以南的航线分予国泰经营，以北的则交予国泰唯一本地对手，怡和洋行属下的香港航空经营。
+当时 的 香港 政府 后来 把 香港 以南 的 航线 分予 国泰 经营 ， 以北 的 则 交予 国泰 唯一 本地 对手 ， 怡 和 洋行 属下 的 香港 航空 经营 。
+NOUN PART PROPN NOUN ADV X PROPN PART PART NOUN VERB PROPN VERB PUNCT PART PART ADV VERB PROPN ADJ NOUN NOUN PUNCT NOUN CCONJ NOUN NOUN PART PROPN NOUN VERB PUNCT
+1946年11月，国立中央大学迁回南京。
+1946年 11月 ， 国立 中央 大学 迁回 南京 。
+NOUN NOUN PUNCT ADJ NOUN NOUN VERB PROPN PUNCT
+1949年1月，南京政府的失败已经成为定局，政府机关开始南迁，中大校长周鸿经也奉命迁校。
+1949年 1月 ， 南京 政府 的 失败 已经 成为 定局 ， 政府 机关 开始 南迁 ， 中大 校长 周鸿经 也 奉命 迁校 。
+NOUN NOUN PUNCT PROPN NOUN PART NOUN ADV VERB NOUN PUNCT NOUN NOUN VERB VERB PUNCT ADJ NOUN PROPN ADV VERB VERB PUNCT
+中央人民政府任命潘菽（原南京大学校长）为校长，孙叔平（原南京市文教局长）为第一副校长，李方训（原金陵大学校长）为第二副校长，保留原南大、金大必要职员组织行政机关。
+中央 人民 政府 任命 潘菽 （ 原 南京 大学 校长 ） 为 校长 ， 孙叔平 （ 原 南京市 文教 局长 ） 为 第一 副校长 ， 李方训 （ 原金陵 大学 校长 ） 为 第二 副 校长 ， 保留 原南大 、 金大 必要 职员 组织 行政 机关 。
+NOUN NOUN NOUN VERB NOUN PUNCT ADJ PROPN NOUN NOUN PUNCT ADP NOUN PUNCT PROPN PUNCT ADJ PROPN NOUN NOUN PUNCT ADP NUM NOUN PUNCT PROPN PUNCT PROPN NOUN NOUN PUNCT ADP NUM NUM NOUN PUNCT VERB NOUN PUNCT NOUN ADJ NOUN VERB NOUN NOUN PUNCT
+博爱校区的校门目前有两座-北大门、南大门，其中北大门也为博爱校区的主要校门。
+博爱 校区 的 校门 目前 有 两 座 - 北 大门 、 南大门 ， 其中 北 大门 也 为 博爱 校区 的 主要 校门 。
+NOUN NOUN PART NOUN NOUN VERB NUM NUM PUNCT NOUN NOUN PUNCT PROPN PUNCT NOUN NOUN NOUN ADV ADP NOUN NOUN PART ADJ NOUN PUNCT
+目前博爱校区并无餐厅进驻，仅有理发部、外工房，不过周遭有许多小吃店，提供学生饮食的服务。
+目前 博爱 校区 并 无 餐厅 进驻 ， 仅 有 理发部 、 外工房 ， 不过 周遭 有 许多 小吃店 ， 提供 学生 饮食 的 服务 。
+NOUN NOUN NOUN ADV VERB NOUN VERB PUNCT ADV VERB NOUN PUNCT NOUN PUNCT ADV NOUN VERB NUM NOUN PUNCT VERB NOUN NOUN PART NOUN PUNCT
+在这段期间内，有许多球员获选加入国家青年代表队，毕业后也陆续加入各甲组足球队，成为国家代表队的重要来源。
+在 这 段 期间 内 ， 有 许多 球员 获选 加入 国家 青年 代表队 ， 毕业 后 也 陆续 加入 各 甲 组 足球队 ， 成为 国家 代表队 的 重要 来源 。
+ADP DET NUM NOUN PART PUNCT VERB NUM NOUN VERB VERB NOUN NOUN NOUN PUNCT VERB PART ADV ADV VERB DET NUM NUM NOUN PUNCT VERB NOUN NOUN PART ADJ NOUN PUNCT
+屏东农业学校与台北帝国大学（台湾大学前身）、师范学院（台湾师大前身）、台中农学院（中兴大学前身）、台南工学院（成功大学前身），时为台湾五大学府
+屏东 农业 学校 与 台北 帝国 大学 （ 台湾 大学 前身 ） 、 师范 学院 （ 台湾 师大 前身 ） 、 台中 农学院 （ 中兴 大学 前身 ） 、 台南 工学院 （ 成功 大学 前身 ） ， 时 为 台湾 五大 学府
+PROPN NOUN NOUN CCONJ PROPN PROPN NOUN PUNCT PROPN NOUN NOUN PUNCT PUNCT NOUN NOUN PUNCT PROPN PROPN NOUN PUNCT PUNCT PROPN NOUN PUNCT PROPN NOUN NOUN PUNCT PUNCT PROPN NOUN PUNCT PROPN NOUN NOUN PUNCT PUNCT ADV ADP PROPN NUM NOUN
+一楼为供学生自习的K书中心，二楼为期刊阅览室，有数部可上网的电脑供师生查阅、列印资料，并设有咖啡机，三楼为普通阅览室，四楼为邻近音乐教室的“红土艺术空间”与美术教室，五楼为演艺厅。
+一 楼 为 供学生 自习 的 K 书 中心 ， 二楼 为期 刊 阅览室 ， 有 数部 可 上网 的 电脑 供师生 查阅 、 列印 资料 ， 并 设有 咖啡机 ， 三 楼 为 普通 阅览室 ， 四 楼 为 邻近 音乐 教室 的 “ 红土 艺术 空间 ” 与 美术 教室 ， 五 楼 为 演艺厅 。
+NUM NOUN ADP NOUN NOUN PART NOUN NOUN NOUN PUNCT NOUN VERB NOUN NOUN PUNCT VERB NOUN VERB VERB PART NOUN NOUN VERB PUNCT VERB NOUN PUNCT CCONJ VERB NOUN PUNCT NUM NOUN VERB ADJ NOUN PUNCT NUM NOUN VERB ADJ NOUN NOUN PART PUNCT NOUN NOUN NOUN PUNCT CCONJ NOUN NOUN PUNCT NUM NOUN VERB NOUN PUNCT
+1955年国立清华大学于新竹复校，1965年恢复物理系大学部。
+1955年 国立 清华 大学 于 新竹 复校 ， 1965年 恢复 物理系 大学部 。
+NOUN ADJ PROPN NOUN ADP PROPN NOUN PUNCT NOUN VERB NOUN NOUN PUNCT
+但在规划过程中，是否能有足够的讨论时间与效率，一直饱受争议。
+但 在 规划 过程 中 ， 是否 能 有 足够 的 讨论 时间 与 效率 ， 一直 饱受 争议 。
+ADV ADP NOUN NOUN PART PUNCT VERB VERB VERB ADJ PART NOUN NOUN CCONJ NOUN PUNCT ADV VERB NOUN PUNCT
